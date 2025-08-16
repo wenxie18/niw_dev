@@ -1,0 +1,52 @@
+Subject: Request for Recommendation for Young Researcher's Green Card Application
+
+Dear Dr. Demanet,
+
+I hope this email finds you well. My name is Yuan Zi, a recent Ph.D. graduate from University of Houston, where I was mentored by Professors Jiefu Chen and Zhu Han. Currently, I am a Research Scientist at Gowell International, focusing on electromagnetic (EM) well-logging for well-integrity monitoring.
+
+I want to express my gratitude for your impactful contributions to AI in geophysics, particularly your work on Learning with Real Data Without Real Labels: A Strategy for Extrapolated Full-Waveform Inversion with Field Data. I was especially excited to see my co-authored works referenced in your research:
+
+Jin, Y., Zi, Y., Hu, W., Hu, Y., Wu, X., Chen, J., 2022. A Robust Learning Method for Low-Frequency Extrapolation in GPR Full Waveform Inversion, IEEE Geosci. Remote Sens. Lett., 19, 1–5.
+Jin, Y., Hu, W., Wang, S., Zi, Y., Wu, X., Chen, J., 2022. Efficient Progressive Transfer Learning for Full-Waveform Inversion with Extrapolated Low-Frequency Reflection Seismic Data, IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1-10.
+
+Your insightful discussion on leveraging low-frequency extrapolation for FWI aligns closely with my research. It is inspiring to see our contributions advancing the field together.
+
+As an international researcher, I am applying for a green card under the National Interest Waiver (NIW) category, which emphasizes contributions to fields of critical importance such as environmental monitoring and sustainability. To strengthen my application, I am required to provide independent recommendation letters from esteemed researchers.
+
+Given your expertise in AI for geophysics and the connection between your research and mine, I would be deeply honored if you could write a recommendation letter on my behalf. Such a letter would highlight the relevance of my research and its broader implications for public and environmental benefits.
+
+I am happy to provide a draft letter or additional materials for your review if needed. Thank you very much for considering my request. I greatly appreciate your time and guidance.
+
+Best regards,
+Yuan Zi, Ph.D.
+
+Variables Used:
+1. Personal Information:
+   - Yuan Zi
+   - Yuan
+   - Zi
+
+2. Educational Background:
+   - Ph.D.
+   - University of Houston
+   - Jiefu Chen and Zhu Han
+
+3. Professional Experience:
+   - Research Scientist
+   - Gowell International
+
+4. Research & Field:
+   - electromagnetic (EM) well-logging
+   - well-integrity monitoring
+   - environmental monitoring and sustainability
+
+5. Publications:
+   - Jin, Y., Zi, Y., Hu, W., Hu, Y., Wu, X., Chen, J., 2022. A Robust Learning Method for Low-Frequency Extrapolation in GPR Full Waveform Inversion, IEEE Geosci. Remote Sens. Lett., 19, 1–5.
+Jin, Y., Hu, W., Wang, S., Zi, Y., Wu, X., Chen, J., 2022. Efficient Progressive Transfer Learning for Full-Waveform Inversion with Extrapolated Low-Frequency Reflection Seismic Data, IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1-10.
+
+6. Recommender Information:
+   - Demanet
+   - AI in geophysics
+   - Learning with Real Data Without Real Labels: A Strategy for Extrapolated Full-Waveform Inversion with Field Data
+   - leveraging low-frequency extrapolation for FWI
+   - AI for geophysics

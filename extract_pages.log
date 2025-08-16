@@ -1,0 +1,10 @@
+2025-07-20 10:05:55,477 - INFO - Starting page extraction process
+2025-07-20 10:05:55,477 - INFO - Starting page extraction for: Exhibit10.pdf
+2025-07-20 10:05:55,477 - ERROR - Error processing Exhibit10.pdf: [Errno 2] No such file or directory: 'Exhibit10.pdf'
+2025-07-20 10:05:55,478 - ERROR - Failed to extract pages from Exhibit10.pdf
+2025-07-20 10:05:55,478 - INFO - Page extraction process completed
+2025-07-20 10:06:24,367 - INFO - Starting page extraction process
+2025-07-20 10:06:24,367 - INFO - Starting page extraction for: Exhibit10.pdf
+2025-07-20 10:06:24,368 - ERROR - Error processing Exhibit10.pdf: [Errno 2] No such file or directory: 'Exhibit10.pdf'
+2025-07-20 10:06:24,370 - ERROR - Failed to extract pages from Exhibit10.pdf
+2025-07-20 10:06:24,370 - INFO - Page extraction process completed

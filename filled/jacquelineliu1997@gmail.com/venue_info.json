@@ -1,0 +1,34 @@
+{
+  "Proceedings of the (Journal)": {
+    "venue_name": "Proceedings of the (Journal)",
+    "venue_scope": "International",
+    "venue_field": "Computer Science, Artificial Intelligence, Natural Language Processing",
+    "venue_impact_factor": "N/A",
+    "venue_type": "Conference Proceedings (Erroneous label 'Journal' likely; typically ACL/EMNLP proceedings are conferences)",
+    "venue_rank": "A* (For ACL/EMNLP proceedings, in CORE ranking)"
+  },
+  "Science China Information Sciences": {
+    "venue_name": "Science China Information Sciences",
+    "venue_scope": "International",
+    "venue_field": "Information Science, Computer Science, Engineering",
+    "venue_impact_factor": "3.8 (2023)",
+    "venue_type": "Journal",
+    "venue_rank": "B (Typical in Chinese Computer Science rankings; not CORE-listed)"
+  },
+  "EMNLP": {
+    "venue_name": "EMNLP",
+    "venue_scope": "International",
+    "venue_field": "Natural Language Processing, Artificial Intelligence",
+    "venue_impact_factor": "N/A (Conference)",
+    "venue_type": "Conference",
+    "venue_rank": "A* (CORE ranking)"
+  },
+  "ACL": {
+    "venue_name": "ACL",
+    "venue_scope": "International",
+    "venue_field": "Natural Language Processing, Artificial Intelligence, Computational Linguistics",
+    "venue_impact_factor": "N/A (Conference)",
+    "venue_type": "Conference",
+    "venue_rank": "A* (CORE ranking)"
+  }
+}

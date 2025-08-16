@@ -1,0 +1,74 @@
+2025-04-11 21:50:48,511 - INFO - Starting PDF download for scholar ID: KreqRjAAAAAJ
+2025-04-11 21:50:48,511 - INFO - Getting https://scholar.google.com/citations?hl=en&user=KreqRjAAAAAJ&pagesize=100
+2025-04-11 21:50:49,827 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=KreqRjAAAAAJ&pagesize=100 "HTTP/1.1 200 OK"
+2025-04-11 21:50:49,885 - INFO - Getting https://scholar.google.com/citations?hl=en&user=KreqRjAAAAAJ&pagesize=100
+2025-04-11 21:50:51,086 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=KreqRjAAAAAJ&pagesize=100 "HTTP/1.1 200 OK"
+2025-04-11 21:50:51,148 - INFO - Getting https://scholar.google.com/citations?hl=en&tzom=300&user=KreqRjAAAAAJ&view_op=list_mandates&pagesize=100
+2025-04-11 21:50:53,146 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&tzom=300&user=KreqRjAAAAAJ&view_op=list_mandates&pagesize=100 "HTTP/1.1 200 OK"
+2025-04-11 21:50:53,177 - INFO - Created PDF folder at: filled/vaneshieh@gmail.com/pdfs
+2025-04-11 21:50:53,177 - INFO - Found 9 publications
+2025-04-11 21:50:53,345 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:8k81kl-MbHgC
+2025-04-11 21:50:55,163 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:8k81kl-MbHgC "HTTP/1.1 200 OK"
+2025-04-11 21:50:55,603 - WARNING - No PDF URL found for: Understanding consumers’ visual attention in mobile advertisements: An ambulatory eye-tracking study with machine learning techniques
+2025-04-11 21:50:55,604 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:kNdYIx-mwKoC
+2025-04-11 21:50:57,491 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:kNdYIx-mwKoC "HTTP/1.1 200 OK"
+2025-04-11 21:50:58,937 - INFO - Downloading PDF for: Congruence Affects Story Ad Engagement on Social Media
+2025-04-11 21:50:58,938 - ERROR - Error downloading PDF from Delivery.cfm/SSRN_ID4790627_code4704056.pdf: Invalid URL 'Delivery.cfm/SSRN_ID4790627_code4704056.pdf': No scheme supplied. Perhaps you meant https://Delivery.cfm/SSRN_ID4790627_code4704056.pdf?
+2025-04-11 21:50:58,938 - WARNING - Failed to download: Congruence Affects Story Ad Engagement on Social Media.pdf
+2025-04-11 21:51:00,939 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:hqOjcs7Dif8C
+2025-04-11 21:51:03,199 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:hqOjcs7Dif8C "HTTP/1.1 200 OK"
+2025-04-11 21:51:05,569 - WARNING - No PDF URL found for: Shades of Representation: Auto-detection and Perception of Skin-tone Diversity in Visual Marketing Communication
+2025-04-11 21:51:05,570 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:UebtZRa9Y70C
+2025-04-11 21:51:07,330 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:UebtZRa9Y70C "HTTP/1.1 200 OK"
+2025-04-11 21:51:08,099 - WARNING - No PDF URL found for: Automated detection of skin tone diversity in visual marketing communication
+2025-04-11 21:51:08,099 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:ufrVoPGSRksC
+2025-04-11 21:51:09,804 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:ufrVoPGSRksC "HTTP/1.1 200 OK"
+2025-04-11 21:51:10,149 - WARNING - No PDF URL found for: How to Enhance Online Hotel Ad Effectiveness Based on Real-World Data: Mobile Eye-Tracking and Machine Learning Tell
+2025-04-11 21:51:10,149 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:YOwf2qJgpHMC
+2025-04-11 21:51:11,512 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:YOwf2qJgpHMC "HTTP/1.1 200 OK"
+2025-04-11 21:51:11,654 - WARNING - No PDF URL found for: An Empirical Examination of the Ad-Program “Congruence” Effect on Ad-Viewing Behaviors: Evidence from TVision Data
+2025-04-11 21:51:11,655 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:Zph67rFs4hoC
+2025-04-11 21:51:13,574 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:Zph67rFs4hoC "HTTP/1.1 200 OK"
+2025-04-11 21:51:15,539 - INFO - Downloading PDF for: Multimodal Drivers of Attention Interruption to Baby Product Video Ads
+2025-04-11 21:51:16,640 - INFO - Successfully downloaded: Multimodal Drivers of Attention Interruption to Baby Product Video Ads.pdf
+2025-04-11 21:51:18,646 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:ULOm3_A8WrAC
+2025-04-11 21:51:20,659 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:ULOm3_A8WrAC "HTTP/1.1 200 OK"
+2025-04-11 21:51:20,707 - WARNING - No PDF URL found for: Improving Social Media Video Advertising Acceptance Using Priming: Evidence from Big Data Analysis.
+2025-04-11 21:51:20,708 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:3fE2CSJIrl8C
+2025-04-11 21:51:22,537 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:3fE2CSJIrl8C "HTTP/1.1 200 OK"
+2025-04-11 21:51:23,701 - WARNING - No PDF URL found for: Machine Learning and Unstructured Data Analytics for Digital Marketing
+2025-04-11 21:51:23,702 - INFO - PDF download process completed
+2025-04-11 22:01:38,233 - INFO - Starting PDF download for scholar ID: KreqRjAAAAAJ
+2025-04-11 22:01:38,234 - INFO - Created PDF folder at: filled/vaneshieh@gmail.com/pdfs
+2025-04-11 22:01:38,235 - INFO - Created new status file: filled/vaneshieh@gmail.com/publication_download_status.csv
+2025-04-11 22:01:38,235 - INFO - Getting https://scholar.google.com/citations?hl=en&user=KreqRjAAAAAJ&pagesize=100
+2025-04-11 22:01:39,823 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=KreqRjAAAAAJ&pagesize=100 "HTTP/1.1 200 OK"
+2025-04-11 22:01:39,884 - INFO - Getting https://scholar.google.com/citations?hl=en&user=KreqRjAAAAAJ&pagesize=100
+2025-04-11 22:01:41,955 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&user=KreqRjAAAAAJ&pagesize=100 "HTTP/1.1 200 OK"
+2025-04-11 22:01:42,014 - INFO - Found 9 publications
+2025-04-11 22:01:42,030 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:8k81kl-MbHgC
+2025-04-11 22:01:43,296 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:8k81kl-MbHgC "HTTP/1.1 200 OK"
+2025-04-11 22:01:43,499 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:kNdYIx-mwKoC
+2025-04-11 22:01:45,186 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:kNdYIx-mwKoC "HTTP/1.1 200 OK"
+2025-04-11 22:01:46,760 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:hqOjcs7Dif8C
+2025-04-11 22:01:48,053 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:hqOjcs7Dif8C "HTTP/1.1 200 OK"
+2025-04-11 22:01:48,186 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:UebtZRa9Y70C
+2025-04-11 22:01:50,127 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:UebtZRa9Y70C "HTTP/1.1 200 OK"
+2025-04-11 22:01:50,674 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:ufrVoPGSRksC
+2025-04-11 22:01:52,610 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:ufrVoPGSRksC "HTTP/1.1 200 OK"
+2025-04-11 22:01:52,815 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:YOwf2qJgpHMC
+2025-04-11 22:01:54,368 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:YOwf2qJgpHMC "HTTP/1.1 200 OK"
+2025-04-11 22:01:54,509 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:Zph67rFs4hoC
+2025-04-11 22:01:56,187 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:Zph67rFs4hoC "HTTP/1.1 200 OK"
+2025-04-11 22:01:57,404 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:ULOm3_A8WrAC
+2025-04-11 22:01:59,172 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:ULOm3_A8WrAC "HTTP/1.1 200 OK"
+2025-04-11 22:01:59,192 - INFO - Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:3fE2CSJIrl8C
+2025-04-11 22:02:01,204 - INFO - HTTP Request: GET https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=KreqRjAAAAAJ:3fE2CSJIrl8C "HTTP/1.1 200 OK"
+2025-04-11 22:02:01,611 - INFO - 
+Download Summary:
+2025-04-11 22:02:01,611 - INFO - Total publications: 9
+2025-04-11 22:02:01,611 - INFO - Successfully downloaded: 1
+2025-04-11 22:02:01,611 - INFO - Failed downloads: 1
+2025-04-11 22:02:01,611 - INFO - No PDF URL found: 7
+2025-04-11 22:02:01,611 - INFO - Status saved to: filled/vaneshieh@gmail.com/publication_download_status.csv
+2025-04-11 22:02:01,611 - INFO - PDF download process completed

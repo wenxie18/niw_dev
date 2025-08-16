@@ -1,0 +1,10 @@
+2025-04-26 19:17:49,999 - INFO - Starting first page extraction process
+2025-04-26 19:17:50,000 - INFO - Created first-pages folder at: /Users/wenxie/Documents/GitHub/niw/filled/vaneshieh@gmail.com/pdfs/first-pages
+2025-04-26 19:17:50,000 - INFO - Found 5 PDF files to process
+2025-04-26 19:17:50,334 - INFO - 
+Extraction Summary:
+2025-04-26 19:17:50,334 - INFO - Total PDFs processed: 5
+2025-04-26 19:17:50,334 - INFO - Successfully extracted first pages: 5
+2025-04-26 19:17:50,334 - INFO - Failed extractions: 0
+2025-04-26 19:17:50,334 - INFO - First pages saved to: /Users/wenxie/Documents/GitHub/niw/filled/vaneshieh@gmail.com/pdfs/first-pages
+2025-04-26 19:17:50,334 - INFO - First page extraction process completed

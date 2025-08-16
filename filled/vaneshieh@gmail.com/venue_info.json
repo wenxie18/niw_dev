@@ -1,0 +1,18 @@
+{
+  "Journal of Advertising": {
+    "venue_name": "Journal of Advertising",
+    "venue_scope": "International",
+    "venue_field": "Marketing, Advertising, Communication",
+    "venue_impact_factor": "6.4",
+    "venue_type": "Journal",
+    "venue_rank": "A"
+  },
+  "SSRN": {
+    "venue_name": "SSRN",
+    "venue_scope": "International",
+    "venue_field": "Economics, Law, Business, Social Sciences",
+    "venue_impact_factor": "N/A",
+    "venue_type": "Working Paper",
+    "venue_rank": "Unranked / Preprint"
+  }
+}
