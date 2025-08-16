@@ -1,0 +1,1454 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_368d7326891dd0deb04cc9f7dea73f13 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_368d7326891dd0deb04cc9f7dea73f13" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_368d7326891dd0deb04cc9f7dea73f13 = L.map(
+                "map_368d7326891dd0deb04cc9f7dea73f13",
+                {
+                    center: [20.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 2,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_df8ae3f494cb124481fe40e78f2fab30 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_df8ae3f494cb124481fe40e78f2fab30.addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var marker_48fe3e56c25cf9caa3ffcbee2e1c2852 = L.marker(
+                [42.3351052, -71.0892579],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_c0e361b008e370fb2e20bbaa0b15da14 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "gray",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_195a35450637dc7bd48a08a57f59a82d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_84fab491074d623c093a016f356a56a4 = $(`<div id="html_84fab491074d623c093a016f356a56a4" style="width: 100.0%; height: 100.0%;">Northeastern University (<a href="https://scholar.google.com/citations?user=OyysmJgAAAAJ&hl=en" target="_blank">Yakov Bart</a> & <a href="https://scholar.google.com/citations?user=OyysmJgAAAAJ&hl=en" target="_blank">Yakov Bart</a> & <a href="https://scholar.google.com/citations?user=QU5kJ4kAAAAJ&hl=en" target="_blank">Koen Pauwels</a> & <a href="https://scholar.google.com/citations?user=zBeOc3AAAAAJ&hl=en" target="_blank">Sarah Ostadabbas</a> & <a href="https://scholar.google.com/citations?user=KreqRjAAAAAJ&hl=en" target="_blank">Wen Xie</a> & <a href="https://scholar.google.com/citations?user=lTUM3B0AAAAJ&hl=en" target="_blank">Yanjun Zhu</a> & <a href="https://scholar.google.com/citations?user=KreqRjAAAAAJ&hl=en" target="_blank">Wen Xie</a>)</div>`)[0];
+                popup_195a35450637dc7bd48a08a57f59a82d.setContent(html_84fab491074d623c093a016f356a56a4);
+            
+        
+
+        marker_48fe3e56c25cf9caa3ffcbee2e1c2852.bindPopup(popup_195a35450637dc7bd48a08a57f59a82d)
+        ;
+
+        
+    
+    
+                marker_48fe3e56c25cf9caa3ffcbee2e1c2852.setIcon(icon_c0e361b008e370fb2e20bbaa0b15da14);
+            
+    
+            var marker_53884cb09ccf9aae6dfe3db21ebc71aa = L.marker(
+                [33.9404278, -83.373049],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_bce688dc3222b9f8e2c2045fc3a91253 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_11ef802cfa3b5d2cd17e100140fe9a97 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6473f1a141fc23ca7ddb4fb205cbb8f7 = $(`<div id="html_6473f1a141fc23ca7ddb4fb205cbb8f7" style="width: 100.0%; height: 100.0%;">University of Georgia (<a href="https://scholar.google.com/citations?user=QeLQ0bIAAAAJ&hl=en" target="_blank">Glenna L. Read</a>)</div>`)[0];
+                popup_11ef802cfa3b5d2cd17e100140fe9a97.setContent(html_6473f1a141fc23ca7ddb4fb205cbb8f7);
+            
+        
+
+        marker_53884cb09ccf9aae6dfe3db21ebc71aa.bindPopup(popup_11ef802cfa3b5d2cd17e100140fe9a97)
+        ;
+
+        
+    
+    
+                marker_53884cb09ccf9aae6dfe3db21ebc71aa.setIcon(icon_bce688dc3222b9f8e2c2045fc3a91253);
+            
+    
+            var marker_1735302c380c8b3d642f869ed7f9e7c2 = L.marker(
+                [51.0116203, -114.1307018],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_8959e69ca73e2a27c29a89ed087fb09a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "black",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4664e5b392b915da057182992597f02f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d613214df971bd7cc0e01caf43978c71 = $(`<div id="html_d613214df971bd7cc0e01caf43978c71" style="width: 100.0%; height: 100.0%;">Professor of Marketing, Dunarea de Jos University (<a href="https://scholar.google.com/citations?user=2TixxoAAAAAJ&hl=en" target="_blank">Adrian Micu</a>)</div>`)[0];
+                popup_4664e5b392b915da057182992597f02f.setContent(html_d613214df971bd7cc0e01caf43978c71);
+            
+        
+
+        marker_1735302c380c8b3d642f869ed7f9e7c2.bindPopup(popup_4664e5b392b915da057182992597f02f)
+        ;
+
+        
+    
+    
+                marker_1735302c380c8b3d642f869ed7f9e7c2.setIcon(icon_8959e69ca73e2a27c29a89ed087fb09a);
+            
+    
+            var marker_5fb999db89a8df13fce9d562707ad2cb = L.marker(
+                [6.3110548, 20.5447525],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_d85d190be6df764dc6be8b7c8ac68ccc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f7f4548bda855de4d90d160a767f35c3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d82273269886773f5bd20c904ecd75cc = $(`<div id="html_d82273269886773f5bd20c904ecd75cc" style="width: 100.0%; height: 100.0%;">UK (<a href="https://scholar.google.com/citations?user=t_ZRN_MAAAAJ&hl=en" target="_blank">Diego Resende Faria</a>)</div>`)[0];
+                popup_f7f4548bda855de4d90d160a767f35c3.setContent(html_d82273269886773f5bd20c904ecd75cc);
+            
+        
+
+        marker_5fb999db89a8df13fce9d562707ad2cb.bindPopup(popup_f7f4548bda855de4d90d160a767f35c3)
+        ;
+
+        
+    
+    
+                marker_5fb999db89a8df13fce9d562707ad2cb.setIcon(icon_d85d190be6df764dc6be8b7c8ac68ccc);
+            
+    
+            var marker_4e6e3eb2519b01115bb83a996b21b4c3 = L.marker(
+                [42.7023794, -84.4803869],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_be6bf900318b9811fd0cda73c97ee233 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "black",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f2ce51591db2cc27d6070f3541d3b4c7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_63327a8556b8ed3696bce53493ef5cd9 = $(`<div id="html_63327a8556b8ed3696bce53493ef5cd9" style="width: 100.0%; height: 100.0%;">Michigan State University (<a href="https://scholar.google.com/citations?user=3VOu6oIAAAAJ&hl=en" target="_blank">Ralf Schmaelzle (SHMAL-ts-lee)</a>)</div>`)[0];
+                popup_f2ce51591db2cc27d6070f3541d3b4c7.setContent(html_63327a8556b8ed3696bce53493ef5cd9);
+            
+        
+
+        marker_4e6e3eb2519b01115bb83a996b21b4c3.bindPopup(popup_f2ce51591db2cc27d6070f3541d3b4c7)
+        ;
+
+        
+    
+    
+                marker_4e6e3eb2519b01115bb83a996b21b4c3.setIcon(icon_be6bf900318b9811fd0cda73c97ee233);
+            
+    
+            var marker_49a4b7d12e0200a5b38f59c983e39303 = L.marker(
+                [32.8418011, -96.7815281],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_e5f88598b02e8580fb59efd5630df27e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightred",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b49848a44836fe2d2fbc67cf4907a478 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4820aba718ac4de1f47e5868fd5d4f2f = $(`<div id="html_4820aba718ac4de1f47e5868fd5d4f2f" style="width: 100.0%; height: 100.0%;">Electrical & Computer Engineering, Northeastern University (<a href="https://scholar.google.com/citations?user=zBeOc3AAAAAJ&hl=en" target="_blank">Sarah Ostadabbas</a>)</div>`)[0];
+                popup_b49848a44836fe2d2fbc67cf4907a478.setContent(html_4820aba718ac4de1f47e5868fd5d4f2f);
+            
+        
+
+        marker_49a4b7d12e0200a5b38f59c983e39303.bindPopup(popup_b49848a44836fe2d2fbc67cf4907a478)
+        ;
+
+        
+    
+    
+                marker_49a4b7d12e0200a5b38f59c983e39303.setIcon(icon_e5f88598b02e8580fb59efd5630df27e);
+            
+    
+            var marker_afec51ede786d322e25b5f2707a43669 = L.marker(
+                [33.2120822, -87.5396735],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_c77aa19811e4fe8969ee1e874cb3746b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "pink",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_770d3e52dee95e7591e30a4fc26added = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9b31bf567dd28c0e7283cfe2fe20456b = $(`<div id="html_9b31bf567dd28c0e7283cfe2fe20456b" style="width: 100.0%; height: 100.0%;">University of Alabama (<a href="https://scholar.google.com/citations?user=wZbeCq0AAAAJ&hl=en" target="_blank">Steven Holiday</a> & <a href="https://scholar.google.com/citations?user=usilIkEAAAAJ&hl=en" target="_blank">Brian C. Britt</a> & <a href="https://scholar.google.com/citations?user=mT-MOpsAAAAJ&hl=en" target="_blank">Jameson Hayes, Ph.D.</a>)</div>`)[0];
+                popup_770d3e52dee95e7591e30a4fc26added.setContent(html_9b31bf567dd28c0e7283cfe2fe20456b);
+            
+        
+
+        marker_afec51ede786d322e25b5f2707a43669.bindPopup(popup_770d3e52dee95e7591e30a4fc26added)
+        ;
+
+        
+    
+    
+                marker_afec51ede786d322e25b5f2707a43669.setIcon(icon_c77aa19811e4fe8969ee1e874cb3746b);
+            
+    
+            var marker_4b30339072bedeb88541d1ad8ff72db4 = L.marker(
+                [35.0831893, -106.62472],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_8893a47ee95d2d8966352b5391d554dc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkpurple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_09113bbedd5dadff4f866a63eee6d668 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_29eaa5cb393bfc831ae5924f7b8219ed = $(`<div id="html_29eaa5cb393bfc831ae5924f7b8219ed" style="width: 100.0%; height: 100.0%;">Associate Professor of Marketing, Imperial College Business School (<a href="https://scholar.google.com/citations?user=iTD-XAsAAAAJ&hl=en" target="_blank">Gokhan Yildirim</a>)</div>`)[0];
+                popup_09113bbedd5dadff4f866a63eee6d668.setContent(html_29eaa5cb393bfc831ae5924f7b8219ed);
+            
+        
+
+        marker_4b30339072bedeb88541d1ad8ff72db4.bindPopup(popup_09113bbedd5dadff4f866a63eee6d668)
+        ;
+
+        
+    
+    
+                marker_4b30339072bedeb88541d1ad8ff72db4.setIcon(icon_8893a47ee95d2d8966352b5391d554dc);
+            
+    
+            var marker_a44ebd097e6d96c95748e90f2299f280 = L.marker(
+                [36.1327833, -86.7926578],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_7b96d29938c29d11976ff8b628f94a73 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b7d0bc3a05a73cf18d8f3b07bcba2ceb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ead1943b70770aeac0aac92ebe3ad5cc = $(`<div id="html_ead1943b70770aeac0aac92ebe3ad5cc" style="width: 100.0%; height: 100.0%;">Belmont University (<a href="https://scholar.google.com/citations?user=3SYkffsAAAAJ&hl=en" target="_blank">Luan Lingfei</a>)</div>`)[0];
+                popup_b7d0bc3a05a73cf18d8f3b07bcba2ceb.setContent(html_ead1943b70770aeac0aac92ebe3ad5cc);
+            
+        
+
+        marker_a44ebd097e6d96c95748e90f2299f280.bindPopup(popup_b7d0bc3a05a73cf18d8f3b07bcba2ceb)
+        ;
+
+        
+    
+    
+                marker_a44ebd097e6d96c95748e90f2299f280.setIcon(icon_7b96d29938c29d11976ff8b628f94a73);
+            
+    
+            var marker_cf9bbd53f120abb9d51f47c9b10f9096 = L.marker(
+                [51.0116203, -114.1307018],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_fc80c0b3f2e1e2c24113ef642ee64e1e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_77cb910cee9c6af0146ee411b9bc8036 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_04c8dfa517a82647640c66c9e4a6414e = $(`<div id="html_04c8dfa517a82647640c66c9e4a6414e" style="width: 100.0%; height: 100.0%;">Mount Royal University (<a href="https://scholar.google.com/citations?user=KjZhTeYAAAAJ&hl=en" target="_blank">Eunah Kim</a>)</div>`)[0];
+                popup_77cb910cee9c6af0146ee411b9bc8036.setContent(html_04c8dfa517a82647640c66c9e4a6414e);
+            
+        
+
+        marker_cf9bbd53f120abb9d51f47c9b10f9096.bindPopup(popup_77cb910cee9c6af0146ee411b9bc8036)
+        ;
+
+        
+    
+    
+                marker_cf9bbd53f120abb9d51f47c9b10f9096.setIcon(icon_fc80c0b3f2e1e2c24113ef642ee64e1e);
+            
+    
+            var marker_8689da02f9ddcda32400df08cf2a1419 = L.marker(
+                [45.4386554, 28.055666],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_fac0682b8286b4ab80a50ba6816680e6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_773071f92d94f7485190da0ac473d158 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec6f522e227bf4cb1067386adacd2fd9 = $(`<div id="html_ec6f522e227bf4cb1067386adacd2fd9" style="width: 100.0%; height: 100.0%;">associate professor in marketing, University of Economics - Varna (<a href="https://scholar.google.com/citations?user=96Ymf4MAAAAJ&hl=en" target="_blank">Maria Kehayova-Stoycheva</a> & <a href="https://scholar.google.com/citations?user=96Ymf4MAAAAJ&hl=en" target="_blank">Maria Kehayova-Stoycheva</a>)</div>`)[0];
+                popup_773071f92d94f7485190da0ac473d158.setContent(html_ec6f522e227bf4cb1067386adacd2fd9);
+            
+        
+
+        marker_8689da02f9ddcda32400df08cf2a1419.bindPopup(popup_773071f92d94f7485190da0ac473d158)
+        ;
+
+        
+    
+    
+                marker_8689da02f9ddcda32400df08cf2a1419.setIcon(icon_fac0682b8286b4ab80a50ba6816680e6);
+            
+    
+            var marker_39e69addc5b0a5c91d48fabef6caf570 = L.marker(
+                [43.2094027, 27.9237072],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_93266000299209bac72a6cfb7eda8fa7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "pink",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_019cf143ab0d9043cc697260a2788d46 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_95b3eb8c23cedff6c33a5babe7c7bde3 = $(`<div id="html_95b3eb8c23cedff6c33a5babe7c7bde3" style="width: 100.0%; height: 100.0%;">University of Economics - Varna (<a href="https://scholar.google.com/citations?user=96Ymf4MAAAAJ&hl=en" target="_blank">Maria Kehayova-Stoycheva</a> & <a href="https://scholar.google.com/citations?user=96Ymf4MAAAAJ&hl=en" target="_blank">Maria Kehayova-Stoycheva</a>)</div>`)[0];
+                popup_019cf143ab0d9043cc697260a2788d46.setContent(html_95b3eb8c23cedff6c33a5babe7c7bde3);
+            
+        
+
+        marker_39e69addc5b0a5c91d48fabef6caf570.bindPopup(popup_019cf143ab0d9043cc697260a2788d46)
+        ;
+
+        
+    
+    
+                marker_39e69addc5b0a5c91d48fabef6caf570.setIcon(icon_93266000299209bac72a6cfb7eda8fa7);
+            
+    
+            var marker_41938710ee96dd05d7adebf9c752e6df = L.marker(
+                [43.2094027, 27.9237072],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_650b5469df9903835d5695c924764551 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "black",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4131a58850efc5c7c6abb6866ff0620a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bd66ad34be11dd970b86b1574cc1be94 = $(`<div id="html_bd66ad34be11dd970b86b1574cc1be94" style="width: 100.0%; height: 100.0%;">Associate Professor of Advertising and Public Relations, University of Alabama (<a href="https://scholar.google.com/citations?user=usilIkEAAAAJ&hl=en" target="_blank">Brian C. Britt</a>)</div>`)[0];
+                popup_4131a58850efc5c7c6abb6866ff0620a.setContent(html_bd66ad34be11dd970b86b1574cc1be94);
+            
+        
+
+        marker_41938710ee96dd05d7adebf9c752e6df.bindPopup(popup_4131a58850efc5c7c6abb6866ff0620a)
+        ;
+
+        
+    
+    
+                marker_41938710ee96dd05d7adebf9c752e6df.setIcon(icon_650b5469df9903835d5695c924764551);
+            
+    
+            var marker_4288eb6ce4df88de2c9a810a22f78577 = L.marker(
+                [60.454642, 22.2899873],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_28112e4bd70666035c53e2c11126879e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkpurple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8fa0c4b312165efc6b27fc9e8fde7e53 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_49ff2e8bb86bf9d35309e4dde36a1075 = $(`<div id="html_49ff2e8bb86bf9d35309e4dde36a1075" style="width: 100.0%; height: 100.0%;">Associate Professor of Advertising, University of Alabama (<a href="https://scholar.google.com/citations?user=wZbeCq0AAAAJ&hl=en" target="_blank">Steven Holiday</a>)</div>`)[0];
+                popup_8fa0c4b312165efc6b27fc9e8fde7e53.setContent(html_49ff2e8bb86bf9d35309e4dde36a1075);
+            
+        
+
+        marker_4288eb6ce4df88de2c9a810a22f78577.bindPopup(popup_8fa0c4b312165efc6b27fc9e8fde7e53)
+        ;
+
+        
+    
+    
+                marker_4288eb6ce4df88de2c9a810a22f78577.setIcon(icon_28112e4bd70666035c53e2c11126879e);
+            
+    
+            var marker_f1797aa68921b64abf907e55d9269a79 = L.marker(
+                [42.7023794, -84.4803869],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_24ee51f4946360faff11510d42add5b5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightgreen",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7d715ad49d72f85d15b3918618570345 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_30ff29563e60d73b06f2bdb7a55f5712 = $(`<div id="html_30ff29563e60d73b06f2bdb7a55f5712" style="width: 100.0%; height: 100.0%;">Postdoctoral Research Fellow, Northeastern University (<a href="https://scholar.google.com/citations?user=lTUM3B0AAAAJ&hl=en" target="_blank">Yanjun Zhu</a>)</div>`)[0];
+                popup_7d715ad49d72f85d15b3918618570345.setContent(html_30ff29563e60d73b06f2bdb7a55f5712);
+            
+        
+
+        marker_f1797aa68921b64abf907e55d9269a79.bindPopup(popup_7d715ad49d72f85d15b3918618570345)
+        ;
+
+        
+    
+    
+                marker_f1797aa68921b64abf907e55d9269a79.setIcon(icon_24ee51f4946360faff11510d42add5b5);
+            
+    
+            var marker_a541d095fa3bf3e04eac52e11d37a0a4 = L.marker(
+                [51.49931, -0.1747093],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_e3980717e42756301a958461e447b426 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "pink",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7c90591fe8629a2fe1fe4221e38bb708 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e9bc759dabe0cc02ed356be70811abd9 = $(`<div id="html_e9bc759dabe0cc02ed356be70811abd9" style="width: 100.0%; height: 100.0%;">Imperial College Business School (<a href="https://scholar.google.com/citations?user=iTD-XAsAAAAJ&hl=en" target="_blank">Gokhan Yildirim</a>)</div>`)[0];
+                popup_7c90591fe8629a2fe1fe4221e38bb708.setContent(html_e9bc759dabe0cc02ed356be70811abd9);
+            
+        
+
+        marker_a541d095fa3bf3e04eac52e11d37a0a4.bindPopup(popup_7c90591fe8629a2fe1fe4221e38bb708)
+        ;
+
+        
+    
+    
+                marker_a541d095fa3bf3e04eac52e11d37a0a4.setIcon(icon_e3980717e42756301a958461e447b426);
+            
+    
+            var marker_bd0056e7f7842d355d6b63bd1a910788 = L.marker(
+                [30.6108618, -96.3520606],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_fe97be3454ffa8d81586b5cf9124a9ea = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "cadetblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e801472a4df11ecc0374a0885ffbf6b5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ed2850e95eabc0291339f2893eb1c6d3 = $(`<div id="html_ed2850e95eabc0291339f2893eb1c6d3" style="width: 100.0%; height: 100.0%;">Texas A&M University (<a href="https://scholar.google.com/citations?user=AGjKhRsAAAAJ&hl=en" target="_blank">Sue Yee Lim</a>)</div>`)[0];
+                popup_e801472a4df11ecc0374a0885ffbf6b5.setContent(html_ed2850e95eabc0291339f2893eb1c6d3);
+            
+        
+
+        marker_bd0056e7f7842d355d6b63bd1a910788.bindPopup(popup_e801472a4df11ecc0374a0885ffbf6b5)
+        ;
+
+        
+    
+    
+                marker_bd0056e7f7842d355d6b63bd1a910788.setIcon(icon_fe97be3454ffa8d81586b5cf9124a9ea);
+            
+    
+            var marker_796a5f98543a3931df82294efa2265be = L.marker(
+                [45.4386554, 28.055666],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_733942823b33ddbdf6bf719d4d59465b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "pink",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_10d41d923994807ecb6b726b0a3ade74 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c949520b1a0a9c62283bfd68964ca183 = $(`<div id="html_c949520b1a0a9c62283bfd68964ca183" style="width: 100.0%; height: 100.0%;">Dunarea de Jos University (<a href="https://scholar.google.com/citations?user=2TixxoAAAAAJ&hl=en" target="_blank">Adrian Micu</a>)</div>`)[0];
+                popup_10d41d923994807ecb6b726b0a3ade74.setContent(html_c949520b1a0a9c62283bfd68964ca183);
+            
+        
+
+        marker_796a5f98543a3931df82294efa2265be.bindPopup(popup_10d41d923994807ecb6b726b0a3ade74)
+        ;
+
+        
+    
+    
+                marker_796a5f98543a3931df82294efa2265be.setIcon(icon_733942823b33ddbdf6bf719d4d59465b);
+            
+    
+            var marker_0fdd6f1e18f08294390e1cf6f4d00df8 = L.marker(
+                [60.454642, 22.2899873],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_30eaa55db3aa0e51fbab6a92cf039f37 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "pink",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fba0674e3ef872bcc67634319f15345f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a7d9380e8237f4f166446ba359203378 = $(`<div id="html_a7d9380e8237f4f166446ba359203378" style="width: 100.0%; height: 100.0%;">Turku School of Economics (<a href="https://scholar.google.com/citations?user=2xrCzWwAAAAJ&hl=en" target="_blank">Ulla Hakala</a>)</div>`)[0];
+                popup_fba0674e3ef872bcc67634319f15345f.setContent(html_a7d9380e8237f4f166446ba359203378);
+            
+        
+
+        marker_0fdd6f1e18f08294390e1cf6f4d00df8.bindPopup(popup_fba0674e3ef872bcc67634319f15345f)
+        ;
+
+        
+    
+    
+                marker_0fdd6f1e18f08294390e1cf6f4d00df8.setIcon(icon_30eaa55db3aa0e51fbab6a92cf039f37);
+            
+    
+            var marker_af9522040b5d010c2e6f4b6d0cadc661 = L.marker(
+                [13.1258733, 77.5888764],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_0315901fb1b864640443bda764a6af67 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_53d915e38ea4a702a07f02199a0b43c1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7167c6fb82517132518480840481ec18 = $(`<div id="html_7167c6fb82517132518480840481ec18" style="width: 100.0%; height: 100.0%;">Visiting researcher (Management Science), Aalto University School of Business (<a href="https://scholar.google.com/citations?user=udN_jkQAAAAJ&hl=en" target="_blank">Philipp Back</a>)</div>`)[0];
+                popup_53d915e38ea4a702a07f02199a0b43c1.setContent(html_7167c6fb82517132518480840481ec18);
+            
+        
+
+        marker_af9522040b5d010c2e6f4b6d0cadc661.bindPopup(popup_53d915e38ea4a702a07f02199a0b43c1)
+        ;
+
+        
+    
+    
+                marker_af9522040b5d010c2e6f4b6d0cadc661.setIcon(icon_0315901fb1b864640443bda764a6af67);
+            
+    
+            var marker_cb2f1604aa48832d53e05c5534995a64 = L.marker(
+                [44.9863392, -93.1794558],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_168ceedd73b33198862718a59461e0f2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_91bf7d0212a2ae8fe064effd443543c5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8a58b2926c9ec4253b96ed7dd40c4f1e = $(`<div id="html_8a58b2926c9ec4253b96ed7dd40c4f1e" style="width: 100.0%; height: 100.0%;">University of Minnesota (<a href="https://scholar.google.com/citations?user=Snt5NVcAAAAJ&hl=en" target="_blank">Claire M Segijn</a>)</div>`)[0];
+                popup_91bf7d0212a2ae8fe064effd443543c5.setContent(html_8a58b2926c9ec4253b96ed7dd40c4f1e);
+            
+        
+
+        marker_cb2f1604aa48832d53e05c5534995a64.bindPopup(popup_91bf7d0212a2ae8fe064effd443543c5)
+        ;
+
+        
+    
+    
+                marker_cb2f1604aa48832d53e05c5534995a64.setIcon(icon_168ceedd73b33198862718a59461e0f2);
+            
+    
+            var marker_d77ccf154eacc7bed173d7710ffd70f7 = L.marker(
+                [60.1859118, 24.8236392],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_7f4b5c0d8f335d47eaa7b4eeb89ea3b5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightred",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8fc1867880ad090ef7f258a648701a28 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a4bd4b281a62d428d9b06690c84bcb8e = $(`<div id="html_a4bd4b281a62d428d9b06690c84bcb8e" style="width: 100.0%; height: 100.0%;">Aalto University School of Business (<a href="https://scholar.google.com/citations?user=udN_jkQAAAAJ&hl=en" target="_blank">Philipp Back</a> & <a href="https://scholar.google.com/citations?user=KDMstQUAAAAJ&hl=en" target="_blank">Hilla Back</a>)</div>`)[0];
+                popup_8fc1867880ad090ef7f258a648701a28.setContent(html_a4bd4b281a62d428d9b06690c84bcb8e);
+            
+        
+
+        marker_d77ccf154eacc7bed173d7710ffd70f7.bindPopup(popup_8fc1867880ad090ef7f258a648701a28)
+        ;
+
+        
+    
+    
+                marker_d77ccf154eacc7bed173d7710ffd70f7.setIcon(icon_7f4b5c0d8f335d47eaa7b4eeb89ea3b5);
+            
+    
+            var marker_1bfe2c0e03a5a9abdc7b13d26e2660f1 = L.marker(
+                [13.1258733, 77.5888764],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_c6e0e762765b3a46b6944f3e8cb42e67 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkgreen",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_47dbdda131a08f2ee222c4432b28f687 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c7edd019d38dc073937ef96453ff11cb = $(`<div id="html_c7edd019d38dc073937ef96453ff11cb" style="width: 100.0%; height: 100.0%;">Manipal Academy of Higher Education (<a href="https://scholar.google.com/citations?user=y2bwlVsAAAAJ&hl=en" target="_blank">Pallavi Upadhyaya</a>)</div>`)[0];
+                popup_47dbdda131a08f2ee222c4432b28f687.setContent(html_c7edd019d38dc073937ef96453ff11cb);
+            
+        
+
+        marker_1bfe2c0e03a5a9abdc7b13d26e2660f1.bindPopup(popup_47dbdda131a08f2ee222c4432b28f687)
+        ;
+
+        
+    
+    
+                marker_1bfe2c0e03a5a9abdc7b13d26e2660f1.setIcon(icon_c6e0e762765b3a46b6944f3e8cb42e67);
+            
+    
+            var marker_191aad16a8e7c6555b8fbab7a0325fec = L.marker(
+                [13.1258733, 77.5888764],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_77ce4ede3e624f67bda2347ac9bb02a2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "gray",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_49b7dc0b0c8802ad71f7059e58f96e03 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_eb45217646d85f1300bed4792bed62bb = $(`<div id="html_eb45217646d85f1300bed4792bed62bb" style="width: 100.0%; height: 100.0%;">Associate Professor of Advertising, University of Georgia (<a href="https://scholar.google.com/citations?user=QeLQ0bIAAAAJ&hl=en" target="_blank">Glenna L. Read</a>)</div>`)[0];
+                popup_49b7dc0b0c8802ad71f7059e58f96e03.setContent(html_eb45217646d85f1300bed4792bed62bb);
+            
+        
+
+        marker_191aad16a8e7c6555b8fbab7a0325fec.bindPopup(popup_49b7dc0b0c8802ad71f7059e58f96e03)
+        ;
+
+        
+    
+    
+                marker_191aad16a8e7c6555b8fbab7a0325fec.setIcon(icon_77ce4ede3e624f67bda2347ac9bb02a2);
+            
+    
+            var marker_e27e9761880abcd8ffbc0b8d3de1d551 = L.marker(
+                [35.0831893, -106.62472],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_e06e126a6c764f1dc9733e4fb7be472f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_602fe90376a673275c65d75efdf936db = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f4e62c58bbc756f15c65fffbf9a72041 = $(`<div id="html_f4e62c58bbc756f15c65fffbf9a72041" style="width: 100.0%; height: 100.0%;">Electrical & Computer Engineering (<a href="https://scholar.google.com/citations?user=zBeOc3AAAAAJ&hl=en" target="_blank">Sarah Ostadabbas</a>)</div>`)[0];
+                popup_602fe90376a673275c65d75efdf936db.setContent(html_f4e62c58bbc756f15c65fffbf9a72041);
+            
+        
+
+        marker_e27e9761880abcd8ffbc0b8d3de1d551.bindPopup(popup_602fe90376a673275c65d75efdf936db)
+        ;
+
+        
+    
+    
+                marker_e27e9761880abcd8ffbc0b8d3de1d551.setIcon(icon_e06e126a6c764f1dc9733e4fb7be472f);
+            
+    
+            var marker_60d8b349f5816dabd800fd4329a3de0f = L.marker(
+                [13.1258733, 77.5888764],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_acae8c298a53334e2ab4d224d246113a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightred",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_50d420eb7ed630660f679f62085f6483 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_165c10973424ca0523c21c6b88cec2c1 = $(`<div id="html_165c10973424ca0523c21c6b88cec2c1" style="width: 100.0%; height: 100.0%;">Reader in Robotics & Intelligent Adaptive Systems (<a href="https://scholar.google.com/citations?user=t_ZRN_MAAAAJ&hl=en" target="_blank">Diego Resende Faria</a>)</div>`)[0];
+                popup_50d420eb7ed630660f679f62085f6483.setContent(html_165c10973424ca0523c21c6b88cec2c1);
+            
+        
+
+        marker_60d8b349f5816dabd800fd4329a3de0f.bindPopup(popup_50d420eb7ed630660f679f62085f6483)
+        ;
+
+        
+    
+    
+                marker_60d8b349f5816dabd800fd4329a3de0f.setIcon(icon_acae8c298a53334e2ab4d224d246113a);
+            
+    
+            var marker_03d0e923054e740c8eee454db729306e = L.marker(
+                [44.9863392, -93.1794558],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_2df0adfc7f7223145682c8dff379947c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1f3e8640c3f3f7108c662c0b85aeaa3f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_348735c82f01fc1ea7a54a821eba0e3a = $(`<div id="html_348735c82f01fc1ea7a54a821eba0e3a" style="width: 100.0%; height: 100.0%;">Reader in Robotics & Intelligent Adaptive Systems, University of Hertfordshire, UK (<a href="https://scholar.google.com/citations?user=t_ZRN_MAAAAJ&hl=en" target="_blank">Diego Resende Faria</a>)</div>`)[0];
+                popup_1f3e8640c3f3f7108c662c0b85aeaa3f.setContent(html_348735c82f01fc1ea7a54a821eba0e3a);
+            
+        
+
+        marker_03d0e923054e740c8eee454db729306e.bindPopup(popup_1f3e8640c3f3f7108c662c0b85aeaa3f)
+        ;
+
+        
+    
+    
+                marker_03d0e923054e740c8eee454db729306e.setIcon(icon_2df0adfc7f7223145682c8dff379947c);
+            
+    
+            var marker_dab3b630ea12c7458704a9ce7c606cc3 = L.marker(
+                [41.7413023, -111.8146899],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_f42ee5c91260f8af82e3622978230671 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a96a561669437a861a8da2eeb7850e15 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_69f84976f149bca94e78a716a08b7ff7 = $(`<div id="html_69f84976f149bca94e78a716a08b7ff7" style="width: 100.0%; height: 100.0%;">Public Relations (<a href="https://scholar.google.com/citations?user=usilIkEAAAAJ&hl=en" target="_blank">Brian C. Britt</a>)</div>`)[0];
+                popup_a96a561669437a861a8da2eeb7850e15.setContent(html_69f84976f149bca94e78a716a08b7ff7);
+            
+        
+
+        marker_dab3b630ea12c7458704a9ce7c606cc3.bindPopup(popup_a96a561669437a861a8da2eeb7850e15)
+        ;
+
+        
+    
+    
+                marker_dab3b630ea12c7458704a9ce7c606cc3.setIcon(icon_f42ee5c91260f8af82e3622978230671);
+            
+    
+            var marker_d00c9984f0fb7d6e2092c3989cc7a1e1 = L.marker(
+                [51.7517443, -0.2390498],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_2ad40d580607e83c9e54ad0d13d49fc7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ac0174ab792566faa76ae0eca1ca1f07 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c4cefd5f84cff97a27841b1b0842b394 = $(`<div id="html_c4cefd5f84cff97a27841b1b0842b394" style="width: 100.0%; height: 100.0%;">University of Hertfordshire (<a href="https://scholar.google.com/citations?user=t_ZRN_MAAAAJ&hl=en" target="_blank">Diego Resende Faria</a> & <a href="https://scholar.google.com/citations?user=U7MtvlkAAAAJ&hl=en" target="_blank">Visal Vidhya</a>)</div>`)[0];
+                popup_ac0174ab792566faa76ae0eca1ca1f07.setContent(html_c4cefd5f84cff97a27841b1b0842b394);
+            
+        
+
+        marker_d00c9984f0fb7d6e2092c3989cc7a1e1.bindPopup(popup_ac0174ab792566faa76ae0eca1ca1f07)
+        ;
+
+        
+    
+    
+                marker_d00c9984f0fb7d6e2092c3989cc7a1e1.setIcon(icon_2ad40d580607e83c9e54ad0d13d49fc7);
+            
+    
+            var marker_9af0d99fe2ad6aac6d6517ccacdbd4c2 = L.marker(
+                [39.1802358, -86.5093526],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_e35a86961292d199a5b54b216bdd7be8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "pink",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_08879a899f346a8d9d5db8dae67c367b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_67a966a66bd1a6020756360dcfecac75 = $(`<div id="html_67a966a66bd1a6020756360dcfecac75" style="width: 100.0%; height: 100.0%;">Indiana University Bloomington (<a href="https://scholar.google.com/citations?user=mquQJrkAAAAJ&hl=en" target="_blank">Garim Lee</a>)</div>`)[0];
+                popup_08879a899f346a8d9d5db8dae67c367b.setContent(html_67a966a66bd1a6020756360dcfecac75);
+            
+        
+
+        marker_9af0d99fe2ad6aac6d6517ccacdbd4c2.bindPopup(popup_08879a899f346a8d9d5db8dae67c367b)
+        ;
+
+        
+    
+    
+                marker_9af0d99fe2ad6aac6d6517ccacdbd4c2.setIcon(icon_e35a86961292d199a5b54b216bdd7be8);
+            
+    
+            var marker_990c7ececa1a40d5abd96c1dca5d47e7 = L.marker(
+                [42.7023794, -84.4803869],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_097168481132ceb37047762ce48287d4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b7295436b981d15b449a9e72deb337e5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_60e559a68bfa03281efd325b2e457b99 = $(`<div id="html_60e559a68bfa03281efd325b2e457b99" style="width: 100.0%; height: 100.0%;">Unknown affiliation (<a href="https://scholar.google.com/citations?user=27JweIMAAAAJ&hl=en" target="_blank">Jarmo J. Ahonen</a>)</div>`)[0];
+                popup_b7295436b981d15b449a9e72deb337e5.setContent(html_60e559a68bfa03281efd325b2e457b99);
+            
+        
+
+        marker_990c7ececa1a40d5abd96c1dca5d47e7.bindPopup(popup_b7295436b981d15b449a9e72deb337e5)
+        ;
+
+        
+    
+    
+                marker_990c7ececa1a40d5abd96c1dca5d47e7.setIcon(icon_097168481132ceb37047762ce48287d4);
+            
+    
+            var marker_cb8d1b3f462e0ee96e445f3b181ea271 = L.marker(
+                [36.1327833, -86.7926578],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_d54ad1cedec13f2d436ad19ac4c5b7a6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2de80a5ed1f893bea0ea2f9a35ad182f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a77ce96afdc84af817b967e4a74fdbb = $(`<div id="html_9a77ce96afdc84af817b967e4a74fdbb" style="width: 100.0%; height: 100.0%;">Universitatea Ovidius din Constanta (<a href="https://scholar.google.com/citations?user=hx39VzQAAAAJ&hl=en" target="_blank">Micu Angela-Eliza</a>)</div>`)[0];
+                popup_2de80a5ed1f893bea0ea2f9a35ad182f.setContent(html_9a77ce96afdc84af817b967e4a74fdbb);
+            
+        
+
+        marker_cb8d1b3f462e0ee96e445f3b181ea271.bindPopup(popup_2de80a5ed1f893bea0ea2f9a35ad182f)
+        ;
+
+        
+    
+    
+                marker_cb8d1b3f462e0ee96e445f3b181ea271.setIcon(icon_d54ad1cedec13f2d436ad19ac4c5b7a6);
+            
+    
+            var marker_8df6343115e94f00edc833f1d3defd0f = L.marker(
+                [43.2094027, 27.9237072],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_8b4f0cb3e6538d28745fdeebba85a165 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f591709ea39da7aaa4961070d40b7189 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a0fbd95b5781fbcf061c793b5e84f483 = $(`<div id="html_a0fbd95b5781fbcf061c793b5e84f483" style="width: 100.0%; height: 100.0%;">Associate Professor, University of Alabama (<a href="https://scholar.google.com/citations?user=mT-MOpsAAAAJ&hl=en" target="_blank">Jameson Hayes, Ph.D.</a>)</div>`)[0];
+                popup_f591709ea39da7aaa4961070d40b7189.setContent(html_a0fbd95b5781fbcf061c793b5e84f483);
+            
+        
+
+        marker_8df6343115e94f00edc833f1d3defd0f.bindPopup(popup_f591709ea39da7aaa4961070d40b7189)
+        ;
+
+        
+    
+    
+                marker_8df6343115e94f00edc833f1d3defd0f.setIcon(icon_8b4f0cb3e6538d28745fdeebba85a165);
+            
+    
+            var marker_6628852e410dfd2c1925187a0f132726 = L.marker(
+                [42.7023794, -84.4803869],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_04e52e4786df100eb9aac79b87976ecd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ca56c38bccd8c9f9a3d2823006da39ac = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e4d8b22eda3ebba11f9e761e10cc5ff7 = $(`<div id="html_e4d8b22eda3ebba11f9e761e10cc5ff7" style="width: 100.0%; height: 100.0%;">Visiting researcher (Management Science) (<a href="https://scholar.google.com/citations?user=udN_jkQAAAAJ&hl=en" target="_blank">Philipp Back</a>)</div>`)[0];
+                popup_ca56c38bccd8c9f9a3d2823006da39ac.setContent(html_e4d8b22eda3ebba11f9e761e10cc5ff7);
+            
+        
+
+        marker_6628852e410dfd2c1925187a0f132726.bindPopup(popup_ca56c38bccd8c9f9a3d2823006da39ac)
+        ;
+
+        
+    
+    
+                marker_6628852e410dfd2c1925187a0f132726.setIcon(icon_04e52e4786df100eb9aac79b87976ecd);
+            
+    
+            var marker_6b5bd8585c616cc3a2b086ba4859aab9 = L.marker(
+                [32.8418011, -96.7815281],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_3ee6aa00cdfcf174ce7e7d98cba00cc9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_92348a373d1b9d0d95298c88b4f6d757 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_683305fb5bea110eaba681064179e4b4 = $(`<div id="html_683305fb5bea110eaba681064179e4b4" style="width: 100.0%; height: 100.0%;">Southern Methodist University (<a href="https://scholar.google.com/citations?user=aiHz0J4AAAAJ&hl=en" target="_blank">Gijs Overgoor</a>)</div>`)[0];
+                popup_92348a373d1b9d0d95298c88b4f6d757.setContent(html_683305fb5bea110eaba681064179e4b4);
+            
+        
+
+        marker_6b5bd8585c616cc3a2b086ba4859aab9.bindPopup(popup_92348a373d1b9d0d95298c88b4f6d757)
+        ;
+
+        
+    
+    
+                marker_6b5bd8585c616cc3a2b086ba4859aab9.setIcon(icon_3ee6aa00cdfcf174ce7e7d98cba00cc9);
+            
+    
+            var marker_0a8802fe55617f638909c081be3033bc = L.marker(
+                [43.2094027, 27.9237072],
+                {
+}
+            ).addTo(map_368d7326891dd0deb04cc9f7dea73f13);
+        
+    
+            var icon_16e5c74217b4b5fd7daba3ad2e697e47 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5631cb9cf55e1bc54ab985e4e9efcba4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0982094defbc8b3336c5a96cc47dc16a = $(`<div id="html_0982094defbc8b3336c5a96cc47dc16a" style="width: 100.0%; height: 100.0%;">Postdoctoral Research Fellow (<a href="https://scholar.google.com/citations?user=lTUM3B0AAAAJ&hl=en" target="_blank">Yanjun Zhu</a>)</div>`)[0];
+                popup_5631cb9cf55e1bc54ab985e4e9efcba4.setContent(html_0982094defbc8b3336c5a96cc47dc16a);
+            
+        
+
+        marker_0a8802fe55617f638909c081be3033bc.bindPopup(popup_5631cb9cf55e1bc54ab985e4e9efcba4)
+        ;
+
+        
+    
+    
+                marker_0a8802fe55617f638909c081be3033bc.setIcon(icon_16e5c74217b4b5fd7daba3ad2e697e47);
+            
+</script>
+</html>

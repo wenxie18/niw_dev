@@ -8,24 +8,6 @@ from typing import List
 
 NO_AUTHOR_FOUND_STR = 'No_author_found'
 
-# Create a session for persistent cookies
-session = requests.Session()
-
-# List of free proxies (you can add more)
-PROXY_LIST = [
-    None,  # Direct connection only for now
-    # Add working proxies here if available
-]
-
-def rotate_proxy():
-    """Rotate to a different proxy"""
-    proxy = random.choice(PROXY_LIST)
-    if proxy:
-        session.proxies = {'http': proxy, 'https': proxy}
-        print(f"Using proxy: {proxy}")
-    else:
-        session.proxies = {}
-        print("Using direct connection")
 
 def get_html_per_citation_page(soup) -> List[str]:
     '''
@@ -76,82 +58,32 @@ def get_citing_author_ids_and_citing_papers(cites_id: str) -> List[str]:
     citing_author_ids = []
     citing_papers = []
 
-    # Rotate proxy for this request
-    rotate_proxy()
-
     headers = requests.utils.default_headers()
     headers.update({
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
-        'Accept-Encoding': 'gzip, deflate',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-        'Cache-Control': 'max-age=0',
-        'Sec-Fetch-Dest': 'document',
-        'Sec-Fetch-Mode': 'navigate',
-        'Sec-Fetch-Site': 'none',
-        'Sec-Fetch-User': '?1',
+        'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
     })
 
-    # Simulate human behavior: longer initial delay
-    time.sleep(random.uniform(3, 8))
+    time.sleep(random.uniform(1, 5))  # Random delay to reduce risk of being blocked.
 
     # Construct the URL for the citation page
     paper_url = f'https://scholar.google.com/scholar?cites={cites_id}&hl=en'
 
-    # Try with exponential backoff
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            # Search the url of all citing papers.
-            response = session.get(paper_url, headers=headers, timeout=30)
-            if response.status_code != 200:
-                raise Exception('Failed to fetch the Google Scholar page')
+    # Search the url of all citing papers.
+    response = requests.get(paper_url, headers=headers)
+    if response.status_code != 200:
+        raise Exception('Failed to fetch the Google Scholar page')
 
-            # Get the HTML data.
-            soup = BeautifulSoup(response.text, 'html.parser')
+    # Get the HTML data.
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-            # Check for common indicators of blocking
-            if 'CAPTCHA' in soup.text or 'not a robot' in soup.text:
-                print(f'[WARNING!] Blocked by CAPTCHA or robot check when searching {paper_url}. Attempt {attempt + 1}/{max_retries}')
-                if attempt < max_retries - 1:
-                    # Exponential backoff: wait longer each time
-                    wait_time = (2 ** attempt) * random.uniform(10, 20)
-                    print(f'Waiting {wait_time:.1f} seconds before retry...')
-                    time.sleep(wait_time)
-                    # Rotate proxy for next attempt
-                    rotate_proxy()
-                    continue
-                else:
-                    return [], []
+    # Check for common indicators of blocking
+    if 'CAPTCHA' in soup.text or 'not a robot' in soup.text:
+        print('[WARNING!] Blocked by CAPTCHA or robot check when searching %s.' % paper_url)
+        return [], []
 
-            if 'Access Denied' in soup.text or 'Forbidden' in soup.text:
-                print(f'[WARNING!] Access denied or forbidden when searching {paper_url}. Attempt {attempt + 1}/{max_retries}')
-                if attempt < max_retries - 1:
-                    wait_time = (2 ** attempt) * random.uniform(10, 20)
-                    print(f'Waiting {wait_time:.1f} seconds before retry...')
-                    time.sleep(wait_time)
-                    # Rotate proxy for next attempt
-                    rotate_proxy()
-                    continue
-                else:
-                    return [], []
-
-            # If we get here, the request was successful
-            break
-
-        except Exception as e:
-            print(f'[ERROR!] Exception on attempt {attempt + 1}: {str(e)}')
-            if attempt < max_retries - 1:
-                wait_time = (2 ** attempt) * random.uniform(5, 15)
-                print(f'Waiting {wait_time:.1f} seconds before retry...')
-                time.sleep(wait_time)
-                # Rotate proxy for next attempt
-                rotate_proxy()
-                continue
-            else:
-                return [], []
+    if 'Access Denied' in soup.text or 'Forbidden' in soup.text:
+        print('[WARNING!] Access denied or forbidden when searching searching %s.' % paper_url)
+        return [], []
 
     # Loop through the citation results and find citing authors and papers.
     current_page_number = 1
@@ -167,11 +99,9 @@ def get_citing_author_ids_and_citing_papers(cites_id: str) -> List[str]:
             # Found the correct button for next page.
             current_page_number += 1
             next_url = 'https://scholar.google.com' + navigation['href']
-            
-            # Simulate human reading time
-            time.sleep(random.uniform(5, 10))  # Longer delay between pages
+            time.sleep(random.uniform(1, 5))  # Random delay to reduce risk of being blocked.
 
-            response = session.get(next_url, headers=headers, timeout=30)
+            response = requests.get(next_url, headers=headers)
             if response.status_code != 200:
                 break
             soup = BeautifulSoup(response.text, 'html.parser')

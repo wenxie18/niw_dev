@@ -11,10 +11,27 @@ import re
 from textwrap3 import wrap
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
+import PyPDF2
+from PyPDF2 import PdfReader, PdfWriter
+import sys
+from pathlib import Path
 
 # Path to the Chinese font file
 default_font_name = "helv"  # Built-in Helvetica font in PyMuPDF
 chinese_font_name = "china-s"
+
+# Ensure log directory exists
+os.makedirs(config.LOG_PATH, exist_ok=True)
+
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(os.path.join(config.LOG_PATH, 'formfilling.log')),
+        logging.StreamHandler()
+    ]
+)
 
 def get_google_sheet_data(sheet_id, credentials_path):
     """
@@ -93,7 +110,7 @@ def contains_chinese(text):
 def fill_static_pdf(static_pdf_path, output_pdf_path, mapping, data):
     """Fills a static PDF form with data from a dictionary."""
     try:
-        logging.info(f"Opening PDF: {static_pdf_path}")
+        #logging.info(f"Opening PDF: {static_pdf_path}")
         doc = fitz.open(static_pdf_path)
         field_mapping, checkbox_mapping = mapping
 
@@ -152,15 +169,15 @@ def fill_static_pdf(static_pdf_path, output_pdf_path, mapping, data):
                             logging.error(f"Invalid page index {page_index} for checkbox {field_name}. PDF has {len(doc)} pages.")
                             continue
                         page = doc[page_index]
-                        page.insert_image(rect, filename="checkmark.png")  # Use filename or another image source 
+                        page.insert_image(rect, filename=config.CHECKMARK_PATH)  # Use full path from config 
                 except Exception as e:
-                    logging.error(f"Error filling checkbox {field_name}: {str(e)}")
+                    logging.error(f"Error filling checkbox {field_name}: {str(e)}, key: {key}, value: {value}")
 
-        logging.info(f"Saving filled PDF to: {output_pdf_path}")
+        #logging.info(f"Saving filled PDF to: {output_pdf_path}")
         doc.save(output_pdf_path)
         doc.close()
         logging.info(f"Filled form saved as {output_pdf_path}")
-        print(f"Filled form saved as {output_pdf_path}")
+        #print(f"Filled form saved as {output_pdf_path}")
     except Exception as e:
         logging.error(f"Failed to fill static PDF: {str(e)}")
         if 'doc' in locals():
@@ -173,8 +190,8 @@ def create_output_folder(base_folder, email_address):
     if not os.path.exists(email_folder):
         os.makedirs(email_folder)
         logging.info(f"Created folder: {email_folder}")
-    else:
-        logging.info(f"Folder already exists: {email_folder}")
+    #else:
+    #    logging.info(f"Folder already exists: {email_folder}")
 
     return email_folder
 
@@ -259,9 +276,7 @@ def custom_spacing_SOCcode(number_str, spaces=[3, 6, 3, 2, 2]):
     for i, digit in enumerate(digits):  
         spaced_str += digit  
         if i < len(digits) - 1:  # Avoid adding space at the end  
-            # Use the spacing if available, otherwise use 1 space as default
-            space_count = spaces[i] if i < len(spaces) else 1
-            spaced_str += ' ' * space_count
+            spaced_str += ' ' * spaces[i]  # Use the predefined spacing  
 
     return spaced_str 
 
@@ -330,14 +345,14 @@ def process_form(form_name, df, email_filter=None):
             logging.error(f"Form configuration for '{form_name}' not found.")
             return
 
-        static_pdf_path = os.path.join(config.FOLDER_PATH, form_config["STATIC_PDF_PATH"])
-        mapping_file_path = os.path.join(config.FOLDER_PATH, form_config["MAPPING_FILE_PATH"])
-        output_folder_base = os.path.join(config.FOLDER_PATH, "filled")
+        static_pdf_path = form_config["STATIC_PDF_PATH"]
+        mapping_file_path = form_config["MAPPING_FILE_PATH"]
+        output_folder_base = config.OUTPUT_BASE_FOLDER
 
         # Log paths for debugging
         logging.info(f"Processing form {form_name}")
-        logging.info(f"Static PDF path: {static_pdf_path}")
-        logging.info(f"Mapping file path: {mapping_file_path}")
+        #logging.info(f"Static PDF path: {static_pdf_path}")
+        #logging.info(f"Mapping file path: {mapping_file_path}")
 
         # Check if files exist
         if not os.path.exists(static_pdf_path):
@@ -360,7 +375,7 @@ def process_form(form_name, df, email_filter=None):
 
         checkbox_mapping = None
         if form_name in ['140','9089']:
-            mapping_checkbox_file_path = os.path.join(config.FOLDER_PATH, form_config["MAPPING_CHECKMARK_FILE_PATH"])
+            mapping_checkbox_file_path = form_config["MAPPING_CHECKMARK_FILE_PATH"]
             if not os.path.exists(mapping_checkbox_file_path):
                 logging.error(f"Checkbox mapping file not found: {mapping_checkbox_file_path}")
                 return
@@ -373,10 +388,22 @@ def process_form(form_name, df, email_filter=None):
 
         # Filter DataFrame by email if specified
         if email_filter:
-            df = df[df["S2.5. Email Address"] == email_filter]
-            if df.empty:
+            user_rows = df[df["S2.5. Email Address"] == email_filter]
+            if user_rows.empty:
                 logging.warning(f"No records found for email: {email_filter}")
                 return
+            
+            # If multiple rows exist for the same email, get the most recent one based on timestamp
+            if len(user_rows) > 1:
+                #logging.info(f"Found {len(user_rows)} responses for {email_filter}, using the most recent one")
+                # Convert timestamp to datetime for proper sorting
+                user_rows = user_rows.copy()
+                user_rows['Timestamp'] = pd.to_datetime(user_rows['Timestamp'], errors='coerce')
+                # Sort by timestamp descending (most recent first) and take the first row
+                user_rows = user_rows.sort_values('Timestamp', ascending=False)
+                df = user_rows.iloc[[0]]  # Keep as DataFrame with single row
+            else:
+                df = user_rows
 
         # Process each row of the DataFrame
         for index, row in df.iterrows():
@@ -425,7 +452,7 @@ def main(fill_option=None, email_filter=None):
 
     
     # Load data from Google Sheets
-    df = get_google_sheet_data(config.GOOGLE_SHEET_ID, config.GOOGLE_CREDENTIALS_PATH)
+    df = get_google_sheet_data(config.GOOGLE_SHEET_ID, config.GOOGLE_SHEETS_CREDENTIALS_PATH)
     
     if df is None:
         logging.error("Failed to load data from Google Sheets. Exiting.")
@@ -450,6 +477,13 @@ if __name__ == "__main__":
     try:
         # Check if running in an interactive environment (like Colab or Jupyter Notebook)
         from IPython import get_ipython
-        main(fill_option=config.DEFAULT_FILL, email_filter=config.DEFAULT_EMAIL)
+        ipython = get_ipython()
+        if ipython is not None:
+            # Running in interactive environment
+            main(fill_option=config.DEFAULT_FILL, email_filter=config.DEFAULT_EMAIL)
+        else:
+            # Running from terminal
+            main()
     except ImportError:
-        main()  # Run normally with argparse when executed from terminal
+        # No IPython available, running from terminal
+        main()
