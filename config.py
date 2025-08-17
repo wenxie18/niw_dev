@@ -36,6 +36,14 @@ GOOGLE_FORM_CREDENTIALS_PATH = os.path.join(CREDENTIALS_PATH, "credentials-googl
 # 5. Replace the key below with your new API key
 GOOGLE_MAPS_API_KEY = 'AIzaSyDx4DZ734PQXD-_aoIUhPqrPsXioE_ZrlM'  # This key works as shown in the test
 
+# SerpAPI Configuration
+# To get a valid API key:
+# 1. Go to https://serpapi.com/dashboard
+# 2. Sign up and get your API key
+# 3. Replace the key below with your API key
+SERPAPI_KEY = '297e9f2f752895b4330978487115b604ce242fa820fd1a4c06b7f6228a6705ad'  # Replace with your actual SerpAPI key
+SERPAPI_ENABLED = False  # Set to False to disable SerpAPI fallback
+
 # Form Configuration
 FORMS_CONFIG = {
     "1145": {
@@ -56,5 +64,5 @@ FORMS_CONFIG = {
 
 # Default parameters (can be overridden via command-line arguments)
 DEFAULT_FILL = 'all'  # Options: 'all', '1145', '9089', '140'
-DEFAULT_EMAIL = 'vaneshieh@gmail.com' #'ziyuan1501040205@gmail.com'  #'ziyuan1501040205@gmail.com' Default email to process, set to None to process all emails
+DEFAULT_EMAIL = 'zxiliang51@gmail.com' #'ziyuan1501040205@gmail.com'  #'ziyuan1501040205@gmail.com' Default email to process, set to None to process all emails
 #'jacquelineliu1997@gmail.com'#

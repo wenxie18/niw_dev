@@ -105,7 +105,7 @@ def get_google_sheet_data(sheet_id, credentials_path):
 
 def insert_text_with_width(page, text, x0, y0, field_width, font_size=10, font_name="helv", pdf_path=None):
     """
-    Insert text that spans the full width of a form field.
+    Insert text that spans the full width of a form field while preserving paragraph structure.
     
     Args:
         page: PDF page object
@@ -116,46 +116,97 @@ def insert_text_with_width(page, text, x0, y0, field_width, font_size=10, font_n
         font_name: Font name
         pdf_path: PDF path for form-specific adjustments
     """
-    # Split text into words
-    words = text.split()
-    current_line = ""
-    current_x = x0
-    current_y = y0
-    
     # Form-specific line height adjustments
     if pdf_path and "140" in pdf_path:
         # 140 form has specific line spacing - use larger line height
-        line_height = font_size * 1.8  # Double the line height for 140 form
+        line_height = font_size * 1.8  # Adjusted line height for 140 form
         font_size = 10
     else:
         # Default line height for other forms, 9089
         line_height = font_size * 1.2  # Standard line height
-        font_size = 12
+        font_size = 10
     
     # Estimate characters per line based on field width
     # Approximate: 1 character ≈ 6-8 points at font_size 10
     # For wider fields, we can be more aggressive with character count
     chars_per_line = int(field_width / 6.5)  # More aggressive estimate for wider fields
     
-    for word in words:
-        # Test if adding this word would exceed the estimated line length
-        test_line = current_line + " " + word if current_line else word
-        
-        if len(test_line) <= chars_per_line and current_line:
-            # Word fits on current line
-            current_line = test_line
+    # Split text into paragraphs first (preserve blank lines and single newlines)
+    # Handle different types of line breaks that might be in survey data
+    paragraphs = []
+    if '\n\n' in text:
+        # Double newlines indicate paragraph breaks
+        paragraphs = text.split('\n\n')
+    elif '\n' in text:
+        # Single newlines might indicate line breaks within paragraphs
+        # Split by single newlines but treat as separate lines rather than paragraphs
+        lines = text.split('\n')
+        paragraphs = [lines]  # Treat all lines as one paragraph
+    else:
+        # No line breaks, treat as single paragraph
+        paragraphs = [text]
+    
+    current_x = x0
+    current_y = y0
+    
+    for paragraph in paragraphs:
+        if isinstance(paragraph, list):
+            # This is a list of lines (from single newline split)
+            for line in paragraph:
+                if line.strip():  # Skip empty lines
+                    # Process this line word by word
+                    words = line.strip().split()
+                    current_line = ""
+                    
+                    for word in words:
+                        test_line = current_line + " " + word if current_line else word
+                        
+                        if len(test_line) <= chars_per_line and current_line:
+                            current_line = test_line
+                        else:
+                            if current_line:
+                                page.insert_text((current_x, current_y), current_line, fontsize=font_size, fontname=font_name)
+                                current_y += line_height
+                            current_line = word
+                    
+                    # Insert the last line of this line
+                    if current_line:
+                        page.insert_text((current_x, current_y), current_line, fontsize=font_size, fontname=font_name)
+                        current_y += line_height
         else:
-            # Word doesn't fit, insert current line and start new line
+            # This is a regular paragraph (from double newline split)
+            if not paragraph.strip():  # Skip empty paragraphs
+                current_y += line_height  # Add extra space for paragraph breaks
+                continue
+                
+            # Split paragraph into words
+            words = paragraph.strip().split()
+            current_line = ""
+            
+            for word in words:
+                # Test if adding this word would exceed the estimated line length
+                test_line = current_line + " " + word if current_line else word
+                
+                if len(test_line) <= chars_per_line and current_line:
+                    # Word fits on current line
+                    current_line = test_line
+                else:
+                    # Word doesn't fit, insert current line and start new line
+                    if current_line:
+                        page.insert_text((current_x, current_y), current_line, fontsize=font_size, fontname=font_name)
+                        current_y += line_height
+                    
+                    # Start new line with current word
+                    current_line = word
+            
+            # Insert the last line of the paragraph
             if current_line:
                 page.insert_text((current_x, current_y), current_line, fontsize=font_size, fontname=font_name)
                 current_y += line_height
-            
-            # Start new line with current word
-            current_line = word
-    
-    # Insert the last line
-    if current_line:
-        page.insert_text((current_x, current_y), current_line, fontsize=font_size, fontname=font_name)
+        
+        # Add extra space between paragraphs (except after the last one)
+        if paragraph != paragraphs[-1]:  # Not the last paragraph
+            current_y += line_height * 0.5  # Half line height for paragraph spacing
 
 def contains_chinese(text):
     """Check if the text contains any Chinese characters."""
@@ -232,7 +283,7 @@ def fill_static_pdf(static_pdf_path, output_pdf_path, mapping, data, form_errors
                         # 9089 form fields can use more width (650 points)
                         # 140 form fields are more constrained (300 points)
                         if "9089" in static_pdf_path:
-                            field_width = 550  # 9089 form - use more width
+                            field_width = 660  # 9089 form - use more width
                         else:
                             field_width = 330  # 140 form - more constrained
                         
@@ -416,7 +467,7 @@ def custom_spacing_i94(number_str, spaces=[3, 4, 3, 3, 3, 3, 4, 3, 3, 3]):
     #print(f"I94 DEBUG: Final result: '{spaced_str}'")
     return spaced_str 
 
-def custom_spacing_ssn(number_str, spaces=[2, 3, 2, 2, 2, 3, 2, 2]):  
+def custom_spacing_ssn(number_str, spaces=[3, 4, 3, 3, 3, 3, 3, 3]):  
     """  
     8space, 9 digits
     Add custom spaces between digits based on the specified space list.  
@@ -679,9 +730,10 @@ def process_df(df):
         df["S6.14. Job Start Date"] = ''
 
     try:
-        # job description - use wider wrapping for 9089 form fields
-        df["S6.24. Job Duties: Specify details of the job (work tasks performed, use of tools/equipment, supervision, etc.) (up to 3,500 characters)"] = \
-            df["S6.24. Job Duties: Specify details of the job (work tasks performed, use of tools/equipment, supervision, etc.) (up to 3,500 characters)"].apply(lambda x: '\n'.join(wrap(x, 80)))  # Increased from 30 to 80 characters
+        # job description - preserve original paragraph structure, don't use textwrap
+        # df["S6.24. Job Duties: Specify details of the job (work tasks performed, use of tools/equipment, supervision, etc.) (up to 3,500 characters)"] = \
+        #     df["S6.24. Job Duties: Specify details of the job (work tasks performed, use of tools/equipment, supervision, etc.) (up to 3,500 characters)"].apply(lambda x: '\n'.join(wrap(x, 80)))  # Increased from 30 to 80 characters
+        pass  # Keep original text structure
     except Exception as e:
         error_msg = f"Error processing Job Duties: {str(e)}"
         logging.error(error_msg)
