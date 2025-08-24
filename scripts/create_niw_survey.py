@@ -1,7 +1,17 @@
+#!/usr/bin/env python3
+"""
+Debug script to examine line break characters in survey data
+"""
+
 import json
 import os
 import socket
+import sys
 import time
+
+# Add parent directory to path so we can import config
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
@@ -176,8 +186,8 @@ def add_question(service, form_id, question, question_type='TEXT', max_retries=3
                 return False
 
 def main():
-    # Load the survey questions
-    survey_path = os.path.join(config.DATA_PATH, 'survey_questions_mapping_v1.json')
+    # Load the survey questions - updated to use v2 and correct path
+    survey_path = config.SURVEY_QUESTIONS_MAPPING_PATH
     with open(survey_path, 'r') as f:
         survey_data = json.load(f)
     
@@ -186,15 +196,31 @@ def main():
     service = build('forms', 'v1', credentials=creds)
     
     # Create the form
-    form_title = "NIW Petition Information Survey"
+    form_title = "NIW Petition Information Survey v2"
     form_description = """
-    This survey collects information needed for your National Interest Waiver (NIW) petition.
+    This survey collects comprehensive information needed for your National Interest Waiver (NIW) petition.
+    
+    The survey is organized into logical sections covering:
+    • Personal Information
+    • Petition Details  
+    • Educational Background
+    • Current Position and Company
+    • Research and Expertise
+    • Publications and Citations
+    • Citation Information
+    • Cross-Publication Synthesis
+    • Exhibit References
+    • Expertise Summary
+    
     Please provide accurate and detailed information for each question.
     All information will be used to prepare your NIW petition documents.
+    
+    Note: This is a comprehensive survey - take your time to provide thorough answers.
     """
     
     form_id = create_form(service, form_title, form_description)
     print(f"Created form with ID: {form_id}")
+    print(f"Form URL: https://docs.google.com/forms/d/{form_id}/edit")
     
     # Add sections and questions
     total_items = 0  # Track total number of items added
@@ -203,7 +229,11 @@ def main():
     # Use sections in their original order since Google Forms adds new items at the top
     sections = list(survey_data['sections'].items())
     
+    print(f"\nProcessing {len(sections)} sections...")
+    
     for section_key, section in sections:
+        print(f"\n--- Processing Section: {section['title']} ---")
+        
         # First add the section header
         if not add_section(service, form_id, section['title'], section['description'], total_items):
             print(f"Failed to add section: {section['title']}")
@@ -213,6 +243,9 @@ def main():
         
         # Create a batch request for all questions in this section
         requests = []
+        question_count = len(section['questions'])
+        print(f"  Adding {question_count} questions...")
+        
         for question_index, (key, question) in enumerate(section['questions'].items()):
             requests.append({
                 'createItem': {
@@ -238,24 +271,31 @@ def main():
                     formId=form_id,
                     body={'requests': requests}
                 ).execute()
-                print(f"Successfully added questions for section: {section['title']}")
+                print(f"  ✅ Successfully added {len(requests)} questions for section: {section['title']}")
                 total_items += len(requests)  # Increment for all questions added
             except HttpError as error:
-                print(f"Error adding questions for section '{section['title']}': {error}")
+                print(f"  ❌ Error adding questions for section '{section['title']}': {error}")
                 failed_questions.extend([(key, question) for key, question in section['questions'].items()])
         
         time.sleep(1)  # Add delay between sections
     
     # Retry failed questions
     if failed_questions:
-        print("\nRetrying failed questions...")
+        print(f"\n⚠️  {len(failed_questions)} questions failed. Retrying...")
         time.sleep(60)  # Wait a minute before retrying
         for key, question in failed_questions:
             if not add_question(service, form_id, question, delay=2):
                 print(f"Failed to add question after retry: {question}")
     
-    print(f"\nForm creation completed. You can access your form at:")
+    print(f"\n🎉 Form creation completed!")
+    print(f"📊 Total sections: {len(sections)}")
+    print(f"📝 Total questions: {sum(len(section['questions']) for section in survey_data['sections'].values())}")
+    print(f"✅ Successfully added: {total_items - len(sections)} questions")
+    print(f"❌ Failed questions: {len(failed_questions)}")
+    print(f"\n🔗 You can access your form at:")
     print(f"https://docs.google.com/forms/d/{form_id}/edit")
+    print(f"\n📋 Share this link with respondents:")
+    print(f"https://docs.google.com/forms/d/{form_id}/viewform")
 
 if __name__ == '__main__':
     main() 

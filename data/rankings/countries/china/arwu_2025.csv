@@ -1,0 +1,588 @@
+rank,university_name,country
+1,Tsinghua University,China
+2,Peking University,China
+3,Zhejiang University,China
+4,Shanghai Jiao Tong University,China
+5,Fudan University,China
+6,Nanjing University,China
+7,University of Science and Technology of China,China
+8,Wuhan University,China
+9,Huazhong University of Science and Technology,China
+10,Xi'an Jiaotong University,China
+11,Beihang University,China
+12,Sun Yat-sen University,China
+13,Beijing Institute of Technology,China
+14,Harbin Institute of Technology,China
+15,Sichuan University,China
+16,Southeast University,China
+17,Renmin University of China,China
+18,Tongji University,China
+19,Beijing Normal University,China
+20,Tianjin University,China
+21,Northwestern Polytechnical University,China
+22,Shandong University,China
+23,Nankai University,China
+24,Xiamen University,China
+25,China Agricultural University,China
+26,Jilin University,China
+27,Central South University,China
+28,Dalian University of Technology,China
+29,Hunan University,China
+30,East China Normal University,China
+31,South China University of Technology,China
+32,Southern University of Science and Technology,China
+33,University of Electronic Science and Technology of China,China
+34,Chongqing University,China
+35,University of Science and Technology Beijing,China
+36,Nanjing University of Aeronautics and Astronautics,China
+37,Northeastern University,China
+38,Nanjing University of Science and Technology,China
+39,Lanzhou University,China
+40,Xidian University,China
+41,ShanghaiTech University,China
+42,Beijing Jiaotong University,China
+43,Harbin Engineering University,China
+44,East China University of Science and Technology,China
+45,Northeast Normal University,China
+46,Soochow University,China
+47,Huazhong Agricultural University,China
+48,Wuhan University of Technology,China
+48,"China University of Petroleum, Beijing",China
+50,Zhengzhou University,China
+51,Jiangnan University,China
+52,Southwest Jiaotong University,China
+53,Nanjing Agricultural University,China
+54,China University of Geosciences,China
+55,Jinan University,China
+56,Central China Normal University,China
+56,Ocean University of China,China
+58,Nanjing Normal University,China
+59,China University of Mining and Technology,China
+60,Beijing University of Posts and Telecommunications,China
+61,Shanghai University,China
+62,Zhejiang University of Technology,China
+63,Beijing University of Chemical Technology,China
+64,Hohai University,China
+65,Shaanxi Normal University,China
+66,Southwest University,China
+67,China University of Petroleum (East China),China
+68,Shenzhen University,China
+69,Yunnan University,China
+70,Northwest University,China
+71,Northwest A&F University,China
+72,Beijing University of Technology,China
+73,Nanchang University,China
+74,Donghua University,China
+75,China University of Geosciences Beijing,China
+76,China University of Mining & Technology-Beijing,China
+77,Fuzhou University,China
+78,Ningbo University,China
+79,Hefei University of Technology,China
+80,South China Normal University,China
+81,Nanjing University of Posts and Telecommunications,China
+82,Jiangsu University,China
+83,North China Electric Power University,China
+84,Chang'an University,China
+85,Beijing Forestry University,China
+86,Guizhou University,China
+87,Fujian Normal University,China
+88,Hunan Normal University,China
+89,Guangxi University,China
+90,Nanjing Forestry University,China
+91,Yangzhou University,China
+92,Zhejiang Normal University,China
+93,Hainan University,China
+94,Nanjing Tech University,China
+95,Nanjing University of Information Science & Technology,China
+96,Guangdong University of Technology,China
+97,Hangzhou Dianzi University,China
+98,Anhui University,China
+99,Capital Normal University,China
+100,South China Agricultural University,China
+101,Shanxi University,China
+102,Henan University,China
+103,Taiyuan University of Technology,China
+104,Shandong Normal University,China
+105,Guangzhou University,China
+106,Zhejiang Sci-Tech University,China
+107,Xiangtan University,China
+108,University of Shanghai for Science and Technology,China
+109,Hebei University of Technology,China
+110,Dalian Maritime University,China
+111,Qingdao University,China
+112,Yanshan University,China
+113,Northeast Forestry University,China
+114,Hangzhou Normal University,China
+115,Xi'an University of Architecture and Technology,China
+116,Hubei University,China
+117,Kunming University of Science and Technology,China
+118,Inner Mongolia University,China
+119,Xi'an University of Technology,China
+120,Wuhan University of Science and Technology,China
+121,Jiangxi Normal University,China
+122,Northeast Agricultural University,China
+122,Southwest Petroleum University,China
+124,Shanghai Normal University,China
+125,Fujian Agriculture and Forestry University,China
+126,Wenzhou University,China
+127,Changsha University of Science and Technology,China
+127,Xinjiang University,China
+129,Hebei University,China
+130,Shandong University of Science and Technology,China
+131,Liaoning University,China
+132,Chengdu University of Technology,China
+133,Shandong Agricultural University,China
+134,Ningxia University,China
+135,Huaqiao University,China
+135,Shaanxi University of Science and Technology,China
+137,Tiangong University,China
+138,Changchun University of Science and Technology,China
+139,Anhui Normal University,China
+140,Shihezi University,China
+141,Sichuan Agricultural University,China
+142,Tianjin Normal University,China
+143,Shanghai Ocean University,China
+144,Jiangsu University of Science and Technology,China
+145,Qilu University of Technology,China
+146,China Jiliang University,China
+147,Heilongjiang University,China
+148,Anhui Agricultural University,China
+148,Hubei University of Technology,China
+150,Zhejiang A&F University,China
+151,Nantong University,China
+152,Henan Agricultural University,China
+153,Chongqing University of Posts and Telecommunications,China
+154,Changzhou University,China
+155,Guangxi Normal University,China
+156,Hunan Agricultural University,China
+157,Qufu Normal University,China
+158,Jilin Agricultural University,China
+159,Wuhan Textile University,China
+160,Wuhan Institute of Technology,China
+161,Henan Normal University,China
+162,Tianjin University of Science and Technology,China
+163,Liaoning Normal University,China
+164,Jiangsu Normal University,China
+165,Beijing University of Civil Engineering and Architecture,China
+166,Shantou University,China
+167,Jimei University,China
+168,Qingdao University of Science and Technology,China
+168,China Three Gorges University,China
+168,Yanbian University,China
+171,Shenyang Agricultural University,China
+172,Henan University of Science and Technology,China
+173,North University of China,China
+174,University of Jinan,China
+175,East China Jiaotong University,China
+176,Shanghai Maritime University,China
+177,Nanchang Hangkong University,China
+178,Hebei Normal University,China
+179,Northwest Normal University,China
+180,Tianjin University of Technology,China
+181,Hunan University of Science and Technology,China
+182,University of International Relations,China
+183,Shenyang Aerospace University,China
+184,Henan Polytechnic University,China
+185,Yangtze University,China
+186,Shanghai University of Electric Power,China
+187,University of South China,China
+187,Shenyang University of Technology,China
+189,Chongqing Jiaotong University,China
+190,Anhui University of Technology,China
+190,Jiangxi University of Science and Technology,China
+192,Xi'an University of Science and Technology,China
+193,Anhui University of Science and Technology,China
+194,Shandong University of Technology,China
+195,Tibet University,China
+196,Jiangxi Agricultural University,China
+197,Hebei Agricultural University,China
+198,Qinghai University,China
+199,Lanzhou University of Technology,China
+200,Xi'an University of Posts and Telecommunications,China
+201,Guilin University of Electronic Technology,China
+201,Sichuan Normal University,China
+203,Yunnan Normal University,China
+204,Beijing Information Science & Technology University,China
+205,Yantai University,China
+206,Suzhou University of Science and Technology,China
+207,Central South University of Forestry & Technology,China
+208,Southwest University of Science and Technology,China
+209,Lanzhou Jiaotong University,China
+210,Qingdao University of Technology,China
+211,Huzhou University,China
+212,Xi'an Technological University,China
+213,Harbin Normal University,China
+214,East China University of Technology,China
+215,North China University of Technology,China
+216,Beijing Electronic Science and Technology Institute,China
+217,Northeast Petroleum University,China
+218,Chongqing Normal University,China
+219,Shenyang Jianzhu University,China
+220,Inner Mongolia Agricultural University,China
+221,Inner Mongolia Normal University,China
+222,Dalian Polytechnic University,China
+223,Shijiazhuang Tiedao University,China
+224,Henan University of Technology,China
+225,Jiaxing University,China
+226,Hainan Normal University,China
+227,Shanxi Agricultural University,China
+228,Qingdao Agricultural University,China
+229,Northeast Electric Power University,China
+229,Zhejiang Ocean University,China
+231,Zhejiang University of Science and Technology,China
+232,Chengdu University,China
+233,Harbin University of Science and Technology,China
+234,Shanghai University of Engineering Science,China
+235,Xi'an Shiyou University,China
+236,Shanghai Institute of Technology,China
+237,Guizhou Normal University,China
+238,Hebei University of Science and Technology,China
+239,Foshan University,China
+240,Qinghai Normal University,China
+241,Gansu Agricultural University,China
+242,Dongguan University of Technology,China
+243,Civil Aviation University of China,China
+244,Chongqing University of Technology,China
+245,North China University of Water Resources and Electric Power,China
+246,Wuhan Polytechnic University,China
+247,Ludong University,China
+248,Gannan Normal University,China
+249,Shandong Jianzhu University,China
+250,Jianghan University,China
+251,Hangzhou City University,China
+252,Liaocheng University,China
+253,Shenyang University of Chemical Technology,China
+254,Guilin University of Technology,China
+255,Chengdu University of Information Technology,China
+256,Xi'an Polytechnic University,China
+256,Zhengzhou University of Light Industry,China
+258,Anhui Polytechnic University,China
+258,China West Normal University,China
+260,Dalian Jiaotong University,China
+261,Nanjing Institute of Technology,China
+262,Shanghai Customs College,China
+263,Liaoning Petrochemical University,China
+264,Shenyang Ligong University,China
+265,Shaoxing University,China
+266,Yan'an University,China
+267,Inner Mongolia University of Technology,China
+267,Shenyang University,China
+269,Xiamen University of Technology,China
+270,Xihua University,China
+271,Changchun University of Technology,China
+272,Shenyang Normal University,China
+273,Dalian University,China
+273,North China University of Science and Technology,China
+275,Anhui Jianzhu University,China
+276,Hunan University of Technology,China
+277,Jinggangshan University,China
+278,Shanxi Normal University,China
+279,Liaoning Technical University,China
+280,Beijing University of Agriculture,China
+281,NingboTech University,China
+282,Fujian University of Technology,China
+283,Changshu Institute of Technology,China
+284,Zhongyuan University of Technology,China
+285,Hefei University,China
+286,Chongqing University of Science and Technology,China
+287,Bohai University,China
+288,Yunnan Agricultural University,China
+289,Taizhou University,China
+290,Dali University,China
+291,Taiyuan University of Science and Technology,China
+292,Heilongjiang Bayi Agricultural University,China
+293,Ningbo University of Technology,China
+294,Shenzhen Technology University,China
+295,Hebei University of Engineering,China
+296,University of Science and Technology Liaoning,China
+297,Beijing Union University,China
+297,Beijing Institute of Petrochemical Technology,China
+299,Xinjiang Agricultural University,China
+300,Jishou University,China
+300,Liaoning University of Technology,China
+302,Beijing Institute of Graphic Communication,China
+303,Minnan Normal University,China
+304,Huaiyin Institute of Technology,China
+305,Minjiang University,China
+306,Guangdong Ocean University,China
+307,Xinyang Normal University,China
+308,Hebei GEO University,China
+309,Beihua University,China
+310,Jilin Normal University,China
+311,Linyi University,China
+312,Huaibei Normal University,China
+313,Dalian Ocean University,China
+314,Nanning Normal University,China
+315,Yancheng Institute of Technology,China
+316,Jilin Jianzhu University,China
+317,Wuxi University,China
+318,Tarim University,China
+319,Guangdong Polytechnic Normal University,China
+320,Changsha University,China
+321,Jingdezhen Ceramic University,China
+322,Henan Institute of Science and Technology,China
+322,Jiangsu Ocean University,China
+324,Tianjin Chengjian University,China
+325,Hubei Normal University,China
+326,Guizhou Education University,China
+327,Jiangxi Science and Technology Normal University,China
+328,Southwest Forestry University,China
+329,Wuyi University,China
+330,Inner Mongolia University of Science & Technology,China
+331,Nanjing XiaoZhuang University,China
+332,Changchun Normal University,China
+333,Yangtze Normal University,China
+333,Chongqing University of Arts and Sciences,China
+335,Xinjiang Normal University,China
+336,Anqing Normal University,China
+336,Huaiyin Normal University,China
+338,Zhejiang Wanli University,China
+339,Jiangsu University of Technology,China
+340,Shanghai Dianji University,China
+341,Shanghai Polytechnic University,China
+342,Sichuan University of Science and Engineering,China
+343,Changzhou Institute of Technology,China
+344,Hunan Institute of Science and Technology,China
+345,Yancheng Teachers University,China
+346,Zhongkai University of Agriculture and Engineering,China
+347,Hubei University of Automotive Technology,China
+348,Guangxi University of Science and Technology,China
+348,Huanggang Normal University,China
+350,Nanchang Institute of Technology,China
+351,Yulin University,China
+352,Jinling Institute of Technology,China
+352,Shandong Jiaotong University,China
+354,Hubei University of Education,China
+355,Xuzhou University of Technology,China
+356,Tianjin Agricultural University,China
+357,Quanzhou Normal University,China
+358,Hubei University of Arts and Science,China
+359,Luoyang Normal University,China
+360,TianJin University of Technology and Education,China
+361,Shaanxi University of Technology,China
+362,Hunan First Normal University,China
+363,Hefei Normal University,China
+364,Guangdong University of Petrochemical Technology,China
+365,Anhui Science and Technology University,China
+365,Mianyang Teachers' College,China
+367,Quzhou University,China
+368,Guiyang University,China
+369,Huizhou University,China
+370,Sanming University,China
+371,Qiqihar University,China
+372,Chongqing Three Gorges University,China
+373,Changchun Institute of Technology,China
+373,Lishui University,China
+375,Hengyang Normal University,China
+376,Xizang Agricultural and Animal Husbandry University,China
+377,Panzhihua University,China
+378,Xiangnan University,China
+379,Changchun University,China
+379,Tongren University,China
+381,Hubei University of Science and Technology,China
+381,Luoyang Institute of Science and Technology,China
+383,Civil Aviation Flight University of China,China
+384,Lingnan Normal University,China
+385,Fuyang Normal University,China
+385,Jiamusi University,China
+385,Qiannan Normal College for Nationalities,China
+385,Taishan University,China
+389,Heilongjiang University of Science and Technology,China
+390,Longyan University,China
+391,Institute of Disaster Prevention,China
+392,Chengdu Normal University,China
+393,Neijiang Normal University,China
+394,Chuzhou University,China
+395,Hubei Polytechnic University,China
+396,Zhoukou Normal University,China
+397,Hebei Normal University of Science and Technology,China
+397,Jiangsu Second Normal University,China
+399,Shandong University of Aeronautics,China
+400,Huaihua University,China
+401,Shenyang Institute of Engineering,China
+402,Putian University,China
+403,Hunan City University,China
+404,North China Institute of Aerospace Engineering,China
+405,Shaoguan University,China
+406,Hunan Institute of Engineering,China
+407,Qujing Normal University,China
+408,Hunan University of Arts and Science,China
+408,Zhejiang University of Water Resources and Electric Power,China
+410,Weifang University,China
+411,Yibin University,China
+412,Dezhou University,China
+412,West Anhui University,China
+414,Nanyang Normal University,China
+415,Beibu Gulf University,China
+416,Guizhou Institute of Technology,China
+416,Hunan University of Science and Engineering,China
+418,Zaozhuang University,China
+419,Mudanjiang Normal University,China
+420,Suqian University,China
+421,Taiyuan Normal University,China
+422,Shaoyang University,China
+423,Guangdong University of Education,China
+423,Yulin Normal University,China
+425,Shijiazhuang University,China
+426,Tonghua Normal University,China
+426,Xi'an University,China
+428,Henan University Of Engineering,China
+428,Zhaoqing University,China
+428,Zunyi Normal University,China
+431,Heilongjiang Institute of Technology,China
+431,Kunming University,China
+433,Ningde Normal University,China
+434,Nanyang Institute Of Technology,China
+436,Huanghuai University,China
+437,Yichun University,China
+438,Jilin Institute of Chemical Technology,China
+439,Xuchang University,China
+440,Hanshan Normal University,China
+440,Shangrao Normal University,China
+442,Baoji University of Arts and Sciences,China
+442,Chongqing University of Education,China
+442,Leshan Normal University,China
+445,Huainan Normal University,China
+445,Wenzhou University of Technology,China
+447,Anyang Normal University,China
+448,Xichang College,China
+449,Guangzhou Maritime University,China
+450,Henan University of Urban Construction,China
+451,Qilu Normal University,China
+452,Huzhou College,China
+453,Tianshui Normal University,China
+454,"Hunan University of Humanities, Science and Technology",China
+454,Tangshan Normal University,China
+456,Shangqiu Normal University,China
+457,Chengdu Technological University,China
+457,Liupanshui Normal University,China
+459,Chaohu University,China
+460,Hezhou University,China
+460,Baotou Teachers' College,China
+460,Pingdingshan University,China
+463,Nanchang Normal University,China
+463,Weinan Normal University,China
+465,Ningxia Normal University,China
+466,Hunan Institute of Technology,China
+467,Anshan Normal University,China
+468,Harbin University,China
+468,Hubei Engineering University,China
+470,Jilin Engineering Normal University,China
+471,Langfang Normal University,China
+472,Xi'an Aeronautical Institute,China
+473,Xinyang Agriculture and Forestry University,China
+474,Shanxi Datong University,China
+475,Huangshan University,China
+475,Jiaying University,China
+477,Fujian Polytechnic Normal University,China
+478,Sichuan Tourism University,China
+478,Xianyang Normal University,China
+480,Nanjing Normal University of Special Education,China
+480,Suzhou University,China
+482,Kaili University,China
+483,Hainan Tropical Ocean University,China
+483,Jiujiang University,China
+485,Shandong Management University,China
+486,Yuxi Normal University,China
+487,Anyang Institute of Technology,China
+487,Xinxiang University,China
+489,HeXi University,China
+490,Taiyuan Institute of Technology,China
+491,Shandong Women's University,China
+491,Yili Normal University,China
+493,Hebei University of Architecture,China
+494,Chifeng University,China
+495,Qiongtai Normal University,China
+496,Longdong University,China
+496,Suzhou City University,China
+498,YingKou Institute of Technology,China
+499,Daqing Normal University,China
+500,North China Institute of Science and Technology,China
+500,ABA TEACHERS COLLEGE,China
+500,Ankang University,China
+500,Anshun University,China
+500,Baicheng Normal University,China
+500,Baise University,China
+500,Baoding University,China
+500,Baoshan University,China
+500,Bengbu University,China
+500,Bozhou University,China
+500,Cangzhou Normal University,China
+500,Changji University,China
+500,Changsha Normal University,China
+500,Changzhi University,China
+500,Chizhou University,China
+500,Chuxiong Normal University,China
+500,West Yunnan University,China
+500,West Yunnan University of Applied Sciences,China
+500,Ordos Institute of Technology,China
+500,"East China Institute of Technology, Yangtze River College",China
+500,"College of Applied Science, Jiangxi University of Science and Technology",China
+500,Gansu Normal University for Nationalities,China
+500,Guangxi Science and Technology Normal University,China
+500,Guangxi Normal University for Nationalities,China
+500,Guangxi Vocational Normal University,China
+500,Guilin University of Aerospace Technology,China
+500,Guizhou University of Engineering Science,China
+500,Handan University,China
+500,Hanjiang Normal University,China
+500,Hebei University of Environmental Engineering,China
+500,Hebei Normal University for Nationalities,China
+500,Hebei University of Water Resources and Electric Engineering,China
+500,Hechi University,China
+500,Jianghuai College of Anhui University,China
+500,Heihe University,China
+500,Heilongjiang University of Technology,China
+500,Henan Institute of Technology,China
+500,Henan University of Animal Husbandry and Economy,China
+500,Hengshui University,China
+500,Hetao University,China
+500,Heze University,China
+500,Honghe University,China
+500,Hulunbuir University,China
+500,Jilin Agricultural Science and Technology University,China
+500,Jingchu University of Technology,China
+500,Jingdezhen University,China
+500,Jining Normal University,China
+500,Jining University,China
+500,Jinzhong University,China
+500,Kashi University,China
+500,Lanzhou City University,China
+500,Lanzhou Institute of Technology,China
+500,Lanzhou University of Arts and Science,China
+500,Liaodong University,China
+500,Liaoning Institute of Science and Technology,China
+500,Lyuliang University,China
+500,Pingxiang University,China
+500,Puer University,China
+500,Shandong Agriculture and Engineering University,China
+500,Shandong Youth University of Political Science,China
+500,SHANDONG INSTITUTE OF PETROLEUM AND CHEMICAL TECHNOLOGY,China
+500,Shangluo University,China
+500,Modern College of Humanities and Sciences of Shanxi Normal University,China
+500,Shanxi Institute of Technology,China
+500,SHANXI COLLEGE OF TECHNOLOGY,China
+500,Huake College of Taiyuan University of Science and Technology,China
+500,Shanxi Institute of Energy,China
+500,Shaanxi Xueqian Normal University,China
+500,Sichuan Minzu College,China
+500,Sichuan University of Arts and Science,China
+500,Suihua University,China
+500,Taiyuan University,China
+500,Tangshan University,China
+500,Tianjin Sino-German University of Applied Sciences,China
+500,Wenshan University,China
+500,Wuzhou University,China
+500,Xingtai University,China
+500,Xingyi Normal University for Nationalities,China
+500,Xinjiang Institute of Engineering,China
+500,Xinjiang Institute of Technology,China
+500,Xinjiang Institute Of Political Science And Law,China
+500,Xinyu University,China
+500,Xinzhou Teachers University,China
+500,Yuncheng University,China
+500,Yuzhang Normal University,China
+500,Zhangjiakou University,China
+500,Zhaotong University,China
+500,Zhengzhou University of Technology,China
+500,Zhengzhou Normal University,China

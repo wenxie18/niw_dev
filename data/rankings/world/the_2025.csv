@@ -1,0 +1,2856 @@
+rank,university_name,country
+1,University of Oxford,United Kingdom
+2,Massachusetts Institute of Technology,United States
+3,Harvard University,United States
+4,Princeton University,United States
+5,University of Cambridge,United Kingdom
+6,Stanford University,United States
+7,California Institute of Technology,United States
+8,"University of California, Berkeley",United States
+9,Imperial College London,United Kingdom
+10,Yale University,United States
+11,ETH Zurich,Switzerland
+12,Tsinghua University,China
+13,Peking University,China
+=14,The University of Chicago,United States
+=14,University of Pennsylvania,United States
+16,Johns Hopkins University,United States
+17,National University of Singapore,Singapore
+=18,Columbia University,United States
+=18,"University of California, Los Angeles",United States
+20,Cornell University,United States
+21,University of Toronto,Canada
+=22,UCL,United Kingdom
+=22,University of Michigan-Ann Arbor,United States
+24,Carnegie Mellon University,United States
+25,University of Washington,United States
+26,Technical University of Munich,Germany
+27,Duke University,United States
+28,The University of Tokyo,Japan
+29,University of Edinburgh,United Kingdom
+30,"Nanyang Technological University, Singapore",Singapore
+31,Northwestern University,United States
+32,École Polytechnique Fédérale de Lausanne,Switzerland
+33,New York University,United States
+34,"University of California, San Diego",United States
+35,University of Hong Kong,Hong Kong
+=36,Fudan University,China
+=36,King’s College London,United Kingdom
+38,LMU Munich,Germany
+39,University of Melbourne,Australia
+40,Georgia Institute of Technology,United States
+41,University of British Columbia,Canada
+42,Paris Sciences et Lettres – PSL Research University Paris,France
+43,KU Leuven,Belgium
+44,The Chinese University of Hong Kong,Hong Kong
+45,McGill University,Canada
+46,University of Illinois at Urbana-Champaign,United States
+=47,Universität Heidelberg,Germany
+=47,Zhejiang University,China
+49,Karolinska Institute,Sweden
+=50,London School of Economics and Political Science,United Kingdom
+=50,University of Texas at Austin,United States
+52,Shanghai Jiao Tong University,China
+=53,University of Manchester,United Kingdom
+=53,University of Science and Technology of China,China
+55,Kyoto University,Japan
+=56,Delft University of Technology,Netherlands
+=56,University of Wisconsin-Madison,United States
+=58,Brown University,United States
+=58,Monash University,Australia
+=58,University of Amsterdam,Netherlands
+61,The University of Sydney,Australia
+=62,Seoul National University,South Korea
+=62,"University of California, Davis",United States
+64,Université Paris-Saclay,France
+65,Nanjing University,China
+66,The Hong Kong University of Science and Technology,Hong Kong
+=67,"University of California, Santa Barbara",United States
+=67,Wageningen University & Research,Netherlands
+69,Washington University in St Louis,United States
+70,University of North Carolina at Chapel Hill,United States
+71,Institut Polytechnique de Paris,France
+72,University of Southern California,United States
+=73,Australian National University,Australia
+=73,Leiden University,Netherlands
+75,Boston University,United States
+76,Sorbonne University,France
+77,The University of Queensland,Australia
+78,City University of Hong Kong,Hong Kong
+78,University of Bristol,United Kingdom
+79,Purdue University West Lafayette,United States
+=80,University of Groningen,Netherlands
+82,Korea Advanced Institute of Science and Technology,South Korea
+83,UNSW Sydney,Australia
+=84,Humboldt University of Berlin,Germany
+=84,The Hong Kong Polytechnic University,Hong Kong
+=84,University of Massachusetts,United States
+=87,University of Glasgow,United Kingdom
+=87,University of Minnesota,United States
+89,University of Bonn,Germany
+=90,"University of California, Irvine",United States
+=90,Vanderbilt University,United States
+92,RWTH Aachen University,Germany
+=93,Charité - Universitätsmedizin Berlin,Germany
+=93,University of Birmingham,United Kingdom
+=95,KTH Royal Institute of Technology,Sweden
+=95,Lund University,Sweden
+97,University of Copenhagen,Denmark
+=98,Emory University,United States
+=98,University of Sheffield,United Kingdom
+=100,Penn State,United States
+=100,University of Tübingen,Germany
+=102,Sungkyunkwan University,South Korea
+=102,Yonsei University,South Korea
+=104,Free University of Berlin,Germany
+=104,University of Bern,Switzerland
+106,University of Warwick,United Kingdom
+=107,Erasmus University Rotterdam,Netherlands
+=107,Lomonosov Moscow State University,Russian Federation
+=107,University of Helsinki,Finland
+=110,Aarhus University,Denmark
+=110,University of Vienna,Austria
+=112,Ghent University,Belgium
+=112,Rice University,United States
+=112,"University of Maryland, College Park",United States
+115,University of Southampton,United Kingdom
+=116,McMaster University,Canada
+=116,Ohio State University,United States
+=116,University of Alberta,Canada
+=116,University of Oslo,Norway
+120,Tohoku University,Japan
+121,University of Göttingen,Germany
+122,Michigan State University,United States
+123,University of Leeds,United Kingdom
+124,Technical University of Denmark,Denmark
+125,Université de Montréal,Canada
+126,University of Basel,Switzerland
+127,University of Rochester,United States
+=128,University of Adelaide,Australia
+=128,University of Freiburg,Germany
+=130,University of Florida,United States
+=130,Uppsala University,Sweden
+=132,Maastricht University,Netherlands
+=132,University of Hamburg,Germany
+=134,University of Lausanne,Switzerland
+=134,Wuhan University,China
+=136,University of Arizona,United States
+=136,University of Nottingham,United Kingdom
+=136,Vrije Universiteit Amsterdam,Netherlands
+139,Trinity College Dublin,Ireland
+140,Technical University of Berlin,Germany
+=141,Queen Mary University of London,United Kingdom
+=141,University of Pittsburgh-Pittsburgh campus,United States
+=143,Radboud University Nijmegen,Netherlands
+=143,Texas A&M University,United States
+=143,University of Colorado Boulder,United States
+=146,Beijing Normal University,China
+=146,University of Bologna,Italy
+=146,University of York,United Kingdom
+=149,The University of Western Australia,Australia
+=149,University of Barcelona,Spain
+151,Pohang University of Science and Technology,South Korea
+=152,Harbin Institute of Technology,China
+=152,University of Auckland,New Zealand
+=154,Scuola Normale Superiore di Pisa,Italy
+=154,Tongji University,China
+=154,University of Technology Sydney,Australia
+=157,Newcastle University,United Kingdom
+=157,University of Cologne,Germany
+159,Case Western Reserve University,United States
+=160,TU Dresden,Germany
+=160,University of Liverpool,United Kingdom
+162,The University of Osaka,Japan
+=163,University of Virginia,United States
+=163,University of Waterloo,Canada
+=163,University of Würzburg,Germany
+=166,Huazhong University of Science and Technology,China
+=166,Karlsruhe Institute of Technology,Germany
+=168,Dartmouth College,United States
+=168,Lancaster University,United Kingdom
+=168,University of Antwerp,Belgium
+171,University of Geneva,Switzerland
+=172,Durham University,United Kingdom
+=172,National Taiwan University,Taiwan
+=172,University of Exeter,United Kingdom
+175,Université Catholique de Louvain,Belgium
+=176,King Fahd University of Petroleum and Minerals,Saudi Arabia
+=176,Pompeu Fabra University,Spain
+178,Macquarie University,Australia
+179,Tufts University,United States
+=180,University of Cape Town,South Africa
+=180,University of Macau,Macao
+=180,University of Twente,Netherlands
+=183,Southern University of Science and Technology,China
+=183,Université Paris Cité,France
+=185,Eindhoven University of Technology,Netherlands
+=185,Sapienza University of Rome,Italy
+=185,University of St Andrews,United Kingdom
+188,University of Münster,Germany
+=189,Indiana University,United States
+=189,Korea University,South Korea
+=191,Abu Dhabi University,United Arab Emirates
+=191,Stockholm University,Sweden
+=191,University of Leicester,United Kingdom
+=191,University of Ottawa,Canada
+195,Tokyo Institute of Technology,Japan
+=196,Aalto University,Finland
+=196,"University of California, Santa Cruz",United States
+=196,University of Notre Dame,United States
+=199,Ulm University,Germany
+=199,Universitat Autònoma de Barcelona,Spain
+=199,University of Mannheim,Germany
+=199,University of São Paulo,Brazil
+201–250,Arizona State University,United States
+201–250,Beijing Institute of Technology,China
+201–250,Cardiff University,United Kingdom
+201–250,Chalmers University of Technology,Sweden
+201–250,Deakin University,Australia
+201–250,Friedrich Schiller University Jena,Germany
+201–250,Georgetown University,United States
+201–250,George Washington University,United States
+201–250,Goethe University Frankfurt,Germany
+201–250,Indian Institute of Science,India
+201–250,Khalifa University,United Arab Emirates
+201–250,Linköping University,Sweden
+201–250,Medical University of Graz,Austria
+201–250,Medical University of Vienna,Austria
+201–250,Nagoya University,Japan
+201–250,Nankai University,China
+201–250,"Northeastern University, US",United States
+201–250,Politecnico di Milano,Italy
+201–250,Qatar University,Qatar
+201–250,Queensland University of Technology,Australia
+201–250,Queen’s University Belfast,United Kingdom
+201–250,Sant’Anna School of Advanced Studies – Pisa,Italy
+201–250,Sejong University,South Korea
+201–250,Sichuan University,China
+201–250,Sun Yat-sen University,China
+201–250,Tel Aviv University,Israel
+201–250,Tianjin University,China
+201–250,Ulsan National Institute of Science and Technology,South Korea
+201–250,Université Libre de Bruxelles,Belgium
+201–250,Universiti Teknologi Petronas,Malaysia
+201–250,University College Dublin,Ireland
+201–250,University of Aberdeen,United Kingdom
+201–250,University of Calgary,Canada
+201–250,University of Erlangen-Nuremberg,Germany
+201–250,University of Gothenburg,Sweden
+201–250,University of Illinois Chicago,United States
+201–250,University of Luxembourg,Luxembourg
+201–250,University of Miami,United States
+201–250,University of Padua,Italy
+201–250,University of Potsdam,Germany
+201–250,University of Reading,United Kingdom
+201–250,University of Surrey,United Kingdom
+201–250,University of Sussex,United Kingdom
+201–250,University of Utah,United States
+201–250,University of Wollongong,Australia
+201–250,Vita-Salute San Raffaele University,Italy
+201–250,Vrije Universiteit Brussel,Belgium
+201–250,Western University,Canada
+201–250,Xi’an Jiaotong University,China
+251–300,Aalborg University,Denmark
+251–300,Beihang University,China
+251–300,Boston College,United States
+251–300,Curtin University,Australia
+251–300,East China Normal University,China
+251–300,École Normale Supérieure de Lyon,France
+251–300,Hanyang University,South Korea
+251–300,Heinrich Heine University Düsseldorf,Germany
+251–300,Hong Kong Baptist University,Hong Kong
+251–300,Humanitas University,Italy
+251–300,Johannes Gutenberg University of Mainz,Germany
+251–300,King Saud University,Saudi Arabia
+251–300,Kyung Hee University,South Korea
+251–300,LUT University,Finland
+251–300,La Trobe University,Australia
+251–300,Lebanese American University,Lebanon
+251–300,Macau University of Science and Technology,Macao
+251–300,Medical University of Innsbruck,Austria
+251–300,Moscow Institute of Physics and Technology,Russian Federation
+251–300,North Carolina State University,United States
+251–300,Northwestern Polytechnical University,China
+251–300,Prince Mohammad Bin Fahd University,Saudi Arabia
+251–300,RCSI University of Medicine and Health Sciences,Ireland
+251–300,RMIT University,Australia
+251–300,Semmelweis University,Hungary
+251–300,South China University of Technology,China
+251–300,Southern Medical University,China
+251–300,Stony Brook University,United States
+251–300,Swinburne University of Technology,Australia
+251–300,Technical University of Darmstadt,Germany
+251–300,Tilburg University,Netherlands
+251–300,United Arab Emirates University,United Arab Emirates
+251–300,Université Laval,Canada
+251–300,University at Buffalo,United States
+251–300,University of Bath,United Kingdom
+251–300,University of Bergen,Norway
+251–300,"University of California, Riverside",United States
+251–300,University of Duisburg-Essen,Germany
+251–300,University of East Anglia,United Kingdom
+251–300,University of Hawai’i at Mānoa,United States
+251–300,University of Iowa,United States
+251–300,University of Konstanz,Germany
+251–300,University of Liège,Belgium
+251–300,University of Malaya,Malaysia
+251–300,University of Navarra,Spain
+251–300,University of Newcastle,Australia
+251–300,University of Oulu,Finland
+251–300,University of Southern Denmark,Denmark
+251–300,University of Stuttgart,Germany
+251–300,University of Tasmania,Australia
+251–300,Virginia Polytechnic Institute and State University,United States
+301–350,"Birkbeck, University of London",United Kingdom
+301–350,"China Medical University, Taiwan",Taiwan
+301–350,Dalhousie University,Canada
+301–350,Flinders University,Australia
+301–350,Florida State University,United States
+301–350,Griffith University,Australia
+301–350,Hasselt University,Belgium
+301–350,Hebrew University of Jerusalem,Israel
+301–350,Hunan University,China
+301–350,King Khalid University,Saudi Arabia
+301–350,Kyushu University,Japan
+301–350,Loughborough University,United Kingdom
+301–350,Norwegian University of Science and Technology,Norway
+301–350,Oregon Health and Science University,United States
+301–350,Queen’s University,Canada
+301–350,Ruhr University Bochum,Germany
+301–350,Rutgers University–New Brunswick,United States
+301–350,Sharif University of Technology,Iran
+301–350,Simon Fraser University,Canada
+301–350,Southeast University,China
+301–350,Stellenbosch University,South Africa
+301–350,"St George’s, University of London",United Kingdom
+301–350,Swansea University,United Kingdom
+301–350,Tampere University,Finland
+301–350,Technion Israel Institute of Technology,Israel
+301–350,The University of Tennessee-Knoxville,United States
+301–350,TU Wien,Austria
+301–350,Università Cattolica del Sacro Cuore,Italy
+301–350,Università della Svizzera italiana,Switzerland
+301–350,University of Bayreuth,Germany
+301–350,University of Bremen,Germany
+301–350,University of Colorado Denver/Anschutz Medical Campus,United States
+301–350,University of Connecticut,United States
+301–350,University of Dundee,United Kingdom
+301–350,University of Electronic Science and Technology of China,China
+301–350,University of Hohenheim,Germany
+301–350,University of Innsbruck,Austria
+301–350,University of Kiel,Germany
+301–350,University of Milan,Italy
+301–350,University of Pavia,Italy
+301–350,University of Rome II – Tor Vergata,Italy
+301–350,University of Sharjah,United Arab Emirates
+301–350,University of South Australia,Australia
+301–350,University of Tartu,Estonia
+301–350,University of the Witwatersrand,South Africa
+301–350,University of Trento,Italy
+301–350,University of Turku,Finland
+301–350,University of Victoria,Canada
+301–350,Western Sydney University,Australia
+301–350,Xiamen University,China
+351–400,Amirkabir University of Technology,Iran
+351–400,Aston University,United Kingdom
+351–400,Autonomous University of Madrid,Spain
+351–400,Bauman Moscow State Technical University,Russian Federation
+351–400,Brunel University of London,United Kingdom
+351–400,"City, University of London",United Kingdom
+351–400,Daegu Gyeongbuk Institute of Science and Technology,South Korea
+351–400,Drexel University,United States
+351–400,Dublin City University,Ireland
+351–400,Edith Cowan University,Australia
+351–400,Free University of Bozen-Bolzano,Italy
+351–400,Hokkaido University,Japan
+351–400,Illinois Institute of Technology,United States
+351–400,IMT Atlantique,France
+351–400,Institut Agro,France
+351–400,Iran University of Science and Technology,Iran
+351–400,Justus Liebig University Giessen,Germany
+351–400,King Abdulaziz University,Saudi Arabia
+351–400,Koç University,Turkey
+351–400,Leibniz University Hannover,Germany
+351–400,Middle East Technical University,Turkey
+351–400,Montpellier University,France
+351–400,Sabancı University,Turkey
+351–400,Shenzhen University,China
+351–400,Swedish University of Agricultural Sciences,Sweden
+351–400,Temple University,United States
+351–400,Umeå University,Sweden
+351–400,Université Grenoble Alpes,France
+351–400,University College Cork,Ireland
+351–400,University of Brescia,Italy
+351–400,University of Campinas,Brazil
+351–400,University of Delaware,United States
+351–400,University of Essex,United Kingdom
+351–400,University of Florence,Italy
+351–400,University of Galway,Ireland
+351–400,University of Georgia,United States
+351–400,University of Kansas,United States
+351–400,University of Kent,United Kingdom
+351–400,University of Milan-Bicocca,Italy
+351–400,University of Naples Federico II,Italy
+351–400,University of Otago,New Zealand
+351–400,University of Pisa,Italy
+351–400,University of Saskatchewan,Canada
+351–400,University of Siena,Italy
+351–400,University of Southern Queensland,Australia
+351–400,University of South Florida,United States
+351–400,University of St Gallen,Switzerland
+351–400,University of Strathclyde,United Kingdom
+351–400,University of Tsukuba,Japan
+351–400,Zayed University,United Arab Emirates
+401–500,Aix-Marseille University,France
+401–500,Ajman University,United Arab Emirates
+401–500,Al Ain University,United Arab Emirates
+401–500,American University of the Middle East,Kuwait
+401–500,Anna University,India
+401–500,"Asia University, Taiwan",Taiwan
+401–500,Auckland University of Technology,New Zealand
+401–500,Australian Catholic University,Australia
+401–500,Bangor University,United Kingdom
+401–500,Beijing University of Chemical Technology,China
+401–500,Bond University,Australia
+401–500,Bournemouth University,United Kingdom
+401–500,Brandeis University,United States
+401–500,Charles Darwin University,Australia
+401–500,Charles University,Czechia
+401–500,Chongqing University,China
+401–500,Chung-Ang University,South Korea
+401–500,Claude Bernard University Lyon 1,France
+401–500,Colorado School of Mines,United States
+401–500,"Colorado State University, Fort Collins",United States
+401–500,Dalian University of Technology,China
+401–500,Federation University Australia,Australia
+401–500,Florida International University,United States
+401–500,George Mason University,United States
+401–500,Gwangju Institute of Science and Technology,South Korea
+401–500,Heriot-Watt University,United Kingdom
+401–500,HSE University,Russian Federation
+401–500,Iowa State University,United States
+401–500,James Cook University,Australia
+401–500,Johannes Kepler University of Linz,Austria
+401–500,Kermanshah University of Medical Sciences,Iran
+401–500,Leuphana University of Lüneburg,Germany
+401–500,Mahatma Gandhi University,India
+401–500,Missouri University of Science and Technology,United States
+401–500,Mohammed VI Polytechnic University,Morocco
+401–500,Murdoch University,Australia
+401–500,National Taiwan University of Science and Technology,Taiwan
+401–500,National Tsing Hua University,Taiwan
+401–500,National Yang Ming Chiao Tung University,Taiwan
+401–500,Northumbria University,United Kingdom
+401–500,Polytechnic University of Turin,Italy
+401–500,Prince Sultan University,Saudi Arabia
+401–500,Quaid-i-Azam University,Pakistan
+401–500,Rensselaer Polytechnic Institute,United States
+401–500,"Royal Holloway, University of London",United Kingdom
+401–500,Saint Louis University,United States
+401–500,Saveetha Institute of Medical and Technical Sciences,India
+401–500,Shanghai University,China
+401–500,Shoolini University of Biotechnology and Management Sciences,India
+401–500,SOAS University of London,United Kingdom
+401–500,Stevens Institute of Technology,United States
+401–500,Sunway University,Malaysia
+401–500,Syracuse University,United States
+401–500,Taipei Medical University,Taiwan
+401–500,Tokyo Medical and Dental University,Japan
+401–500,TU Dortmund University,Germany
+401–500,Tulane University,United States
+401–500,Umm Al-Qura University,Saudi Arabia
+401–500,Universiti Kebangsaan Malaysia,Malaysia
+401–500,Universiti Sains Malaysia,Malaysia
+401–500,Universiti Teknologi Malaysia,Malaysia
+401–500,Universiti Utara Malaysia,Malaysia
+401–500,University of Bordeaux,France
+401–500,"University of California, Merced",United States
+401–500,University of Canberra,Australia
+401–500,University of Central Florida,United States
+401–500,University of Coimbra,Portugal
+401–500,University of Cyprus,Cyprus
+401–500,University of Fribourg,Switzerland
+401–500,University of Genoa,Italy
+401–500,University of Greifswald,Germany
+401–500,University of Guelph,Canada
+401–500,University of Houston,United States
+401–500,University of Hull,United Kingdom
+401–500,University of Johannesburg,South Africa
+401–500,University of Jyväskylä,Finland
+401–500,University of Kentucky,United States
+401–500,University of Lisbon,Portugal
+401–500,University of Manitoba,Canada
+401–500,University of Marburg,Germany
+401–500,University of Nebraska-Lincoln,United States
+401–500,University of Oregon,United States
+401–500,University of Porto,Portugal
+401–500,University of Portsmouth,United Kingdom
+401–500,University of South Carolina-Columbia,United States
+401–500,University of Stirling,United Kingdom
+401–500,University of Tehran,Iran
+401–500,University of Texas at Dallas,United States
+401–500,University of Toulouse,France
+401–500,University of Turin,Italy
+401–500,University of Vaasa,Finland
+401–500,University of Waikato,New Zealand
+401–500,Verona University,Italy
+401–500,Victoria University,Australia
+401–500,Victoria University of Wellington,New Zealand
+401–500,Virginia Commonwealth University,United States
+401–500,Wake Forest University,United States
+401–500,Washington State University,United States
+401–500,York University,Canada
+501–600,Åbo Akademi University,Finland
+501–600,Ajou University,South Korea
+501–600,American University of Beirut,Lebanon
+501–600,Anglia Ruskin University,United Kingdom
+501–600,Applied Science Private University,Jordan
+501–600,Arabian Gulf University,Bahrain
+501–600,Babol Noshirvani University of Technology,Iran
+501–600,Ben-Gurion University of the Negev,Israel
+501–600,Ca’ Foscari University of Venice,Italy
+501–600,Campus Bio-Medico University of Rome,Italy
+501–600,Carleton University,Canada
+501–600,Centrale Nantes,France
+501–600,Central Queensland University,Australia
+501–600,"China University of Petroleum, Beijing",China
+501–600,Complutense University of Madrid,Spain
+501–600,Concordia University,Canada
+501–600,Constructor University,Germany
+501–600,Donghua University,China
+501–600,École Nationale des Ponts et Chaussées - Institut Polytechnique de Paris,France
+501–600,Edinburgh Napier University,United Kingdom
+501–600,Egypt-Japan University of Science and Technology,Egypt
+501–600,ENSTA Bretagne,France
+501–600,Georgia State University,United States
+501–600,"Goldsmiths, University of London",United Kingdom
+501–600,Hamburg University of Technology,Germany
+501–600,Imam Abdulrahman Bin Faisal University,Saudi Arabia
+501–600,Indian Institute of Technology Indore,India
+501–600,Istanbul Technical University,Turkey
+501–600,Jamia Millia Islamia,India
+501–600,Jiangsu University,China
+501–600,Jinan University,China
+501–600,Keele University,United Kingdom
+501–600,Konkuk University,South Korea
+501–600,Kyungpook National University,South Korea
+501–600,Lincoln University,New Zealand
+501–600,Massey University,New Zealand
+501–600,Maynooth University,Ireland
+501–600,Memorial University of Newfoundland,Canada
+501–600,Middlesex University,United Kingdom
+501–600,Mizzou - University of Missouri,United States
+501–600,National and Kapodistrian University of Athens,Greece
+501–600,National Cheng Kung University,Taiwan
+501–600,National Research Nuclear University MEPhI,Russian Federation
+501–600,National Taiwan Normal University,Taiwan
+501–600,National Yunlin University of Science and Technology,Taiwan
+501–600,Nazarbayev University,Kazakhstan
+501–600,New Jersey Institute of Technology,United States
+501–600,NOVA University of Lisbon,Portugal
+501–600,Örebro University,Sweden
+501–600,Paderborn University,Germany
+501–600,Peter the Great St Petersburg Polytechnic University,Russian Federation
+501–600,Polytechnic University of Bari,Italy
+501–600,Pontificia Universidad Católica de Chile,Chile
+501–600,Princess Nourah bint Abdulrahman University,Saudi Arabia
+501–600,Pusan National University,South Korea
+501–600,Roskilde University,Denmark
+501–600,Royal Veterinary College,United Kingdom
+501–600,Rush University,United States
+501–600,Shiraz University of Technology,Iran
+501–600,"Soochow University, China",China
+501–600,Southern Cross University,Australia
+501–600,SUNY University at Albany,United States
+501–600,Tehran University of Medical Sciences,Iran
+501–600,The University of Tulsa,United States
+501–600,Tomsk State University,Russian Federation
+501–600,TU Braunschweig,Germany
+501–600,UEH University,Vietnam
+501–600,Université du Québec,Canada
+501–600,Universiti Brunei Darussalam,Brunei Darussalam
+501–600,University of Arkansas,United States
+501–600,University of Bradford,United Kingdom
+501–600,University of Canterbury,New Zealand
+501–600,University of Eastern Finland,Finland
+501–600,University of Ferrara,Italy
+501–600,University of Graz,Austria
+501–600,University of Greenwich,United Kingdom
+501–600,University of Huddersfield,United Kingdom
+501–600,University of Iceland,Iceland
+501–600,University of International Business and Economics,China
+501–600,University of Klagenfurt,Austria
+501–600,University of KwaZulu-Natal,South Africa
+501–600,University of Limerick,Ireland
+501–600,University of Messina,Italy
+501–600,University of Modena and Reggio Emilia,Italy
+501–600,University of Nebraska Medical Center,United States
+501–600,University of Neuchâtel,Switzerland
+501–600,University of Nicosia,Cyprus
+501–600,University of Passau,Germany
+501–600,University of Plymouth,United Kingdom
+501–600,University of Salerno,Italy
+501–600,University of Siegen,Germany
+501–600,University of Trieste,Italy
+501–600,University of Ulsan,South Korea
+501–600,University of Valencia,Spain
+501–600,University of Windsor,Canada
+501–600,University of Wuppertal,Germany
+501–600,UPES,India
+501–600,Wayne State University,United States
+501–600,Wroclaw Medical University,Poland
+501–600,Yangzhou University,China
+601–800,Aberystwyth University,United Kingdom
+601–800,Air University,Pakistan
+601–800,Al-Ahliyya Amman University,Jordan
+601–800,Alborz University of Medical Sciences,Iran
+601–800,Alfaisal University,Saudi Arabia
+601–800,Aligarh Muslim University,India
+601–800,American University,United States
+601–800,American University in Cairo,Egypt
+601–800,American University of Sharjah,United Arab Emirates
+601–800,"Amity University, Noida",India
+601–800,Auburn University,United States
+601–800,Babol University of Medical Sciences,Iran
+601–800,Banaras Hindu University,India
+601–800,Baqiyatallah University of Medical Sciences,Iran
+601–800,Bar-Ilan University,Israel
+601–800,Baylor University,United States
+601–800,Beirut Arab University,Lebanon
+601–800,Bilkent University,Turkey
+601–800,"Birla Institute of Technology and Science, Pilani",India
+601–800,Boğaziçi University,Turkey
+601–800,Capital Medical University,China
+601–800,Capital University of Science and Technology,Pakistan
+601–800,Chang Gung University,Taiwan
+601–800,Chitkara University,India
+601–800,Chulalongkorn University,Thailand
+601–800,Clark University,United States
+601–800,COMSATS University Islamabad,Pakistan
+601–800,Coventry University,United Kingdom
+601–800,Cyprus International University,Northern Cyprus
+601–800,Cyprus University of Technology,Cyprus
+601–800,De Montfort University,United Kingdom
+601–800,Duy Tan University,Vietnam
+601–800,East China University of Science and Technology,China
+601–800,Eastern Mediterranean University,Northern Cyprus
+601–800,École Centrale de Lyon,France
+601–800,École des Mines de Saint-Étienne,France
+601–800,École Nationale des Travaux Publics de l'État,France
+601–800,Empress Catherine II Saint Petersburg Mining University,Russian Federation
+601–800,Ewha Womans University,South Korea
+601–800,Federal University of Rio de Janeiro,Brazil
+601–800,Florida Atlantic University,United States
+601–800,Future University in Egypt,Egypt
+601–800,Fuzhou University,China
+601–800,Gachon University,South Korea
+601–800,Golestan University,Iran
+601–800,Gorgan University of Agricultural Sciences and Natural Resources,Iran
+601–800,Government College University Faisalabad,Pakistan
+601–800,Graz University of Technology,Austria
+601–800,Guangdong University of Technology,China
+601–800,Guangzhou University,China
+601–800,Harokopio University of Athens,Greece
+601–800,Hiroshima University,Japan
+601–800,Imam Mohammad Ibn Saud Islamic University,Saudi Arabia
+601–800,Indian Institute of Technology Patna,India
+601–800,Innopolis University,Russian Federation
+601–800,"International Institute of Information Technology, Hyderabad",India
+601–800,Iran University of Medical Sciences,Iran
+601–800,ISCTE-University Institute of Lisbon,Portugal
+601–800,Isfahan University of Technology,Iran
+601–800,Jagiellonian University,Poland
+601–800,Jiangnan University,China
+601–800,Jönköping University,Sweden
+601–800,Juntendo University,Japan
+601–800,Kafrelsheikh University,Egypt
+601–800,Kansas State University,United States
+601–800,Keio University,Japan
+601–800,KIIT University,India
+601–800,King Faisal University,Saudi Arabia
+601–800,Kobe University,Japan
+601–800,Kurdistan University of Medical Sciences,Iran
+601–800,Lehigh University,United States
+601–800,Liverpool John Moores University,United Kingdom
+601–800,London Metropolitan University,United Kingdom
+601–800,London South Bank University,United Kingdom
+601–800,Lorestan University of Medical Sciences,Iran
+601–800,Louisiana State University,United States
+601–800,Lovely Professional University,India
+601–800,Mahidol University,Thailand
+601–800,Majmaah University,Saudi Arabia
+601–800,Malaviya National Institute of Technology,India
+601–800,Manchester Metropolitan University,United Kingdom
+601–800,Mansoura University,Egypt
+601–800,Marche Polytechnic University,Italy
+601–800,Masaryk University,Czechia
+601–800,Mazandaran University of Medical Sciences,Iran
+601–800,Mississippi State University,United States
+601–800,Nanjing Forestry University,China
+601–800,Nanjing Tech University,China
+601–800,Nanjing University of Aeronautics and Astronautics,China
+601–800,Nantes Université,France
+601–800,National Institute of Applied Sciences of Lyon,France
+601–800,National Sun Yat-Sen University,Taiwan
+601–800,National University of Science and Technology,Russian Federation
+601–800,National University of Sciences and Technology,Pakistan
+601–800,Near East University,Northern Cyprus
+601–800,"Northeastern University, China",China
+601–800,Nottingham Trent University,United Kingdom
+601–800,Obuda University,Hungary
+601–800,Ohio University,United States
+601–800,Oklahoma State University,United States
+601–800,Open University of Catalonia,Spain
+601–800,Oxford Brookes University,United Kingdom
+601–800,Panjab University,India
+601–800,Paris Lodron Universität Salzburg,Austria
+601–800,Parthenope University of Naples,Italy
+601–800,Polytechnic University of Valencia,Spain
+601–800,Pontifical Catholic University of Rio de Janeiro,Brazil
+601–800,Prince Sattam Bin Abdulaziz University,Saudi Arabia
+601–800,Qassim University,Saudi Arabia
+601–800,Qazvin University of Medical Sciences,Iran
+601–800,Qingdao University,China
+601–800,Rochester Institute of Technology,United States
+601–800,Rovira i Virgili University,Spain
+601–800,RUDN University,Russian Federation
+601–800,Sciences Po,France
+601–800,Shahid Beheshti University of Medical Sciences,Iran
+601–800,South China Normal University,China
+601–800,SRUC,United Kingdom
+601–800,Sukkur IBA University,Pakistan
+601–800,Sultan Qaboos University,Oman
+601–800,SUNY Binghamton University,United States
+601–800,Symbiosis International University,India
+601–800,Tabriz University of Medical Sciences,Iran
+601–800,Taif University,Saudi Arabia
+601–800,Tallinn University of Technology,Estonia
+601–800,Tashkent Institute of Irrigation and Agricultural Mechanisation,Uzbekistan
+601–800,Tecnológico de Monterrey,Mexico
+601–800,Texas Tech University,United States
+601–800,Thapar Institute of Engineering and Technology,India
+601–800,The Catholic University of America,United States
+601–800,The Catholic University of Korea,South Korea
+601–800,The University of Aizu,Japan
+601–800,The University of Jordan,Jordan
+601–800,The University of Texas at San Antonio,United States
+601–800,Ton Duc Thang University,Vietnam
+601–800,Toronto Metropolitan University,Canada
+601–800,"UEES, Espiritu Santo University",Ecuador
+601–800,UiT The Arctic University of Norway,Norway
+601–800,Ulster University,United Kingdom
+601–800,Universidade Federal do Rio Grande do Sul,Brazil
+601–800,Universitat Politècnica de Catalunya,Spain
+601–800,Université Côte d'Azur,France
+601–800,Universiti Malaysia Pahang Al-Sultan Abdullah,Malaysia
+601–800,Universiti Pendidikan Sultan Idris,Malaysia
+601–800,Universiti Putra Malaysia,Malaysia
+601–800,Universiti Tenaga Nasional,Malaysia
+601–800,University of Alaska Fairbanks,United States
+601–800,University of Aveiro,Portugal
+601–800,University of Bari Aldo Moro,Italy
+601–800,University of Beira Interior,Portugal
+601–800,University of Brighton,United Kingdom
+601–800,University of Cagliari,Italy
+601–800,University of Calabria,Italy
+601–800,University of Crete,Greece
+601–800,University of Denver,United States
+601–800,University of Derby,United Kingdom
+601–800,"University of Engineering and Technology, Taxila",Pakistan
+601–800,University of Granada,Spain
+601–800,University of Haifa,Israel
+601–800,University of Ha’il,Saudi Arabia
+601–800,University of Hertfordshire,United Kingdom
+601–800,University of Insubria,Italy
+601–800,University of Kaiserslautern,Germany
+601–800,University of L’Aquila,Italy
+601–800,University of Lille,France
+601–800,University of Lincoln,United Kingdom
+601–800,University of Lorraine,France
+601–800,University of Malakand,Pakistan
+601–800,"University of Maryland, Baltimore County",United States
+601–800,University of Minho,Portugal
+601–800,University of Mons,Belgium
+601–800,"University of Nevada, Las Vegas",United States
+601–800,University of New Brunswick UNB,Canada
+601–800,University of North Carolina at Charlotte,United States
+601–800,University of Palermo,Italy
+601–800,University of Parma,Italy
+601–800,University of Pretoria,South Africa
+601–800,University of Rennes 1,France
+601–800,University of Santiago de Compostela,Spain
+601–800,University of Sassari,Italy
+601–800,University of Stavanger,Norway
+601–800,University of Tabriz,Iran
+601–800,University of Texas at Arlington,United States
+601–800,University of the Basque Country,Spain
+601–800,University of the Sunshine Coast,Australia
+601–800,University of the Western Cape,South Africa
+601–800,UWE Bristol,United Kingdom
+601–800,University of the West of Scotland,United Kingdom
+601–800,University of Toledo,United States
+601–800,University of Tuscia,Italy
+601–800,University of Udine,Italy
+601–800,University of Warsaw,Poland
+601–800,University of Wyoming,United States
+601–800,Urmia University of Medical Sciences,Iran
+601–800,VIT University,India
+601–800,Wenzhou University,China
+601–800,William & Mary,United States
+601–800,Worcester Polytechnic Institute,United States
+601–800,Xi’an Jiaotong-Liverpool University,China
+601–800,Xidian University,China
+601–800,Yeungnam University,South Korea
+601–800,Zhejiang Normal University,China
+601–800,Zhejiang University of Technology,China
+801–1000,Abdul Wali Khan University Mardan,Pakistan
+801–1000,Alagappa University,India
+801–1000,Al al-Bayt University,Jordan
+801–1000,Al-Azhar University,Egypt
+801–1000,Amedeo Avogadro University of Eastern Piedmont,Italy
+801–1000,Arak University of Medical Sciences,Iran
+801–1000,Aristotle University of Thessaloniki,Greece
+801–1000,Arts et Métiers,France
+801–1000,Bahçeşehir University,Turkey
+801–1000,Gazipur Agricultural University,Bangladesh
+801–1000,Bharathiar University,India
+801–1000,Birjand University of Medical Sciences,Iran
+801–1000,Birmingham City University,United Kingdom
+801–1000,Bucharest University of Economic Studies,Romania
+801–1000,Cairo University,Egypt
+801–1000,Cankaya University,Turkey
+801–1000,Carlos III University of Madrid,Spain
+801–1000,Catholic University of Portugal,Portugal
+801–1000,Changsha University of Science and Technology,China
+801–1000,Charles Sturt University,Australia
+801–1000,Chengdu University,China
+801–1000,China Pharmaceutical University,China
+801–1000,China University of Petroleum,China
+801–1000,Chonnam National University,South Korea
+801–1000,Covenant University,Nigeria
+801–1000,CY Cergy Paris University,France
+801–1000,Czech University of Life Sciences Prague,Czechia
+801–1000,Daffodil International University,Bangladesh
+801–1000,Delhi Technological University,India
+801–1000,Eötvös Loránd University,Hungary
+801–1000,European University Cyprus,Cyprus
+801–1000,Federal University of Minas Gerais,Brazil
+801–1000,Ferdowsi University of Mashhad,Iran
+801–1000,Florida Institute of Technology,United States
+801–1000,Gabriele d‘Annunzio University,Italy
+801–1000,Glasgow Caledonian University,United Kingdom
+801–1000,Golestan University of Medical Sciences,Iran
+801–1000,Guangzhou Medical University,China
+801–1000,Guilan University of Medical Sciences,Iran
+801–1000,Hacettepe University,Turkey
+801–1000,Hanoi Medical University,Vietnam
+801–1000,Harbin Engineering University,China
+801–1000,Ilam University of Medical Sciences,Iran
+801–1000,Imam Khomeini International University,Iran
+801–1000,Indian Institute of Technology Gandhinagar,India
+801–1000,Indian Institute of Technology Guwahati,India
+801–1000,Indian Institute of Technology Ropar,India
+801–1000,Inha University,South Korea
+801–1000,Institute of Chemical Technology,India
+801–1000,"International Islamic University, Islamabad",Pakistan
+801–1000,Isfahan University of Medical Sciences,Iran
+801–1000,ITMO University,Russian Federation
+801–1000,Jahangirnagar University,Bangladesh
+801–1000,Jamia Hamdard University,India
+801–1000,Jashore University of Science and Technology,Bangladesh
+801–1000,Jaume I University,Spain
+801–1000,Jawaharlal Nehru Technological University Anantapur,India
+801–1000,Jawaharlal Nehru University,India
+801–1000,Jaypee University of Information Technology,India
+801–1000,Jazan University,Saudi Arabia
+801–1000,Jeonbuk National University,South Korea
+801–1000,Jordan University of Science and Technology,Jordan
+801–1000,Jouf University,Saudi Arabia
+801–1000,JSS Academy of Higher Education and Research,India
+801–1000,Kadir Has University,Turkey
+801–1000,Kalasalingam Academy of Research and Education,India
+801–1000,Kaohsiung Medical University,Taiwan
+801–1000,Kazan Federal University,Russian Federation
+801–1000,Kerman University of Medical Sciences,Iran
+801–1000,Khwaja Fareed University of Engineering and Information Technology,Pakistan
+801–1000,King Mongkut’s University of Technology Thonburi,Thailand
+801–1000,King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia
+801–1000,Kingston University,United Kingdom
+801–1000,KL University,India
+801–1000,K.N. Toosi University of Technology,Iran
+801–1000,Lahore University of Management Sciences,Pakistan
+801–1000,Leeds Beckett University,United Kingdom
+801–1000,Lithuanian University of Health Sciences,Lithuania
+801–1000,Management & Science University,Malaysia
+801–1000,Manipal Academy of Higher Education,India
+801–1000,Mashhad University of Medical Sciences,Iran
+801–1000,Medical University of Lodz,Poland
+801–1000,Montanuniversität Leoben,Austria
+801–1000,Najran University,Saudi Arabia
+801–1000,Nanjing Medical University,China
+801–1000,Nanjing Normal University,China
+801–1000,Nanjing University of Information Science and Technology,China
+801–1000,National Autonomous University of Mexico,Mexico
+801–1000,National Institute of Technology Rourkela,India
+801–1000,National Institute of Technology Silchar,India
+801–1000,"National Institute of Technology, Tiruchirappalli",India
+801–1000,National Technical University of Athens,Greece
+801–1000,National Veterinary School of Alfort,France
+801–1000,New Mexico State University,United States
+801–1000,North China Electric Power University,China
+801–1000,Northeast Agricultural University,China
+801–1000,Northeast Normal University,China
+801–1000,Northern Illinois University,United States
+801–1000,North South University,Bangladesh
+801–1000,North-West University,South Africa
+801–1000,Norwegian University of Life Sciences,Norway
+801–1000,Novosibirsk State University,Russian Federation
+801–1000,Okayama University,Japan
+801–1000,Old Dominion University,United States
+801–1000,Ontario Tech University,Canada
+801–1000,Ozyegin University,Turkey
+801–1000,Pablo de Olavide University,Spain
+801–1000,Panthéon-Sorbonne University – Paris 1,France
+801–1000,PMAS Arid Agriculture University Rawalpindi,Pakistan
+801–1000,Portland State University,United States
+801–1000,Reichman University,Israel
+801–1000,Reykjavík University,Iceland
+801–1000,Robert Gordon University,United Kingdom
+801–1000,Savitribai Phule Pune University,India
+801–1000,Shahid Beheshti University,Iran
+801–1000,Shahrekord University of Medical Sciences,Iran
+801–1000,Sheffield Hallam University,United Kingdom
+801–1000,Shiraz University,Iran
+801–1000,Shiraz University of Medical Sciences,Iran
+801–1000,Shri Mata Vaishno Devi University,India
+801–1000,Siksha ‘O’ Anusandhan,India
+801–1000,Sogang University,South Korea
+801–1000,Southern Illinois University Carbondale,United States
+801–1000,Southwest Jiaotong University,China
+801–1000,Sumy State University,Ukraine
+801–1000,Teesside University,United Kingdom
+801–1000,The Islamia University of Bahawalpur,Pakistan
+801–1000,The Open University,United Kingdom
+801–1000,The University of Alabama,United States
+801–1000,Tokyo Medical University,Japan
+801–1000,Tomsk Polytechnic University,Russian Federation
+801–1000,Universidade Estadual Paulista,Brazil
+801–1000,Universidade Federal de São Paulo,Brazil
+801–1000,Universitat Internacional de Catalunya,Spain
+801–1000,Universitat Ramon Llull,Spain
+801–1000,Université de Bretagne Occidentale,France
+801–1000,Universiti Teknologi Brunei,Brunei Darussalam
+801–1000,University of Alcalá,Spain
+801–1000,University of Camerino,Italy
+801–1000,University of Campania Luigi Vanvitelli,Italy
+801–1000,University of Cape Coast,Ghana
+801–1000,University of Castilla-La Mancha,Spain
+801–1000,University of Lancashire,United Kingdom
+801–1000,University of Central Punjab,Pakistan
+801–1000,University of Clermont Auvergne,France
+801–1000,University of Córdoba,Spain
+801–1000,University of Debrecen,Hungary
+801–1000,University of Delhi,India
+801–1000,"University of Engineering and Technology, Peshawar",Pakistan
+801–1000,University of Foggia,Italy
+801–1000,University of Girona,Spain
+801–1000,University of Gujrat,Pakistan
+801–1000,University of Indonesia,Indonesia
+801–1000,University of Jaén,Spain
+801–1000,University of Kashan,Iran
+801–1000,University of Lahore,Pakistan
+801–1000,University of Ljubljana,Slovenia
+801–1000,University of Lleida,Spain
+801–1000,University of Malta,Malta
+801–1000,University of Management and Technology,Pakistan
+801–1000,University of Medicine and Pharmacy Carol Davila,Romania
+801–1000,University of Memphis,United States
+801–1000,University of Namur,Belgium
+801–1000,University of Nova Gorica,Slovenia
+801–1000,University of Regina,Canada
+801–1000,University of Rhode Island,United States
+801–1000,University of Roehampton,United Kingdom
+801–1000,University of Rome III,Italy
+801–1000,University of Salamanca,Spain
+801–1000,University of Salento,Italy
+801–1000,University of Salford,United Kingdom
+801–1000,University of Sannio,Italy
+801–1000,University of Savoie Mont Blanc,France
+801–1000,University of Seoul,South Korea
+801–1000,University of Seville,Spain
+801–1000,University of Tabuk,Saudi Arabia
+801–1000,University of Texas at El Paso,United States
+801–1000,University of the Balearic Islands,Spain
+801–1000,University of the Punjab,Pakistan
+801–1000,University of the South Pacific,Fiji
+801–1000,University of Tunis El Manar,Tunisia
+801–1000,"University of Veterinary and Animal Sciences, Lahore",Pakistan
+801–1000,University of Vic – Central University of Catalonia,Spain
+801–1000,University of Vigo,Spain
+801–1000,University of Westminster,United Kingdom
+801–1000,University of Wolverhampton,United Kingdom
+801–1000,Urmia University,Iran
+801–1000,Wakayama Medical University,Japan
+801–1000,Waseda University,Japan
+801–1000,Wenzhou Medical University,China
+801–1000,Wilfrid Laurier University,Canada
+801–1000,Yıldız Technical University,Turkey
+801–1000,Yuan Ze University,Taiwan
+801–1000,Zahedan University of Medical Sciences,Iran
+801–1000,Zhejiang Gongshang University,China
+1001–1200,"Adam Mickiewicz University, Poznań",Poland
+1001–1200,AGH University of Krakow,Poland
+1001–1200,Ahmadu Bello University,Nigeria
+1001–1200,Ain Shams University,Egypt
+1001–1200,Al-Baha University,Saudi Arabia
+1001–1200,Al-Balqa Applied University,Jordan
+1001–1200,Alexandria University,Egypt
+1001–1200,Al-Zaytoonah University of Jordan,Jordan
+1001–1200,"Amity University Rajasthan, Jaipur",India
+1001–1200,Anadolu University,Turkey
+1001–1200,Aswan University,Egypt
+1001–1200,Atatürk University,Turkey
+1001–1200,Ateneo de Manila University,Philippines
+1001–1200,Athens University of Economics and Business,Greece
+1001–1200,Austral University,Argentina
+1001–1200,Azarbaijan Shahid Madani University,Iran
+1001–1200,Bahauddin Zakariya University,Pakistan
+1001–1200,Bahria University,Pakistan
+1001–1200,Bangladesh Agricultural University,Bangladesh
+1001–1200,Bangladesh University of Engineering and Technology,Bangladesh
+1001–1200,Bartin University,Turkey
+1001–1200,Benha University,Egypt
+1001–1200,Beni-Suef University,Egypt
+1001–1200,Birla Institute of Technology,India
+1001–1200,Bowling Green State University,United States
+1001–1200,BRAC University,Bangladesh
+1001–1200,Brno University of Technology,Czechia
+1001–1200,Cardiff Metropolitan University,United Kingdom
+1001–1200,Central Michigan University,United States
+1001–1200,Chiang Mai University,Thailand
+1001–1200,Chiba University,Japan
+1001–1200,Chittagong University of Engineering & Technology,Bangladesh
+1001–1200,Chungbuk National University,South Korea
+1001–1200,Chungnam National University,South Korea
+1001–1200,Clarkson University,United States
+1001–1200,Czech Technical University in Prague,Czechia
+1001–1200,Damietta University,Egypt
+1001–1200,Datta Meghe Institute of Higher Education & Research,India
+1001–1200,Democritus University of Thrace,Greece
+1001–1200,DIT University,India
+1001–1200,Dr B.R. Ambedkar National Institute of Technology Jalandhar,India
+1001–1200,"Dr D. Y. Patil Vidyapeeth, Pune",India
+1001–1200,Edge Hill University,United Kingdom
+1001–1200,European University of Madrid,Spain
+1001–1200,Fayoum University,Egypt
+1001–1200,Financial University under the Government of the Russian Federation,Russian Federation
+1001–1200,Florida Agricultural and Mechanical University,United States
+1001–1200,Fujian Agriculture and Forestry University,China
+1001–1200,Fujita Health University,Japan
+1001–1200,Galgotias University,India
+1001–1200,Gdańsk University of Technology,Poland
+1001–1200,Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,Pakistan
+1001–1200,GLA University,India
+1001–1200,Government College University Lahore,Pakistan
+1001–1200,Hakim Sabzevari University,Iran
+1001–1200,Hamadan University of Medical Sciences,Iran
+1001–1200,Hamamatsu University School of Medicine,Japan
+1001–1200,Hangzhou Normal University,China
+1001–1200,Hazara University Mansehra,Pakistan
+1001–1200,Huaqiao University,China
+1001–1200,Hungarian University of Agriculture and Life Sciences,Hungary
+1001–1200,Icesi University,Colombia
+1001–1200,IMT Nord Europe,France
+1001–1200,Indian Institute of Technology Mandi,India
+1001–1200,Indraprastha Institute of Information Technology Delhi,India
+1001–1200,Inönü University,Turkey
+1001–1200,Institute of Space Technology,Pakistan
+1001–1200,Islamia College Peshawar,Pakistan
+1001–1200,Islamic University of Madinah,Saudi Arabia
+1001–1200,Istanbul Gelisim University,Turkey
+1001–1200,Istanbul University-Cerrahpaşa,Turkey
+1001–1200,İstinye University,Turkey
+1001–1200,Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca,Romania
+1001–1200,Jadavpur University,India
+1001–1200,Jeju National University,South Korea
+1001–1200,Kanazawa University,Japan
+1001–1200,Khon Kaen University,Thailand
+1001–1200,Khulna University of Engineering and Technology,Bangladesh
+1001–1200,Kore University of Enna,Italy
+1001–1200,Kumamoto University,Japan
+1001–1200,Kyoto Prefectural University of Medicine,Japan
+1001–1200,Lakehead University,Canada
+1001–1200,Landmark University,Nigeria
+1001–1200,Maharishi Markandeshwar University,India
+1001–1200,Medical University of Bialystok,Poland
+1001–1200,Medical University of Gdańsk,Poland
+1001–1200,Medical University of Warsaw,Poland
+1001–1200,Ming Chi University of Technology,Taiwan
+1001–1200,Minia University,Egypt
+1001–1200,Montana State University,United States
+1001–1200,Moscow Technical University of Communications and Informatics,Russian Federation
+1001–1200,Multimedia University,Malaysia
+1001–1200,National Central University,Taiwan
+1001–1200,National Chung Hsing University,Taiwan
+1001–1200,"National Institute of Technology, Raipur",India
+1001–1200,National Taipei University of Technology,Taiwan
+1001–1200,National University of Computer and Emerging Sciences,Pakistan
+1001–1200,National University of Uzbekistan named after Mirzo Ulugbek,Uzbekistan
+1001–1200,New Valley University,Egypt
+1001–1200,Nippon Medical School,Japan
+1001–1200,Northern Border University,Saudi Arabia
+1001–1200,Northwest University,China
+1001–1200,Oakland University,United States
+1001–1200,Palacký University Olomouc,Czechia
+1001–1200,Pontifical Catholic University of Rio Grande do Sul,Brazil
+1001–1200,Public University of Navarre,Spain
+1001–1200,Riga Technical University,Latvia
+1001–1200,Riphah International University,Pakistan
+1001–1200,Rowan University,United States
+1001–1200,Sahand University of Technology,Iran
+1001–1200,San Diego State University,United States
+1001–1200,Sechenov University,Russian Federation
+1001–1200,Selçuk University,Turkey
+1001–1200,Semnan University,Iran
+1001–1200,Shahrood University of Technology,Iran
+1001–1200,Shanghai Normal University,China
+1001–1200,Shantou University,China
+1001–1200,Siberian Federal University,Russian Federation
+1001–1200,South Dakota State University,United States
+1001–1200,SRM Institute of Science and Technology,India
+1001–1200,Suez Canal University,Egypt
+1001–1200,Suez University,Egypt
+1001–1200,Taibah University,Saudi Arabia
+1001–1200,Tallinn University,Estonia
+1001–1200,Tanta University,Egypt
+1001–1200,Technical University of Madrid,Spain
+1001–1200,Technische Universität Ilmenau,Germany
+1001–1200,Technological University Dublin,Ireland
+1001–1200,The Hashemite University,Jordan
+1001–1200,The New School,United States
+1001–1200,Tokyo University of Agriculture and Technology,Japan
+1001–1200,Toyota Technological Institute,Japan
+1001–1200,Universidade Federal de Santa Catarina,Brazil
+1001–1200,Universidad Peruana Cayetano Heredia,Peru
+1001–1200,Université de Poitiers,France
+1001–1200,Université d’Orléans,France
+1001–1200,Universiti Malaysia Terengganu,Malaysia
+1001–1200,Universiti Sultan Zainal Abidin,Malaysia
+1001–1200,Universiti Tunku Abdul Rahman,Malaysia
+1001–1200,University of Algarve,Portugal
+1001–1200,University of Alicante,Spain
+1001–1200,University of Almería,Spain
+1001–1200,University of Bedfordshire,United Kingdom
+1001–1200,University of Belgrade,Serbia
+1001–1200,University of Bergamo,Italy
+1001–1200,University of Bisha,Saudi Arabia
+1001–1200,University of Bucharest,Romania
+1001–1200,University of Chile,Chile
+1001–1200,University of Colombo,Sri Lanka
+1001–1200,University of Deusto,Spain
+1001–1200,University of Dhaka,Bangladesh
+1001–1200,University of East London,United Kingdom
+1001–1200,"University of Education, Lahore",Pakistan
+1001–1200,University of Ghana,Ghana
+1001–1200,University of Gloucestershire,United Kingdom
+1001–1200,University of Hradec Králové,Czechia
+1001–1200,University of Ibadan,Nigeria
+1001–1200,University of Isfahan,Iran
+1001–1200,University of Jeddah,Saudi Arabia
+1001–1200,University of Kragujevac,Serbia
+1001–1200,University of Kurdistan,Iran
+1001–1200,University of la Costa,Colombia
+1001–1200,University of Lagos,Nigeria
+1001–1200,University of La Laguna,Spain
+1001–1200,University of Latvia,Latvia
+1001–1200,University of Mohaghegh Ardabili,Iran
+1001–1200,University of Murcia,Spain
+1001–1200,University of Northern British Columbia,Canada
+1001–1200,"University of Occupational and Environmental Health, Japan",Japan
+1001–1200,University of Oviedo,Spain
+1001–1200,University of Patras,Greece
+1001–1200,University of Pécs,Hungary
+1001–1200,University of Peshawar,Pakistan
+1001–1200,University of Rajshahi,Bangladesh
+1001–1200,University of Sargodha,Pakistan
+1001–1200,University of Sfax,Tunisia
+1001–1200,University of South Bohemia in České Budějovice,Czechia
+1001–1200,University of South Dakota,United States
+1001–1200,University of Sulaimani,Iraq
+1001–1200,University of Szeged,Hungary
+1001–1200,"University of Technology, Iraq",Iraq
+1001–1200,University of the Aegean,Greece
+1001–1200,"University of the Andes, Colombia",Colombia
+1001–1200,University of the Azores,Portugal
+1001–1200,University of the Free State,South Africa
+1001–1200,University of Tours,France
+1001–1200,University of West London,United Kingdom
+1001–1200,University of Zaragoza,Spain
+1001–1200,University of Žilina,Slovakia
+1001–1200,Ural Federal University,Russian Federation
+1001–1200,Urmia University of Technology,Iran
+1001–1200,Vilnius University,Lithuania
+1001–1200,Yarmouk University,Jordan
+1001–1200,Yaşar University,Turkey
+1001–1200,Yokohama City University,Japan
+1001–1200,Zagazig University,Egypt
+1001–1200,Zanjan University of Medical Sciences,Iran
+1001–1200,Zewail City of Science and Technology,Egypt
+1001–1200,ZHAW Zurich University of Applied Sciences,Switzerland
+1001–1200,Zhejiang University of Finance and Economics,China
+1201–1500,Adolfo Ibáñez University,Chile
+1201–1500,Aichi Medical University,Japan
+1201–1500,Akdeniz University,Turkey
+1201–1500,Al-Farabi Kazakh National University,Kazakhstan
+1201–1500,Al-Hussein Bin Talal University,Jordan
+1201–1500,American International University – Bangladesh,Bangladesh
+1201–1500,"Amity University, Gurugram",India
+1201–1500,An-Najah National University,Palestine
+1201–1500,"Arab Academy for Science, Technology and Maritime Transport",Egypt
+1201–1500,Ariel University,Israel
+1201–1500,Assiut University,Egypt
+1201–1500,Autonomous University of Sinaloa,Mexico
+1201–1500,Babeş-Bolyai University,Romania
+1201–1500,"Balochistan University of Information Technology, Engineering and Management Sciences",Pakistan
+1201–1500,Institut Teknologi Bandung,Indonesia
+1201–1500,Bayero University,Nigeria
+1201–1500,Bharathidasan University,India
+1201–1500,BINUS University,Indonesia
+1201–1500,Botswana International University of Science and Technology,Botswana
+1201–1500,Bu-Ali Sina University,Iran
+1201–1500,Budapest University of Technology and Economics,Hungary
+1201–1500,Canterbury Christ Church University,United Kingdom
+1201–1500,Changzhou University,China
+1201–1500,Chaoyang University of Technology,Taiwan
+1201–1500,Chosun University,South Korea
+1201–1500,Chung Yuan Christian University,Taiwan
+1201–1500,Cochin University of Science and Technology,India
+1201–1500,Comenius University Bratislava,Slovakia
+1201–1500,Damanhour University,Egypt
+1201–1500,Diego Portales University,Chile
+1201–1500,Durban University of Technology,South Africa
+1201–1500,Duzce University,Turkey
+1201–1500,Ege University,Turkey
+1201–1500,Erciyes University,Turkey
+1201–1500,Far Eastern Federal University,Russian Federation
+1201–1500,Federal University of Lavras,Brazil
+1201–1500,Federal University of Santa Maria,Brazil
+1201–1500,Federal University of São Carlos,Brazil
+1201–1500,Federal University of Technology Akure,Nigeria
+1201–1500,"Federal University of Technology, Minna",Nigeria
+1201–1500,Federal University of Uberlândia,Brazil
+1201–1500,Firat University,Turkey
+1201–1500,Fu Jen Catholic University,Taiwan
+1201–1500,Gauhati University,India
+1201–1500,Gazi University,Turkey
+1201–1500,Gebze Technical University,Turkey
+1201–1500,German Jordanian University,Jordan
+1201–1500,Gifu University,Japan
+1201–1500,Guru Ghasidas Vishwavidyalaya,India
+1201–1500,Guru Jambheshwar University of Science and Technology,India
+1201–1500,Gyeongsang National University,South Korea
+1201–1500,Hallym University,South Korea
+1201–1500,Halmstad University,Sweden
+1201–1500,Helwan University,Egypt
+1201–1500,Hindustan Institute of Technology and Science,India
+1201–1500,Hitotsubashi University,Japan
+1201–1500,Ho Chi Minh City Open University,Vietnam
+1201–1500,Hosei University,Japan
+1201–1500,Hyogo Medical University,Japan
+1201–1500,Ibn Tofaïl University,Morocco
+1201–1500,Ilam University,Iran
+1201–1500,Ilia State University,Georgia
+1201–1500,Immanuel Kant Baltic Federal University,Russian Federation
+1201–1500,Incheon National University,South Korea
+1201–1500,Indian Institute of Science Education and Research Bhopal,India
+1201–1500,Indian Institute of Science Education and Research Kolkata,India
+1201–1500,"Indian Institute of Science Education and Research, Pune",India
+1201–1500,I-Shou University,Taiwan
+1201–1500,Istanbul Medeniyet University,Turkey
+1201–1500,Istanbul University,Turkey
+1201–1500,Jiangsu Normal University,China
+1201–1500,Jimma University,Ethiopia
+1201–1500,Kagawa University,Japan
+1201–1500,Kangwon National University,South Korea
+1201–1500,Kansai Medical University,Japan
+1201–1500,Karunya Institute of Technology and Sciences,India
+1201–1500,Kaunas University of Technology,Lithuania
+1201–1500,Kharazmi University,Iran
+1201–1500,Khulna University,Bangladesh
+1201–1500,Kindai University,Japan
+1201–1500,King Mongkut's University of Technology North Bangkok,Thailand
+1201–1500,Kohat University of Science and Technology,Pakistan
+1201–1500,Kookmin University,South Korea
+1201–1500,Kurume University,Japan
+1201–1500,Kuwait University,Kuwait
+1201–1500,Kwame Nkrumah University of Science and Technology,Ghana
+1201–1500,Kyushu Institute of Technology,Japan
+1201–1500,Lebanese University,Lebanon
+1201–1500,Lodz University of Technology,Poland
+1201–1500,Lorestan University,Iran
+1201–1500,Mae Fah Luang University,Thailand
+1201–1500,Maejo University,Thailand
+1201–1500,Makerere University,Uganda
+1201–1500,Manav Rachna International Institute of Research and Studies,India
+1201–1500,Manipal University Jaipur,India
+1201–1500,Medical University of Lublin,Poland
+1201–1500,Medical University of Silesia in Katowice,Poland
+1201–1500,Medical University of Sofia,Bulgaria
+1201–1500,"Mehran University of Engineering and Technology, Jamshoro, Pakistan",Pakistan
+1201–1500,Mendel University in Brno,Czechia
+1201–1500,Menoufia University,Egypt
+1201–1500,Miguel Hernández University of Elche,Spain
+1201–1500,Mirpur University of Science and Technology,Pakistan
+1201–1500,Mohammed V University of Rabat,Morocco
+1201–1500,Moscow Aviation Institute,Russian Federation
+1201–1500,Mutah University,Jordan
+1201–1500,Nagaoka University of Technology,Japan
+1201–1500,Nagasaki University,Japan
+1201–1500,Nagoya City University,Japan
+1201–1500,Nagoya Institute of Technology,Japan
+1201–1500,National Chengchi University,Taiwan
+1201–1500,National Chung Cheng University,Taiwan
+1201–1500,"National Institute of Applied Sciences, Strasbourg",France
+1201–1500,National Institute of Technology Delhi,India
+1201–1500,National Institute of Technology Srinagar,India
+1201–1500,National Institute of Technology Warangal,India
+1201–1500,National Kaohsiung University of Science and Technology,Taiwan
+1201–1500,National Taiwan Ocean University,Taiwan
+1201–1500,National Textile University,Pakistan
+1201–1500,National University of Distance Education,Spain
+1201–1500,Necmettin Erbakan University,Turkey
+1201–1500,Nicolaus Copernicus University in Toruń,Poland
+1201–1500,Niigata University,Japan
+1201–1500,Nile University,Egypt
+1201–1500,Nova Southeastern University,United States
+1201–1500,Opole University of Technology,Poland
+1201–1500,Osaka Metropolitan University,Japan
+1201–1500,Osmania University,India
+1201–1500,Paris Nanterre University,France
+1201–1500,Pavol Jozef Šafárik University in Košice,Slovakia
+1201–1500,Persian Gulf University,Iran
+1201–1500,Pirogov Russian National Research Medical University,Russian Federation
+1201–1500,Plekhanov Russian University of Economics,Russian Federation
+1201–1500,Pondicherry University,India
+1201–1500,Pontifícia Universidade Católica do Paraná,Brazil
+1201–1500,Port Said University,Egypt
+1201–1500,Poznań University of Life Sciences,Poland
+1201–1500,Poznan University of Medical Sciences,Poland
+1201–1500,Poznan University of Technology,Poland
+1201–1500,Prince of Songkla University,Thailand
+1201–1500,Pukyong National University,South Korea
+1201–1500,Qom University of Medical Sciences,Iran
+1201–1500,Rajshahi University of Engineering and Technology,Bangladesh
+1201–1500,Razi University,Iran
+1201–1500,Saitama Medical University,Japan
+1201–1500,Salahaddin University–Erbil,Iraq
+1201–1500,Sapporo Medical University,Japan
+1201–1500,Sathyabama Institute of Science and Technology,India
+1201–1500,Saudi Electronic University,Saudi Arabia
+1201–1500,Sefako Makgatho Health Sciences University,South Africa
+1201–1500,Seoul National University of Science and Technology,South Korea
+1201–1500,Shahid Bahonar University of Kerman,Iran
+1201–1500,​Shahid Chamran University of Ahvaz,Iran
+1201–1500,Shahid Sadoughi University of Medical Sciences,Iran
+1201–1500,Shahrekord University,Iran
+1201–1500,Sharda University,India
+1201–1500,Shiga University of Medical Science,Japan
+1201–1500,Shinshu University,Japan
+1201–1500,Showa University,Japan
+1201–1500,Sidi Mohamed Ben Abdellah University,Morocco
+1201–1500,Silesian University of Technology,Poland
+1201–1500,Sohag University,Egypt
+1201–1500,Soonchunhyang University,South Korea
+1201–1500,Soongsil University,South Korea
+1201–1500,South Valley University,Egypt
+1201–1500,Sri Venkateswara University,India
+1201–1500,Ştefan cel Mare University of Suceava,Romania
+1201–1500,St Francis Xavier University,Canada
+1201–1500,Suranaree University of Technology,Thailand
+1201–1500,SWPS University,Poland
+1201–1500,Technical University of Cartagena,Spain
+1201–1500,Technical University of Crete,Greece
+1201–1500,Texas State University,United States
+1201–1500,Thammasat University,Thailand
+1201–1500,The British University in Egypt,Egypt
+1201–1500,The Jikei University School of Medicine,Japan
+1201–1500,The John Paul II Catholic University of Lublin,Poland
+1201–1500,"The University of Agriculture, Peshawar",Pakistan
+1201–1500,The University of Electro-Communications,Japan
+1201–1500,The University of Notre Dame Australia,Australia
+1201–1500,The University of the West Indies,Jamaica
+1201–1500,TOBB University of Economics and Technology,Turkey
+1201–1500,Tokai University,Japan
+1201–1500,Tokushima University,Japan
+1201–1500,Tokyo Metropolitan University,Japan
+1201–1500,Tokyo University of Marine Science and Technology,Japan
+1201–1500,Tokyo University of Science,Japan
+1201–1500,Tomas Bata University in Zlín,Czechia
+1201–1500,Toyohashi University of Technology,Japan
+1201–1500,Transilvania University of Brașov,Romania
+1201–1500,Tunghai University,Taiwan
+1201–1500,Tzu Chi University,Taiwan
+1201–1500,Unisinos University,Brazil
+1201–1500,Universidad Autónoma de Chile,Chile
+1201–1500,Universidad Católica San Antonio de Murcia,Spain
+1201–1500,Universidad de Cartagena,Colombia
+1201–1500,Universidad del Desarrollo,Chile
+1201–1500,Universidade Eduardo Mondlane,Mozambique
+1201–1500,Universidade Federal do ABC,Brazil
+1201–1500,Universidade Federal do Paraná,Brazil
+1201–1500,Universidad Loyola,Spain
+1201–1500,Universidad San Francisco de Quito,Ecuador
+1201–1500,Universitas Airlangga,Indonesia
+1201–1500,Universitas Gadjah Mada,Indonesia
+1201–1500,Universitas Muhammadiyah Surakarta,Indonesia
+1201–1500,Universitas Sebelas Maret,Indonesia
+1201–1500,Université Djillali Liabès de Sidi Bel-Abbès,Algeria
+1201–1500,Université Polytechnique Hauts-de-France,France
+1201–1500,Université Saint-Joseph de Beyrouth,Lebanon
+1201–1500,Universiti Malaysia Sarawak,Malaysia
+1201–1500,Universiti Tun Hussein Onn Malaysia,Malaysia
+1201–1500,University of A Coruña,Spain
+1201–1500,University of Anbar,Iraq
+1201–1500,University of Angers,France
+1201–1500,University of Antioquia,Colombia
+1201–1500,University of Antofagasta,Chile
+1201–1500,HES-SO University of Applied Sciences and Arts of Western Switzerland,Switzerland
+1201–1500,University of Azad Jammu and Kashmir,Pakistan
+1201–1500,University of Benin,Nigeria
+1201–1500,University of Botswana,Botswana
+1201–1500,University of Brasília,Brazil
+1201–1500,University of Burgos,Spain
+1201–1500,University of Cadiz,Spain
+1201–1500,"University of Chemistry and Technology, Prague",Czechia
+1201–1500,University of Chittagong,Bangladesh
+1201–1500,University of Concepción,Chile
+1201–1500,University of Duhok,Iraq
+1201–1500,University of Engineering & Technology,Pakistan
+1201–1500,University of Évora,Portugal
+1201–1500,University of Franche-Comté,France
+1201–1500,University of Gdańsk,Poland
+1201–1500,University of Guilan,Iran
+1201–1500,"University of Health Sciences, Turkey",Turkey
+1201–1500,University of Ilorin,Nigeria
+1201–1500,University of Ioannina,Greece
+1201–1500,University of La Rochelle,France
+1201–1500,University of La Serena,Chile
+1201–1500,University of Las Palmas de Gran Canaria,Spain
+1201–1500,University of León,Spain
+1201–1500,University of Macedonia,Greece
+1201–1500,University of Malaga,Spain
+1201–1500,University of Manouba,Tunisia
+1201–1500,University of Maragheh,Iran
+1201–1500,University of Maribor,Slovenia
+1201–1500,University of Mauritius,Mauritius
+1201–1500,University of Mazandaran,Iran
+1201–1500,University of Medicine and Pharmacy of Craiova,Romania
+1201–1500,University of Monastir,Tunisia
+1201–1500,University of Nebraska Omaha,United States
+1201–1500,University of Nigeria Nsukka,Nigeria
+1201–1500,University of Northampton,United Kingdom
+1201–1500,University of Pannonia,Hungary
+1201–1500,University of Peradeniya,Sri Lanka
+1201–1500,University of Puerto Rico,Puerto Rico
+1201–1500,University of Rouen Normandie,France
+1201–1500,University of Sadat City,Egypt
+1201–1500,University of Shanghai for Science and Technology,China
+1201–1500,University of Social Welfare and Rehabilitation Sciences,Iran
+1201–1500,University of South Africa,South Africa
+1201–1500,University of South Wales,United Kingdom
+1201–1500,University of Split,Croatia
+1201–1500,University of Staffordshire,United Kingdom
+1201–1500,University of Sunderland,United Kingdom
+1201–1500,University of Tarapacá,Chile
+1201–1500,University of Technology of Compiègne,France
+1201–1500,University of Technology of Troyes,France
+1201–1500,University of Texas Rio Grande Valley,United States
+1201–1500,University of the Philippines,Philippines
+1201–1500,University of Thessaly,Greece
+1201–1500,University of Toyama,Japan
+1201–1500,University of Trás-os-Montes and Alto Douro,Portugal
+1201–1500,University of Urbino Carlo Bo,Italy
+1201–1500,University of Valladolid,Spain
+1201–1500,University of West Bohemia,Czechia
+1201–1500,University of Winchester,United Kingdom
+1201–1500,University of Worcester,United Kingdom
+1201–1500,University of Wrocław,Poland
+1201–1500,University of Zagreb,Croatia
+1201–1500,University Rey Juan Carlos,Spain
+1201–1500,USAMV Cluj-Napoca,Romania
+1201–1500,"Vels Institute of Science, Technology and Advanced Studies",India
+1201–1500,Veltech University,India
+1201–1500,"Vietnam National University, Hanoi",Vietnam
+1201–1500,Vilnius Gediminas Technical University,Lithuania
+1201–1500,"Visvesvaraya National Institute of Technology, Nagpur",India
+1201–1500,VSB - Technical University of Ostrava,Czechia
+1201–1500,Vytautas Magnus University,Lithuania
+1201–1500,Walailak University,Thailand
+1201–1500,Warsaw University of Life Sciences – SGGW,Poland
+1201–1500,Warsaw University of Technology,Poland
+1201–1500,Western Michigan University,United States
+1201–1500,West University of Timişoara,Romania
+1201–1500,Woosong University,South Korea
+1201–1500,Wrocław University of Science and Technology,Poland
+1201–1500,Wuhan Textile University,China
+1201–1500,Xiangtan University,China
+1201–1500,Xuzhou Medical University,China
+1201–1500,Yamagata University,Japan
+1201–1500,Yasouj University,Iran
+1201–1500,Yazd University,Iran
+1201–1500,Yokohama National University,Japan
+1201–1500,Zhejiang Sci-Tech University,China
+1501+,Abdelmalek Essaâdi University,Morocco
+1501+,Acharya Nagarjuna University,India
+1501+,Acıbadem University,Turkey
+1501+,Adana Alparslan Türkeş Science and Technology University,Turkey
+1501+,Adelphi University,United States
+1501+,Afyon Kocatepe University,Turkey
+1501+,Akita University,Japan
+1501+,Aksaray University,Turkey
+1501+,Alberto Hurtado University,Chile
+1501+,Alexandru Ioan Cuza University,Romania
+1501+,Al-Furat Al-Awsat Technical University,Iraq
+1501+,Allameh Tabataba ’i University,Iran
+1501+,Al-Muthanna University,Iraq
+1501+,Al-Nahrain University,Iraq
+1501+,Altai State University,Russian Federation
+1501+,Altınbaş University,Turkey
+1501+,Alzahra University,Iran
+1501+,Ankara University,Turkey
+1501+,Ankara Yildirim Beyazit University,Turkey
+1501+,Antonio Nariño University,Colombia
+1501+,Aoyama Gakuin University,Japan
+1501+,Arak University,Iran
+1501+,Atılım University,Turkey
+1501+,Austral University of Chile,Chile
+1501+,Autonomous University of Baja California,Mexico
+1501+,Aydın Adnan Menderes University,Turkey
+1501+,Azerbaijan State Oil and Industry University,Azerbaijan
+1501+,Badji Mokhtar University – Annaba,Algeria
+1501+,Baku State University,Azerbaijan
+1501+,Bashkir State Medical University,Russian Federation
+1501+,Başkent University,Turkey
+1501+,Belarusian State University,Belarus
+1501+,Belgorod State National Research University,Russian Federation
+1501+,Benemérita Universidad Autónoma de Puebla,Mexico
+1501+,Bernardo O’Higgins University,Chile
+1501+,Bezmiâlem Vakif University,Turkey
+1501+,Bharath Institute of Higher Education and Research,India
+1501+,Bharati Vidyapeeth University,India
+1501+,Bialystok University of Technology,Poland
+1501+,Bilecik Şeyh Edebali University,Turkey
+1501+,Blida 1 University,Algeria
+1501+,Bogomolets National Medical University,Ukraine
+1501+,Bolu Abant Izzet Baysal University,Turkey
+1501+,Bozok University,Turkey
+1501+,B. S. Abdur Rahman Crescent Institute of Science and Technology,India
+1501+,Burapha University,Thailand
+1501+,Burdur Mehmet Akif Ersoy University,Turkey
+1501+,Bursa Technical University,Turkey
+1501+,Bursa Uludağ University,Turkey
+1501+,Çankırı Karatekin University,Turkey
+1501+,Catholic University of Brasília,Brazil
+1501+,Catholic University of the North,Chile
+1501+,Ceará State University,Brazil
+1501+,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Brazil
+1501+,CES University,Colombia
+1501+,Chang Gung University of Science and Technology,Taiwan
+1501+,Chelyabinsk State University,Russian Federation
+1501+,Chiba Institute of Technology,Japan
+1501+,Chinese Culture University,Taiwan
+1501+,Christ University,India
+1501+,Chubu University,Japan
+1501+,Chung Shan Medical University,Taiwan
+1501+,Chuo University,Japan
+1501+,College of Charleston,United States
+1501+,Communication University of China,China
+1501+,Cracow University of Technology,Poland
+1501+,Cukurova University,Turkey
+1501+,Damascus University,Syria
+1501+,Damghan University,Iran
+1501+,Dankook University,South Korea
+1501+,De La Salle University,Philippines
+1501+,Del Rosario University,Colombia
+1501+,Dicle University,Turkey
+1501+,Diponegoro University,Indonesia
+1501+,Dokkyo Medical University,Japan
+1501+,Dokuz Eylül University,Turkey
+1501+,Don State Technical University,Russian Federation
+1501+,Doshisha University,Japan
+1501+,Dow University of Health Sciences,Pakistan
+1501+,Dumlupinar University,Turkey
+1501+,Dunarea de Jos University of Galati,Romania
+1501+,EAFIT University,Colombia
+1501+,Ehime University,Japan
+1501+,Ekiti State University,Nigeria
+1501+,El Bosque University,Colombia
+1501+,Erzincan Binali Yıldırım University,Turkey
+1501+,Escuela Politécnica Nacional,Ecuador
+1501+,Escuela Superior Politécnica del Litoral,Ecuador
+1501+,Eskişehir Osmangazi University,Turkey
+1501+,Eskişehir Technical University,Turkey
+1501+,"Federal Institute of Education, Science and Technology of São Paulo",Brazil
+1501+,Federal Rural University of Pernambuco,Brazil
+1501+,"Federal University of Agriculture, Abeokuta",Nigeria
+1501+,Federal University of Espírito Santo,Brazil
+1501+,Federal University of Goiás,Brazil
+1501+,Federal University of Itajubá,Brazil
+1501+,Federal University of Mato Grosso do Sul,Brazil
+1501+,Federal University of Pará,Brazil
+1501+,Federal University of Pelotas,Brazil
+1501+,Universidade Federal de Pernambuco,Brazil
+1501+,Federal University of Rio Grande do Norte,Brazil
+1501+,"Federal University of Technology, Owerri",Nigeria
+1501+,Federal University of Viçosa,Brazil
+1501+,Federal University Oye-Ekiti,Nigeria
+1501+,Federico Santa María Technical University,Chile
+1501+,Feng Chia University,Taiwan
+1501+,Ferhat Abbas Sétif University 1,Algeria
+1501+,Fluminense Federal University,Brazil
+1501+,Gaziantep University,Turkey
+1501+,Gdynia Maritime University,Poland
+1501+,"George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures",Romania
+1501+,Georgian Technical University,Georgia
+1501+,Georgia Southern University,United States
+1501+,German University in Cairo,Egypt
+1501+,Gheorghe Asachi Technical University of Iaşi,Romania
+1501+,GITAM University,India
+1501+,GMR Institute of Technology,India
+1501+,Goa University,India
+1501+,Grand Valley State University,United States
+1501+,Grigore T. Popa University of Medicine and Pharmacy,Romania
+1501+,Gubkin Russian State University of Oil and Gas,Russian Federation
+1501+,Gunma University,Japan
+1501+,Hanoi University of Science and Technology,Vietnam
+1501+,Hasanuddin University,Indonesia
+1501+,Hassiba Benbouali University of Chlef,Algeria
+1501+,Hellenic Open University,Greece
+1501+,Herzen State Pedagogical University of Russia,Russian Federation
+1501+,Hitit University,Turkey
+1501+,Hongik University,South Korea
+1501+,Hormozgan University of Medical Sciences,Iran
+1501+,Hue University,Vietnam
+1501+,Ibaraki University,Japan
+1501+,Ibn Khaldoun University,Algeria
+1501+,Indira Gandhi Delhi Technical University for Women,India
+1501+,Industrial University of Tyumen,Russian Federation
+1501+,Instituto Politécnico de Viana do Castelo,Portugal
+1501+,Instituto Politécnico Nacional,Mexico
+1501+,Instituto Tecnológico Metropolitano,Colombia
+1501+,Institut Teknologi Sepuluh Nopember,Indonesia
+1501+,International Hellenic University,Greece
+1501+,Ionian University,Greece
+1501+,IPB University,Indonesia
+1501+,Irkutsk National Research Technical University,Russian Federation
+1501+,Irkutsk State University,Russian Federation
+1501+,Islamic University of Indonesia,Indonesia
+1501+,Istanbul Aydın University,Turkey
+1501+,Istanbul Bilgi University,Turkey
+1501+,Istanbul Medipol University,Turkey
+1501+,Ivane Javakhishvili Tbilisi State University,Georgia
+1501+,Ivan Franko National University of Lviv,Ukraine
+1501+,Ivanovo State University of Chemistry and Technology,Russian Federation
+1501+,Iwate University,Japan
+1501+,Izmir Institute of Technology,Turkey
+1501+,Izmir University of Economics,Turkey
+1501+,"Jagannath University, Bangladesh",Bangladesh
+1501+,Jan Kochanowski University in Kielce,Poland
+1501+,Jean Moulin University – Lyon 3,France
+1501+,Jember University,Indonesia
+1501+,Jianghan University,China
+1501+,Kagoshima University,Japan
+1501+,Kanagawa University,Japan
+1501+,Kanazawa Medical University,Japan
+1501+,Kansai University,Japan
+1501+,Karabük University,Turkey
+1501+,Karadeniz Technical University,Turkey
+1501+,Karpagam Academy of Higher Education,India
+1501+,Kasetsart University,Thailand
+1501+,Kastamonu University,Turkey
+1501+,Kathmandu University,Nepal
+1501+,Kazan National Research Technological University,Russian Federation
+1501+,Kazan State Medical University,Russian Federation
+1501+,Kazan State Power Engineering University,Russian Federation
+1501+,Kemerovo State University,Russian Federation
+1501+,Kenyatta University,Kenya
+1501+,Kharkiv Aviation Institute,Ukraine
+1501+,Kharkiv National University of Radio Electronics,Ukraine
+1501+,King Mongkut’s Institute of Technology Ladkrabang,Thailand
+1501+,Kirikkale University,Turkey
+1501+,Kırşehir Ahi Evran University,Turkey
+1501+,Kitasato University,Japan
+1501+,Kocaeli University,Turkey
+1501+,Kochi University,Japan
+1501+,Kochi University of Technology,Japan
+1501+,Kogakuin University,Japan
+1501+,Konya Technical University,Turkey
+1501+,Kwansei Gakuin University,Japan
+1501+,Kyoto Institute of Technology,Japan
+1501+,Ladoke Akintola University of Technology,Nigeria
+1501+,Lagos State University,Nigeria
+1501+,Lahore College for Women University,Pakistan
+1501+,Larbi Tebessi University,Algeria
+1501+,Latvia University of Life Sciences and Technologies,Latvia
+1501+,L.N. Gumilyov Eurasian National University,Kazakhstan
+1501+,Lobachevsky State University of Nizhni Novgorod,Russian Federation
+1501+,Londrina State University,Brazil
+1501+,Loyola Marymount University,United States
+1501+,Lublin University of Technology,Poland
+1501+,Lucian Blaga University of Sibiu,Romania
+1501+,Lviv Polytechnic National University,Ukraine
+1501+,Mackenzie Presbyterian University,Brazil
+1501+,Mahasarakham University,Thailand
+1501+,Manisa Celal Bayar University,Turkey
+1501+,Mapúa University,Philippines
+1501+,Maria Curie-Skłodowska University,Poland
+1501+,Marmara University,Turkey
+1501+,Matej Bel University,Slovakia
+1501+,Meiji University,Japan
+1501+,Meijo University,Japan
+1501+,Mendeleev University of Chemical Technology,Russian Federation
+1501+,Mersin University,Turkey
+1501+,Metropolitan Autonomous University,Mexico
+1501+,M’Hamed Bougara University of Boumerdès,Algeria
+1501+,Middle Technical University,Iraq
+1501+,Mie University,Japan
+1501+,Mindanao State University – Iligan Institute of Technology,Philippines
+1501+,Ming Chuan University,Taiwan
+1501+,MIREA - Russian Technological University,Russian Federation
+1501+,Misr University for Science and Technology,Egypt
+1501+,Morgan State University,United States
+1501+,Moscow Polytechnic University,Russian Federation
+1501+,Moscow Power Engineering Institute,Russian Federation
+1501+,Moulay Ismail University,Morocco
+1501+,M S Ramaiah University of Applied Sciences,India
+1501+,Mugla Sitki Kocman University,Turkey
+1501+,Muhimbili University of Health and Allied Sciences,Tanzania
+1501+,Muroran Institute of Technology,Japan
+1501+,Muş Alparslan University,Turkey
+1501+,Mustansiriyah University,Iraq
+1501+,Nara Women’s University,Japan
+1501+,Naresuan University,Thailand
+1501+,"State University ""Kyiv Aviation Institute""",Ukraine
+1501+,National Changhua University of Education,Taiwan
+1501+,National Chiayi University,Taiwan
+1501+,National Chi Nan University,Taiwan
+1501+,National Chin-Yi University of Technology,Taiwan
+1501+,National Dong Hwa University,Taiwan
+1501+,National Formosa University,Taiwan
+1501+,National Ilan University,Taiwan
+1501+,National Pingtung University of Science and Technology,Taiwan
+1501+,National Research University of Electronic Technology,Russian Federation
+1501+,National Taipei University,Taiwan
+1501+,National Technical University Kharkiv Polytechnic Institute,Ukraine
+1501+,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,Ukraine
+1501+,National United University,Taiwan
+1501+,National University of Colombia,Colombia
+1501+,National University of Comahue,Argentina
+1501+,National University of Córdoba,Argentina
+1501+,National University of Cuyo,Argentina
+1501+,National University of Kaohsiung,Taiwan
+1501+,National University of La Plata,Argentina
+1501+,National University of Life and Environmental Sciences of Ukraine,Ukraine
+1501+,National University of Medical Sciences,Pakistan
+1501+,National University of Mongolia,Mongolia
+1501+,National University of San Martín,Argentina
+1501+,NED University of Engineering and Technology,Pakistan
+1501+,Niğde Ömer Halisdemir University,Turkey
+1501+,Nitte,India
+1501+,Nizhny Novgorod State Technical University n.a. R.E. Alekseev,Russian Federation
+1501+,Nnamdi Azikiwe University,Nigeria
+1501+,North-Caucasus Federal University,Russian Federation
+1501+,North-Eastern Federal University,Russian Federation
+1501+,Northern,Russian Federation
+1501+,Northern Technical University,Iraq
+1501+,North University of China,China
+1501+,North-Western State Medical University named after I.I. Mechnikov,Russian Federation
+1501+,Novosibirsk State Technical University,Russian Federation
+1501+,Nueva Granada Military University,Colombia
+1501+,Obafemi Awolowo University,Nigeria
+1501+,Ochanomizu University,Japan
+1501+,October University for Modern Sciences and Arts,Egypt
+1501+,Odesa I.I. Mechnikov National University,Ukraine
+1501+,Ogarev Mordovia State University,Russian Federation
+1501+,Oita University,Japan
+1501+,Okayama University of Science,Japan
+1501+,Oles Honchar Dnipro National University,Ukraine
+1501+,Omsk State Technical University,Russian Federation
+1501+,Ondokuz Mayis University,Turkey
+1501+,Oran 1 University,Algeria
+1501+,Ordu University,Turkey
+1501+,Osaka Institute of Technology,Japan
+1501+,Osaka Medical and Pharmaceutical University,Japan
+1501+,Ovidius University of Constanța,Romania
+1501+,Pace University-New York,United States
+1501+,Pamukkale University,Turkey
+1501+,Pavlov First Saint Petersburg State Medical University,Russian Federation
+1501+,Payame Noor University,Iran
+1501+,Penza State University,Russian Federation
+1501+,Perm National Research Polytechnic University,Russian Federation
+1501+,Perm State University,Russian Federation
+1501+,Platov South-Russian State Polytechnic University,Russian Federation
+1501+,Polytechnic Institute of Porto,Portugal
+1501+,Polytechnic Institute of Setúbal,Portugal
+1501+,Polytechnic University of Bucharest,Romania
+1501+,Polytechnic University of Timişoara,Romania
+1501+,Pontifical Catholic University of Argentina,Argentina
+1501+,Pontifical Catholic University of Minas Gerais,Brazil
+1501+,Pontifical Catholic University of Peru,Peru
+1501+,Pontifical Catholic University of Valparaíso,Chile
+1501+,Pontificia Universidad Javeriana,Colombia
+1501+,Pontificia Universidad Católica del Ecuador,Ecuador
+1501+,University of Economics in Prague,Czechia
+1501+,Privolzhsky Research Medical University,Russian Federation
+1501+,PSG College of Technology,India
+1501+,Recep Tayyip Erdoğan University,Turkey
+1501+,Reshetnev Siberian State University of Science and Technology,Russian Federation
+1501+,REVA University,India
+1501+,Riga Stradiņš University,Latvia
+1501+,Rikkyo University,Japan
+1501+,Ritsumeikan University,Japan
+1501+,Russian Presidential Academy of National Economy and Public Administration,Russian Federation
+1501+,Russian State University for the Humanities,Russian Federation
+1501+,Russian University of Transport,Russian Federation
+1501+,R V College of Engineering,India
+1501+,Ryukoku University,Japan
+1501+,Rzeszów University of Technology,Poland
+1501+,Saga University,Japan
+1501+,Saint Petersburg State Pediatric Medical University,Russian Federation
+1501+,Saints Cyril and Methodius University in Skopje,North Macedonia
+1501+,Saitama University,Japan
+1501+,Sakarya University,Turkey
+1501+,Samara National Research University,Russian Federation
+1501+,Samara State Medical University,Russian Federation
+1501+,Samara State Technical University,Russian Federation
+1501+,Satbayev University,Kazakhstan
+1501+,SGH Warsaw School of Economics,Poland
+1501+,Shanxi Medical University,China
+1501+,Shibaura Institute of Technology,Japan
+1501+,Shimane University,Japan
+1501+,Shiv Nadar University,India
+1501+,Shizuoka University,Japan
+1501+,Siberian State Medical University,Russian Federation
+1501+,Sichuan University of Science and Engineering,China
+1501+,Sikkim Manipal University,India
+1501+,Silpakorn University,Thailand
+1501+,Sivas Cumhuriyet University,Turkey
+1501+,Slovak University of Agriculture in Nitra,Slovakia
+1501+,Slovak University of Technology in Bratislava,Slovakia
+1501+,Sofia University,Bulgaria
+1501+,"Soochow University, Taiwan",Taiwan
+1501+,Sophia University,Japan
+1501+,Southern Federal University,Russian Federation
+1501+,Southwest Petroleum University,China
+1501+,Southwest State University,Russian Federation
+1501+,Sri Lanka Institute of Information Technology,Sri Lanka
+1501+,Srinakharinwirot University,Thailand
+1501+,Sri Ramachandra Institute of Higher Education and Research,India
+1501+,State University of Bahia,Brazil
+1501+,State University of Malang,Indonesia
+1501+,State University of Ponta Grossa,Brazil
+1501+,State University of Santa Cruz,Brazil
+1501+,St Petersburg Electrotechnical University,Russian Federation
+1501+,Süleyman Demirel University,Turkey
+1501+,Széchenyi István University,Hungary
+1501+,Tamil Nadu Agricultural University,India
+1501+,Tamkang University,Taiwan
+1501+,Taras Shevchenko National University of Kyiv,Ukraine
+1501+,Tashkent University of Information Technologies,Uzbekistan
+1501+,Technical University of Cluj-Napoca,Romania
+1501+,Technical University of Liberec,Czechia
+1501+,Technical University of Sofia,Bulgaria
+1501+,Technological University of Pereira,Colombia
+1501+,Teikyo University,Japan
+1501+,Telkom University,Indonesia
+1501+,Temuco Catholic University,Chile
+1501+,Tezpur University,India
+1501+,Thiagarajar College of Engineering,India
+1501+,Tikrit University,Iraq
+1501+,Toho University,Japan
+1501+,Tokat Gaziosmanpaşa University,Turkey
+1501+,Tokyo City University,Japan
+1501+,Tokyo Denki University,Japan
+1501+,Tokyo University of Agriculture,Japan
+1501+,Tokyo University of Technology,Japan
+1501+,Tomsk State University of Control Systems and Radioelectronics,Russian Federation
+1501+,Tottori University,Japan
+1501+,Toyama Prefectural University,Japan
+1501+,Toyo University,Japan
+1501+,Trakia University,Bulgaria
+1501+,Trakya University,Turkey
+1501+,Tribhuvan University,Nepal
+1501+,Tula State University,Russian Federation
+1501+,Ufa State Petroleum Technological University,Russian Federation
+1501+,Ufa University of Science and Technology,Russian Federation
+1501+,UNIR – International University of La Rioja,Spain
+1501+,Universidad Andrés Bello,Chile
+1501+,Universidad Autónoma Chapingo,Mexico
+1501+,Universidad Autónoma de Ciudad Juárez,Mexico
+1501+,Universidad Autónoma de Coahuila,Mexico
+1501+,Universidad Autónoma del Estado de Hidalgo,Mexico
+1501+,Universidad Autónoma del Estado de Mexico,Mexico
+1501+,Universidad Autónoma del Estado de Morelos,Mexico
+1501+,Universidad Autónoma de Nuevo León,Mexico
+1501+,Universidad Autónoma de Querétaro,Mexico
+1501+,Universidad Autónoma de Yucatán,Mexico
+1501+,Universidad Católica de la Santísima Concepción,Chile
+1501+,Universidad Católica del Maule,Chile
+1501+,Universidad Científica del Sur,Peru
+1501+,Universidad de las Fuerzas Armadas – ESPE,Ecuador
+1501+,Universidad del Valle,Colombia
+1501+,Universidad Distrital Francisco José de Caldas,Colombia
+1501+,Universidade do Estado de Santa Catarina,Brazil
+1501+,Universidade do Estado do Rio de Janeiro,Brazil
+1501+,Universidade Estadual de Feira de Santana,Brazil
+1501+,Universidade Estadual de Maringá,Brazil
+1501+,Universidade Estadual do Maranhão,Brazil
+1501+,Universidade Estadual do Norte Fluminense Darcy Ribeiro,Brazil
+1501+,Universidade Estadual do Oeste do Paraná,Brazil
+1501+,Universidade Federal da Bahia,Brazil
+1501+,Universidade Federal da Grande Dourados,Brazil
+1501+,Universidade Federal de Ciências da Saúde de Porto Alegre,Brazil
+1501+,Universidade Federal de Juiz de Fora,Brazil
+1501+,Universidade Federal de Sergipe,Brazil
+1501+,Universidade Federal do Ceará,Brazil
+1501+,Universidade Federal do Maranhão,Brazil
+1501+,Universidade Federal Rural do Semi-Arido,Brazil
+1501+,Universidade Lusófona,Portugal
+1501+,Universidade Nove de Julho,Brazil
+1501+,Universidade Tecnológica Federal do Paraná,Brazil
+1501+,Universidad Francisco de Vitoria,Spain
+1501+,Universidad Industrial de Santander,Colombia
+1501+,Universidad Mayor,Chile
+1501+,Universidad Michoacana de San Nicolás de Hidalgo,Mexico
+1501+,Universidad Nacional Agraria La Molina,Peru
+1501+,Universidad Nacional de Asunción,Paraguay
+1501+,Universidad Nacional del Litoral,Argentina
+1501+,Universidad Panamericana,Mexico
+1501+,Universidad Pedagogica y Tecnologica de Colombia - UPTC,Colombia
+1501+,Universidad Peruana de Ciencias Aplicadas,Peru
+1501+,Universidad Politécnica Salesiana,Ecuador
+1501+,Universidad Pontificia Bolivariana,Colombia
+1501+,Universidad San Ignacio de Loyola,Peru
+1501+,Universidad Santo Tomás,Chile
+1501+,Universidad Técnica de Manabí,Ecuador
+1501+,Universidad Técnica Particular de Loja,Ecuador
+1501+,Universitas Ahmad Dahlan,Indonesia
+1501+,Universitas Andalas,Indonesia
+1501+,Universitas Muhammadiyah Malang,Indonesia
+1501+,Universitas Muhammadiyah Yogyakarta,Indonesia
+1501+,Universitas Negeri Padang,Indonesia
+1501+,Universitas Negeri Semarang,Indonesia
+1501+,Universitas Negeri Surabaya,Indonesia
+1501+,Universitas Negeri Yogyakarta,Indonesia
+1501+,Universitas Padjadjaran,Indonesia
+1501+,Universitas Pendidikan Indonesia,Indonesia
+1501+,Universitas Sriwijaya,Indonesia
+1501+,Universitas Sumatera Utara,Indonesia
+1501+,Universitas Syiah Kuala,Indonesia
+1501+,Université 8 Mai 1945 Guelma,Algeria
+1501+,Université Chouaïb Doukkali,Morocco
+1501+,Université de Gabès,Tunisia
+1501+,Université de Skikda,Algeria
+1501+,Université Frères Mentouri Constantine 1,Algeria
+1501+,Université Hassan 1er,Morocco
+1501+,Université Hassan II de Casablanca,Morocco
+1501+,Université Kasdi Merbah Ouargla,Algeria
+1501+,Université Mohammed Premier,Morocco
+1501+,Université Mouloud Mammeri de Tizi-Ouzou,Algeria
+1501+,Université Sorbonne Nouvelle,France
+1501+,Université Sultan Moulay Slimane,Morocco
+1501+,Universiti Kuala Lumpur,Malaysia
+1501+,Universiti Malaysia Kelantan,Malaysia
+1501+,Universiti Malaysia Perlis,Malaysia
+1501+,Universiti Teknikal Malaysia Melaka,Malaysia
+1501+,Universiti Teknologi MARA,Malaysia
+1501+,University Abdelhamid Ibn Badis Mostaganem,Algeria
+1501+,University for Development Studies,Ghana
+1501+,University Mohamed Boudiaf of M’Sila,Algeria
+1501+,University of Abou Bekr Belkaïd Tlemcen,Algeria
+1501+,University of Al-Qadisiyah,Iraq
+1501+,University of Babylon,Iraq
+1501+,University of Baghdad,Iraq
+1501+,University of Basrah,Iraq
+1501+,University of Batna 2,Algeria
+1501+,University of Béjaïa,Algeria
+1501+,University of Bío-Bío,Chile
+1501+,University of Birjand,Iran
+1501+,University of Biskra,Algeria
+1501+,University of Brawijaya,Indonesia
+1501+,University of Carthage,Tunisia
+1501+,University of Caxias do Sul,Brazil
+1501+,University of Chester,United Kingdom
+1501+,University of Colima,Mexico
+1501+,University of Costa Rica,Costa Rica
+1501+,University of Craiova,Romania
+1501+,University of Cuenca,Ecuador
+1501+,University of Dar es Salaam,Tanzania
+1501+,University of Diyala,Iraq
+1501+,University of Fortaleza,Brazil
+1501+,University of Fort Hare,South Africa
+1501+,University of Fukui,Japan
+1501+,University of Guadalajara,Mexico
+1501+,University of Guanajuato,Mexico
+1501+,University of Havana,Cuba
+1501+,University of Hormozgan,Iran
+1501+,University of Hyogo,Japan
+1501+,University of Jijel,Algeria
+1501+,University of Karachi,Pakistan
+1501+,University of Kelaniya,Sri Lanka
+1501+,University of Kerbala,Iraq
+1501+,University of Kinshasa,Democratic Republic of the Congo
+1501+,University of La Frontera,Chile
+1501+,University of Laghouat,Algeria
+1501+,University of Lampung,Indonesia
+1501+,University of La Sabana,Colombia
+1501+,University of Las Américas,Ecuador
+1501+,University of Lethbridge,Canada
+1501+,University of Life Sciences in Lublin,Poland
+1501+,University of Lodz,Poland
+1501+,University of Los Lagos,Chile
+1501+,University of Lucknow,India
+1501+,University Cadi Ayyad of Marrakech,Morocco
+1501+,University of Mascara,Algeria
+1501+,University of Mataram,Indonesia
+1501+,University of Medellín,Colombia
+1501+,University of Miskolc,Hungary
+1501+,University of Miyazaki,Japan
+1501+,University of Montenegro,Montenegro
+1501+,University of Moratuwa,Sri Lanka
+1501+,University of Mosul,Iraq
+1501+,University of Mysore,India
+1501+,University of Nairobi,Kenya
+1501+,University of Namibia,Namibia
+1501+,University of Novi Sad,Serbia
+1501+,University of Oradea,Romania
+1501+,University of Ostrava,Czechia
+1501+,University of Oum El Bouaghi,Algeria
+1501+,University of Pardubice,Czechia
+1501+,University of Passo Fundo,Brazil
+1501+,University of Pau and Pays de l’Adour,France
+1501+,University of Pernambuco,Brazil
+1501+,University of Phayao,Thailand
+1501+,University of Port Harcourt,Nigeria
+1501+,University of Primorska,Slovenia
+1501+,University of Prishtina,Kosovo
+1501+,University of Qom,Iran
+1501+,University of Rijeka,Croatia
+1501+,University of Rwanda,Rwanda
+1501+,"University of Santiago, Chile",Chile
+1501+,University of Santo Tomas,Philippines
+1501+,University of Sarajevo,Bosnia and Herzegovina
+1501+,University of Science and Technology of Oran Mohamed-Boudiaf,Algeria
+1501+,University of Sciences and Technology Houari Boumediene,Algeria
+1501+,University of Shizuoka,Japan
+1501+,University of Silesia in Katowice,Poland
+1501+,University of Sistan and Baluchestan,Iran
+1501+,University of Sonora,Mexico
+1501+,University of Sousse,Tunisia
+1501+,University of Sri Jayewardenepura,Sri Lanka
+1501+,University of Szczecin,Poland
+1501+,University of Taipei,Taiwan
+1501+,University of Talca,Chile
+1501+,"University of the Andes, Chile",Chile
+1501+,"University of the Andes, Venezuela",Venezuela
+1501+,"University of the North, Colombia",Colombia
+1501+,University of the Ryukyus,Japan
+1501+,University of Thi-Qar,Iraq
+1501+,University of Tunis,Tunisia
+1501+,University of Valparaíso,Chile
+1501+,University of Venda,South Africa
+1501+,University of Warmia and Mazury in Olsztyn,Poland
+1501+,University of West Attica,Greece
+1501+,University of Western Macedonia,Greece
+1501+,University of Yamanashi,Japan
+1501+,University of Zambia,Zambia
+1501+,University of Zanjan,Iran
+1501+,University of Zimbabwe,Zimbabwe
+1501+,Uşak University,Turkey
+1501+,"Usmanu Danfodiyo University, Sokoto",Nigeria
+1501+,Utsunomiya University,Japan
+1501+,Uzhhorod National University,Ukraine
+1501+,Vali-e-Asr University of Rafsanjan,Iran
+1501+,Van Yüzüncü Yil University,Turkey
+1501+,Vasyl Stefanyk Precarpathian National University,Ukraine
+1501+,Vietnam National University,Vietnam
+1501+,"Vignan’s Foundation for Science, Technology and Research",India
+1501+,Vinayaka Mission’s Research Foundation,India
+1501+,V.N. Karazin Kharkiv National University,Ukraine
+1501+,Volgograd State Medical University,Russian Federation
+1501+,Volgograd State Technical University,Russian Federation
+1501+,Volgograd State University,Russian Federation
+1501+,Voronezh State Technical University,Russian Federation
+1501+,Voronezh State University,Russian Federation
+1501+,Wasit University,Iraq
+1501+,Wrocław University of Environmental and Life Sciences,Poland
+1501+,Yamaguchi University,Japan
+1501+,Yanbian University,China
+1501+,Yanshan University,China
+1501+,Yeditepe University,Turkey
+1501+,Yerevan State University,Armenia
+1501+,Yuriy Fedkovych Chernivtsi National University,Ukraine
+1501+,Zonguldak Bülent Ecevit University,Turkey
+Reporter,2iE -  International Institute for Water and Environmental Engineering,Burkina Faso
+Reporter,Abai Kazakh National Pedagogical University,Kazakhstan
+Reporter,Abbes Laghrour University of Khenchala,Algeria
+Reporter,Abdelhafid Boussouf University Center of Mila,Algeria
+Reporter,Abdullah Gül University,Turkey
+Reporter,Abertay University,United Kingdom
+Reporter,Abia State University,Nigeria
+Reporter,Abrar University,Somalia
+Reporter,Academia BAI - Instituto Superior de Administração e Finanças,Angola
+Reporter,AECC University College,United Kingdom
+Reporter,Ahlia University,Bahrain
+Reporter,Ajeenkya DY Patil University,India
+Reporter,Akhmet Yassawi University,Kazakhstan
+Reporter,Akita Prefectural University,Japan
+Reporter,Akli Mohand Oulhadj Bouira University,Algeria
+Reporter,Akwa Ibom State University,Nigeria
+Reporter,Al Akhawayn University,Morocco
+Reporter,Al-Ameed University,Iraq
+Reporter,Al-Ayen University,Iraq
+Reporter,Al-Bayan University,Iraq
+Reporter,Al-Esraa University,Iraq
+Reporter,Alex Ekwueme Federal University Ndufu-Alike,Nigeria
+Reporter,Al-Farahidi University,Iraq
+Reporter,Algiers 2 University,Algeria
+Reporter,Al-Iraqia University,Iraq
+Reporter,Alisher Navo’i Tashkent State University of Uzbek Language and Literature,Uzbekistan
+Reporter,Al-Karkh University of Science,Iraq
+Reporter,Al-Kitab University,Iraq
+Reporter,AlMaarefa University,Saudi Arabia
+Reporter,University of Manara,Iraq
+Reporter,Almaty Humanitarian-Economic University,Kazakhstan
+Reporter,Almaty Technological University,Kazakhstan
+Reporter,Almazov National Medical Research Centre,Russian Federation
+Reporter,Al-Mustaqbal University,Iraq
+Reporter,Alnoor University,Iraq
+Reporter,Al-Qalam University College,Iraq
+Reporter,Al-Qasim Green University,Iraq
+Reporter,Al-Quds University,Palestine
+Reporter,Al-Rafidain University College,Iraq
+Reporter,Al Ryada University for Science and Technology - RST,Egypt
+Reporter,Al Safwa University College,Iraq
+Reporter,Altoosi University,Iraq
+Reporter,Al-Zahraa University for Women,Iraq
+Reporter,Al-Zahrawi University College,Iraq
+Reporter,Ambrose Alli University,Nigeria
+Reporter,American University in Dubai,United Arab Emirates
+Reporter,American University in the Emirates,United Arab Emirates
+Reporter,American University of Ras Al Khaimah,United Arab Emirates
+Reporter,"Amity University, Chhattisgarh",India
+Reporter,"Amity University, Gwalior",India
+Reporter,Amity University - Kolkata,India
+Reporter,"Amity University, Mumbai",India
+Reporter,Amman Arab University,Jordan
+Reporter,Amref International University,Kenya
+Reporter,Anáhuac University,Mexico
+Reporter,Andijan Machine-Building Institute,Uzbekistan
+Reporter,Andijan State Medical Institute,Uzbekistan
+Reporter,Andijan State Pedagogical Institute,Uzbekistan
+Reporter,Andijan State University,Uzbekistan
+Reporter,Andrés Bello Catholic University,Venezuela
+Reporter,Anglo-American University,Czechia
+Reporter,Ankara Science University,Turkey
+Reporter,Arab American University,Palestine
+Reporter,Arab Open University,Kuwait
+Reporter,Arak University of Technology,Iran
+Reporter,Arish University,Egypt
+Reporter,Arkin University of Creative Arts and Design,Northern Cyprus
+Reporter,Armenian National Agrarian University,Armenia
+Reporter,Arts University Bournemouth,United Kingdom
+Reporter,Arts University Plymouth,United Kingdom
+Reporter,Arturo Prat University,Chile
+Reporter,Asahi University,Japan
+Reporter,Asfendiyarov Kazakh National Medical University,Kazakhstan
+Reporter,A'Sharqiyah University,Oman
+Reporter,Ashikaga University,Japan
+Reporter,Ashoka University,India
+Reporter,Ashur University,Iraq
+Reporter,Astana International University AIU,Kazakhstan
+Reporter,Astana Medical University,Kazakhstan
+Reporter,Atlas University,Turkey
+Reporter,Atma Jaya Catholic University of Indonesia,Indonesia
+Reporter,Atyrau University,Kazakhstan
+Reporter,Audencia,France
+Reporter,Autonomous University of Chiapas,Mexico
+Reporter,Azerbaijan Medical University,Azerbaijan
+Reporter,Azerbaijan State University of Economics,Azerbaijan
+Reporter,Azerbaijan Technical University,Azerbaijan
+Reporter,Azerbaijan University,Azerbaijan
+Reporter,Azerbaijan University of Architecture and Construction,Azerbaijan
+Reporter,"Bacha Khan University, Charsadda",Pakistan
+Reporter,Badr University in Cairo,Egypt
+Reporter,Bakrie University,Indonesia
+Reporter,Baku Engineering University,Azerbaijan
+Reporter,Baku Higher Oil School,Azerbaijan
+Reporter,Baku Slavic University,Azerbaijan
+Reporter,Bandirma Onyedi Eylül University,Turkey
+Reporter,Barawa International University,Somalia
+Reporter,Basrah University College of Science and Technology,Iraq
+Reporter,Bath Spa University,United Kingdom
+Reporter,Batterjee Medical College,Saudi Arabia
+Reporter,Bayburt University,Turkey
+Reporter,Baze University,Nigeria
+Reporter,Beaconhouse National University,Pakistan
+Reporter,Belarusian State Medical University,Belarus
+Reporter,Belarusian State University of Informatics and Radioelectronics,Belarus
+Reporter,Bells University of Technology,Nigeria
+Reporter,Benson Idahosa University,Nigeria
+Reporter,Bentley University,United States
+Reporter,Beykent University,Turkey
+Reporter,Bilad Alrafidain University,Iraq
+Reporter,Birmingham Newman University,United Kingdom
+Reporter,Biruni University,Turkey
+Reporter,Bishop Grosseteste University,United Kingdom
+Reporter,Bohdan Khmelnytsky National University of Cherkasy,Ukraine
+Reporter,Bowen University,Nigeria
+Reporter,Buckinghamshire New University,United Kingdom
+Reporter,Budapest Business School,Hungary
+Reporter,Bukhara State University,Uzbekistan
+Reporter,Bundelkhand University,India
+Reporter,Buriram Rajabhat University,Thailand
+Reporter,Çağ University,Turkey
+Reporter,"California State University, Chico",United States
+Reporter,Canadian International College - Cairo Campus of Cape Breton University Canada,Egypt
+Reporter,Catholic University in Erbil,Iraq
+Reporter,Catholic University of Ávila,Spain
+Reporter,Cebu Technological University,Philippines
+Reporter,Central European University,Austria
+Reporter,Central Luzon State University,Philippines
+Reporter,Centro de Estudios para la Calidad Educativa y la Investigación Científica,Mexico
+Reporter,Centro Universitário Cesuca,Brazil
+Reporter,Centurion University of Technology and Management,India
+Reporter,CESI,France
+Reporter,CETYS Universidad,Mexico
+Reporter,Chadli Bendjedid El Tarf University,Algeria
+Reporter,Charmo University,Iraq
+Reporter,Chernihiv Polytechnic National University,Ukraine
+Reporter,Cholistan University of Veterinary and Animal Sciences,Pakistan
+Reporter,Cihan University - Duhok,Iraq
+Reporter,Cihan University – Erbil,Iraq
+Reporter,Cihan University Sulaimaniya,Iraq
+Reporter,City University of Macau,Macao
+Reporter,"City University of Science and Information Technology, Peshawar",Pakistan
+Reporter,Civil Aviation Academy,Kazakhstan
+Reporter,College of Business Education,Tanzania
+Reporter,Conservatoire for Dance and Drama,United Kingdom
+Reporter,Courtauld Institute of Art,United Kingdom
+Reporter,Cranfield University,United Kingdom
+Reporter,Daneshpajoohan Pishro Higher Education Institute,Iran
+Reporter,Dawood University of Engineering and Technology,Pakistan
+Reporter,De La Salle – College of Saint Benilde,Philippines
+Reporter,"Delta State University, Abraka",Nigeria
+Reporter,Delta University for Science and Technology,Egypt
+Reporter,Denau Institute of Entrepreneurship and Pedagogy,Uzbekistan
+Reporter,Deraya University,Egypt
+Reporter,Dhaka International University,Bangladesh
+Reporter,DHA Suffa University,Pakistan
+Reporter,Dhofar University,Oman
+Reporter,Dnipro University of Technology,Ukraine
+Reporter,Donetsk National University of Economics and Trade named after Mykhailo Tuhan-Baranovsky,Ukraine
+Reporter,Dovletmammet Azadi Turkmen National Institute of World Languages,Turkmenistan
+Reporter,D. Serikbayev East Kazakhstan Technical University,Kazakhstan
+Reporter,Duhok Polytechnic University,Iraq
+Reporter,EAE Business School,Spain
+Reporter,East West University,Bangladesh
+Reporter,École Nationale Polytechnique,Algeria
+Reporter,École Nationale Supérieure Agronomique,Algeria
+Reporter,"École Nationale Supérieure Agronomique, Algiers",Algeria
+Reporter,École Nationale Supérieure de Biotechnologie Taoufik Khaznadar,Algeria
+Reporter,École Nationale Supérieure de Journalisme et des Sciences de l’Information,Algeria
+Reporter,École Nationale Supérieure de Mécanique et des Microtechniques,France
+Reporter,Ecole Nationale Supérieure d'Hydraulique,Algeria
+Reporter,École Nationale Supérieure d’Informatique,Algeria
+Reporter,École Nationale Supérieure Vétérinaire d’Alger,Algeria
+Reporter,École National Polytechnique de Constantine,Algeria
+Reporter,École Normale Supérieure de Béchar,Algeria
+Reporter,École Normale Supérieure de Bouzaréah,Algeria
+Reporter,École Normale Supérieure de Kouba,Algeria
+Reporter,École Normale Supérieure de Laghouat,Algeria
+Reporter,École Normale Supérieure de Ouargla,Algeria
+Reporter,École Normale Supérieure d’Oran,Algeria
+Reporter,École Normale Supérieure El Katiba Assia Djebar Constantine,Algeria
+Reporter,École Polytechnique d’Architecture et d’Urbanisme,Algeria
+Reporter,École Supérieure de Comptabilité et de Finances de Constantine,Algeria
+Reporter,École Supérieure en Informatique 8 Mai 1945 de Sidi-Bel-Abbès,Algeria
+Reporter,École Supérieure en Sciences Appliquées de Tlemcen,Algeria
+Reporter,École Supérieure en Sciences et Technologies de l’Informatique et du Numérique,Algeria
+Reporter,Ecotec University,Ecuador
+Reporter,Effat University,Saudi Arabia
+Reporter,Egerton University,Kenya
+Reporter,Egyptian Russian University,Egypt
+Reporter,EIA University,Colombia
+Reporter,Elmergib University,Libya
+Reporter,Emir Abdelkader University of Islamic Sciences,Algeria
+Reporter,Erbil Polytechnic University,Iraq
+Reporter,Escola Superior de Enfermagem do Porto,Portugal
+Reporter,Escuela Superior Politécnica de Chimborazo,Ecuador
+Reporter,ESIC University,Spain
+Reporter,ESLSCA University,Egypt
+Reporter,Eszterházy Károly Catholic University,Hungary
+Reporter,EURECOM,France
+Reporter,European University,Georgia
+Reporter,European University of Armenia,Armenia
+Reporter,"Evangel University, Akaeze",Nigeria
+Reporter,Externado University of Colombia,Colombia
+Reporter,Falmouth University,United Kingdom
+Reporter,Fatima Jinnah Women University,Pakistan
+Reporter,"Federal University of Petroleum Resources, Effurun",Nigeria
+Reporter,Fergana Polytechnic Institute,Uzbekistan
+Reporter,Fergana State University,Uzbekistan
+Reporter,Finis Terrae University,Chile
+Reporter,Forman Christian College,Pakistan
+Reporter,Francisk Skorina Gomel State University,Belarus
+Reporter,Universidad Libre de Colombia,Colombia
+Reporter,Gangadhar Meher University,India
+Reporter,Gautam Buddha University,India
+Reporter,General Sir John Kotelawala Defence University,Sri Lanka
+Reporter,Gift University,Pakistan
+Reporter,Glasgow School of Art,United Kingdom
+Reporter,Godfrey Okoye University,Nigeria
+Reporter,Gomel State Medical University,Belarus
+Reporter,Government College Women University Faisalabad,Pakistan
+Reporter,"Government College Women University, Sialkot",Pakistan
+Reporter,Grodno State Medical University,Belarus
+Reporter,Guildhall School of Music and Drama,United Kingdom
+Reporter,Gulf College,Oman
+Reporter,Gulf Medical University,United Arab Emirates
+Reporter,Gulf University,Bahrain
+Reporter,Gulf University for Science and Technology,Kuwait
+Reporter,Gulistan State Pedagogical Institute,Uzbekistan
+Reporter,Gulistan State University,Uzbekistan
+Reporter,Habib University,Pakistan
+Reporter,Hagoromo University of International Studies,Japan
+Reporter,Hakuoh University,Japan
+Reporter,Häme University of Applied Sciences,Finland
+Reporter,Hanseo University,South Korea
+Reporter,Harper Adams University,United Kingdom
+Reporter,Hartpury University,United Kingdom
+Reporter,Hasan Kalyoncu University,Turkey
+Reporter,Hawler Medical University,Iraq
+Reporter,Hebron University,Palestine
+Reporter,Higher School of Management – Tlemcen,Algeria
+Reporter,Hiroshima International University,Japan
+Reporter,Hodeida University,Yemen
+Reporter,Ho Technical University,Ghana
+Reporter,Hryhorii Skovoroda University in Pereiaslav,Ukraine
+Reporter,Humboldt State University,United States
+Reporter,Iași University of Life Sciences,Romania
+Reporter,IBADAT International University Islamabad,Pakistan
+Reporter,"ICFAI University, Dehradun",India
+Reporter,IFHE Hyderabad,India
+Reporter,Iğdır University,Turkey
+Reporter,Ilma University,Pakistan
+Reporter,Imam Ja’afar Al-Sadiq University,Iraq
+Reporter,IMT Mines Alès,France
+Reporter,"Independent University, Bangladesh",Bangladesh
+Reporter,Information Technology University of the Punjab,Pakistan
+Reporter,Institute of Agriculture and Agrotechnologies of Karakalpakstan,Uzbekistan
+Reporter,Institute of Cancer Research,United Kingdom
+Reporter,"Institute of Engineering and Management, India",India
+Reporter,University of Southern Punjab,Pakistan
+Reporter,Institute of Telecommunications and Informatics of Turkmenistan,Turkmenistan
+Reporter,Instituto Superior de Ciências da Educação da Huíla,Angola
+Reporter,Instituto Superior de Ciências da Educação de Benguela,Angola
+Reporter,Instituto Superior de Ciências da Educação do Huambo,Angola
+Reporter,Instituto Superior de Ciências de Educação de Cabinda,Angola
+Reporter,Instituto Superior Politécnico do Bié,Angola
+Reporter,Instituto Superior Politécnico do Cuanza Sul,Angola
+Reporter,Instituto Tecnológico de Buenos Aires,Argentina
+Reporter,Institut Teknologi Nasional Bandung,Indonesia
+Reporter,Institut Teknologi PLN,Indonesia
+Reporter,International IT University,Kazakhstan
+Reporter,International University of Erbil,Iraq
+Reporter,International University of Rabat,Morocco
+Reporter,Interregional Academy of Personnel Management,Ukraine
+Reporter,Iqra University,Pakistan
+Reporter,"Islamic Azad University, Shahr-e-Qods",Iran
+Reporter,Israel Technological University,Ecuador
+Reporter,İstanbul Nişantaşi University,Turkey
+Reporter,Istanbul Okan University,Turkey
+Reporter,IT STEP University,Ukraine
+Reporter,IUBAT – International University of Business Agriculture and Technology,Bangladesh
+Reporter,Ivano-Frankivsk National Medical University,Ukraine
+Reporter,Jabir ibn Hayyan University for Medical and Pharmaceutical Sciences,Iraq
+Reporter,Jadara University,Jordan
+Reporter,Jaramogi Oginga Odinga University of Science and Technology,Kenya
+Reporter,"Jaypee University of Engineering and Technology, Guna",India
+Reporter,Jinnah Sindh Medical University,Pakistan
+Reporter,Jizzakh Polytechnic Institute,Uzbekistan
+Reporter,Jizzakh State Pedagogical University,Uzbekistan
+Reporter,John von Neumann University,Hungary
+Reporter,Kabarak University,Kenya
+Reporter,Kabardino-Balkarian State University,Russian Federation
+Reporter,Kamianets-Podіlskyi Ivan Ohiienko National University,Ukraine
+Reporter,Karakalpak State University,Uzbekistan
+Reporter,Karshi Engineering Economics Institute,Uzbekistan
+Reporter,Karshi State University,Uzbekistan
+Reporter,Kazakh-British Technical University,Kazakhstan
+Reporter,Kazakh National Women’s Teacher Training University,Kazakhstan
+Reporter,Kharkiv Humanitarian-Pedagogical Academy,Ukraine
+Reporter,Kharkiv International Medical University,Ukraine
+Reporter,Kharkiv National Automobile and Highway University,Ukraine
+Reporter,Kharkiv National University of Internal Affairs,Ukraine
+Reporter,Khazar University,Azerbaijan
+Reporter,Khemis Miliana University,Algeria
+Reporter,Kherson State Agrarian and Economic University,Ukraine
+Reporter,Kherson State Maritime Academy,Ukraine
+Reporter,Khmelnytskyi National University,Ukraine
+Reporter,Khyber Medical University,Pakistan
+Reporter,Kibabii University,Kenya
+Reporter,Kimyo International University in Tashkent,Uzbekistan
+Reporter,King Abdullah University of Science and Technology,Saudi Arabia
+Reporter,King Danylo University,Ukraine
+Reporter,King Edward Medical University,Pakistan
+Reporter,Kinnaird College for Women,Pakistan
+Reporter,Kisii University,Kenya
+Reporter,Kitami Institute of Technology,Japan
+Reporter,Klaipeda University,Lithuania
+Reporter,Knowledge University,Iraq
+Reporter,Kobe Gakuin University,Japan
+Reporter,Kohsar University Murree,Pakistan
+Reporter,Kokshetau State University,Kazakhstan
+Reporter,Komar University of Science and Technology,Iraq
+Reporter,Komazawa University,Japan
+Reporter,Konan University,Japan
+Reporter,Koya University,Iraq
+Reporter,KPR Institute of Engineering and Technology,India
+Reporter,KTO Karatay University,Turkey
+Reporter,Kumasi Technical University,Ghana
+Reporter,Kursk State Medical University,Russian Federation
+Reporter,Central University of Europe,Georgia
+Reporter,Kuwait College of Science and Technology,Kuwait
+Reporter,Kyiv National Economic University,Ukraine
+Reporter,Kyoai Gakuen University,Japan
+Reporter,Kyoto Sangyo University,Japan
+Reporter,Kyrgyz-Turkish Manas University,Kyrgyzstan
+Reporter,K. Zhubanov Aktobe Regional University,Kazakhstan
+Reporter,Lagos State University of Education,Nigeria
+Reporter,Lagos State University of Science and Technology,Nigeria
+Reporter,La Salle University,Colombia
+Reporter,Law Enforcement Academy of the Republic of Uzbekistan,Uzbekistan
+Reporter,Lebanese French University,Iraq
+Reporter,Leeds Arts University,United Kingdom
+Reporter,Leeds Conservatoire,United Kingdom
+Reporter,Leeds Trinity University,United Kingdom
+Reporter,Lesya Ukrainka Volyn National University,Ukraine
+Reporter,Liaquat University of Medical and Health Sciences,Pakistan
+Reporter,Libyan International Medical University,Libya
+Reporter,Lincoln University College,Malaysia
+Reporter,Liverpool Hope University,United Kingdom
+Reporter,Liverpool Institute for Performing Arts,United Kingdom
+Reporter,Liverpool School of Tropical Medicine,United Kingdom
+Reporter,London Academy of Music and Dramatic Art,United Kingdom
+Reporter,London Business School,United Kingdom
+Reporter,London School of Hygiene and Tropical Medicine,United Kingdom
+Reporter,Luis Amigó Catholic University,Colombia
+Reporter,Lutsk National Technical University,Ukraine
+Reporter,Luxor University,Egypt
+Reporter,Lyceum-Northwestern University,Philippines
+Reporter,Maasai Mara University,Kenya
+Reporter,Machakos University,Kenya
+Reporter,Magtymguly Turkmen State University,Turkmenistan
+Reporter,Mahatma Jyotiba Phule Rohilkhand University,India
+Reporter,Malatya Turgut Ozal University,Turkey
+Reporter,Malawi University of Science and Technology,Malawi
+Reporter,Manila Central University,Philippines
+Reporter,Maritime University of Szczecin,Poland
+Reporter,M. Auezov South Kazakhstan University,Kazakhstan
+Reporter,Medizinische Hochschule Hannover,Germany
+Reporter,Middle East College,Oman
+Reporter,Middle East University,Jordan
+Reporter,Middle East University – Lebanon,Lebanon
+Reporter,Midocean University,Comoros
+Reporter,Millat Umidi University,Uzbekistan
+Reporter,Minhaj University Lahore,Pakistan
+Reporter,Misurata University,Libya
+Reporter,"MNS University of Agriculture, Multan",Pakistan
+Reporter,Moscow State Linguistic University,Russian Federation
+Reporter,Muban Chombueng Rajabhat University,Thailand
+Reporter,Mukogawa Women’s University,Japan
+Reporter,Mulungushi University,Zambia
+Reporter,Musashino University,Japan
+Reporter,Myrat Garryyev State Medical University of Turkmenistan,Turkmenistan
+Reporter,Nagoya University of Commerce & Business,Japan
+Reporter,Nakhchivan State University,Azerbaijan
+Reporter,Nakhon Ratchasima Rajabhat University,Thailand
+Reporter,Namal University,Pakistan
+Reporter,Namangan Engineering Construction Institute,Uzbekistan
+Reporter,Namangan Institute of Engineering and Technology,Uzbekistan
+Reporter,Namangan State University,Uzbekistan
+Reporter,"Nasarawa State University, Keffi",Nigeria
+Reporter,National Defence University - Pakistan,Pakistan
+Reporter,National Film and Television School,United Kingdom
+Reporter,National Polytechnic University of Armenia,Armenia
+Reporter,National School of Artificial Intelligence,Algeria
+Reporter,National Transport University,Ukraine
+Reporter,National University Odessa Law Academy,Ukraine
+Reporter,National University of Food Technologies,Ukraine
+Reporter,National University of Pharmacy,Ukraine
+Reporter,National University of Quilmes,Argentina
+Reporter,"National University of Science and Technology, Oman",Oman
+Reporter,National University of Technology,Pakistan
+Reporter,National University Philippines,Philippines
+Reporter,"National University, Sudan",Sudan
+Reporter,National University “Yuri Kondratyuk Poltava Polytechnic”,Ukraine
+Reporter,Navoi State University,Uzbekistan
+Reporter,Nawroz University,Iraq
+Reporter,Netaji Subhas University of Technology,India
+Reporter,Niger Delta University,Nigeria
+Reporter,Niigata University of Health and Welfare,Japan
+Reporter,Nile University of Nigeria,Nigeria
+Reporter,Northeast Ohio Medical University,United States
+Reporter,Norwich University of the Arts,United Kingdom
+Reporter,Novosibirsk State University of Economics and Management,Russian Federation
+Reporter,NSBM Green University,Sri Lanka
+Reporter,Nueva Ecija University of Science and Technology,Philippines
+Reporter,Nukus Innovation Institute,Uzbekistan
+Reporter,October 6 University,Egypt
+Reporter,Odesa National Maritime University,Ukraine
+Reporter,Odesa State University of Internal Affairs,Ukraine
+Reporter,Oguz Han Engineering and Technology University of Turkmenistan,Turkmenistan
+Reporter,Oman Dental College,Oman
+Reporter,Omar Al-Mukhtar University,Libya
+Reporter,Omsk State Agrarian University,Russian Federation
+Reporter,Oran Graduate School of Economics,Algeria
+Reporter,Orel State Agrarian University named after N.V. Parahin,Russian Federation
+Reporter,Orel State University named after I.S. Turgenev,Russian Federation
+Reporter,ORT Uruguay University,Uruguay
+Reporter,Ostrogradsky National University of Kremenchuk,Ukraine
+Reporter,Osun State University,Nigeria
+Reporter,Otemon Gakuin University,Japan
+Reporter,Pacific National University,Russian Federation
+Reporter,Palestine Ahliya University,Palestine
+Reporter,Palestine Polytechnic University,Palestine
+Reporter,Palestine Technical University – Kadoorie,Palestine
+Reporter,Panteion University of Social and Political Sciences,Greece
+Reporter,Panthéon-Assas University,France
+Reporter,Pavlo Tychyna Uman State Pedagogical University,Ukraine
+Reporter,Peoples University of Medical & Health Sciences for Women - Shaheed Benazirabad,Pakistan
+Reporter,Petroleum University of Technology,Iran
+Reporter,Pharos University,Egypt
+Reporter,Philadelphia University,Jordan
+Reporter,Philippine State College of Aeronautics,Philippines
+Reporter,Plymouth Marjon University,United Kingdom
+Reporter,Polis University,Albania
+Reporter,Poltava State Medical University,Ukraine
+Reporter,Pontificia Universidad Católica Madre y Maestra,Dominican Republic
+Reporter,Positivo University,Brazil
+Reporter,Presidency University,India
+Reporter,PSB University Cambodia,Cambodia
+Reporter,Pskov State University,Russian Federation
+Reporter,PUC-Campinas,Brazil
+Reporter,Qaiwan International University,Iraq
+Reporter,Queen Arwa University,Yemen
+Reporter,Queen Margaret University,United Kingdom
+Reporter,Quezon City University,Philippines
+Reporter,Q University,Kazakhstan
+Reporter,Rajarata University of Sri Lanka,Sri Lanka
+Reporter,RAK Medical and Health Sciences University,United Arab Emirates
+Reporter,Rawalpindi Medical University,Pakistan
+Reporter,Regional Autonomous University of the Andes,Ecuador
+Reporter,Relizane University,Algeria
+Reporter,Ritsumeikan Asia Pacific University,Japan
+Reporter,Rivers State University,Nigeria
+Reporter,Rome Business School,Italy
+Reporter,Rose Bruford College,United Kingdom
+Reporter,Rostov State University of Economics,Russian Federation
+Reporter,Royal Academy of Dramatic Art,United Kingdom
+Reporter,Royal Academy of Music,United Kingdom
+Reporter,Royal Agricultural University,United Kingdom
+Reporter,"Royal Central School of Speech and Drama, University of London",United Kingdom
+Reporter,Royal College of Art,United Kingdom
+Reporter,Royal College of Music,United Kingdom
+Reporter,Royal Conservatoire of Scotland,United Kingdom
+Reporter,Royal Northern College of Music,United Kingdom
+Reporter,Russian Biotechnological University,Russian Federation
+Reporter,Ryazan State Medical University,Russian Federation
+Reporter,Saint Louis University,Philippines
+Reporter,"Saint Thomas University, Colombia",Colombia
+Reporter,Sakon Nakhon Rajabhat University,Thailand
+Reporter,Samarkand Institute of Economics and Service,Uzbekistan
+Reporter,Samarkand State Institute of Foreign Languages,Uzbekistan
+Reporter,Samarkand State Medical University,Uzbekistan
+Reporter,Samarkand State University,Uzbekistan
+Reporter,Samsun University,Turkey
+Reporter,Satya Wacana Christian University,Indonesia
+Reporter,School of Higher Commercial Studies,Algeria
+Reporter,SDU University,Kazakhstan
+Reporter,Sebha University,Libya
+Reporter,SEGi University,Malaysia
+Reporter,Senshu University,Japan
+Reporter,Seyitnazar Seydi Turkmen State Pedagogical Institute,Turkmenistan
+Reporter,"Shah Abdul Latif University, Khairpur",Pakistan
+Reporter,Shaheed Benazir Bhutto Women University Peshawar,Pakistan
+Reporter,Shaheed Mohtarma Benazir Bhutto Medical University,Pakistan
+Reporter,Shaheed Zulfiqar Ali Bhutto Medical University,Pakistan
+Reporter,Silesian University in Opava,Czechia
+Reporter,SIMAD University,Somalia
+Reporter,Simón Bolívar University,Colombia
+Reporter,Sir Syed University of Engineering and Technology,Pakistan
+Reporter,Sisaket Rajabhat University,Thailand
+Reporter,Sivas University of Science and Technology,Turkey
+Reporter,Skolkovo Institute of Science and Technology,Russian Federation
+Reporter,Social Sciences University of Ankara,Turkey
+Reporter,Sohar University,Oman
+Reporter,Soran University,Iraq
+Reporter,Southern Technical University,Iraq
+Reporter,Sphinx University,Egypt
+Reporter,Sri Balaji Vidyapeeth,India
+Reporter,Sri Padmavati Mahila Visvavidyalayam,India
+Reporter,SR University,India
+Reporter,State Energy Institute of Turkmenistan,Turkmenistan
+Reporter,Stavropol State Agrarian University,Russian Federation
+Reporter,Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies of Lviv,Ukraine
+Reporter,"St Mary’s University College, Belfast",United Kingdom
+Reporter,"St Mary’s University, Twickenham",United Kingdom
+Reporter,Stranmillis University College,United Kingdom
+Reporter,Sugiyama Jogakuen University,Japan
+Reporter,Sulaimani Polytechnic University,Iraq
+Reporter,Sumgayit State University,Azerbaijan
+Reporter,Sumy State Pedagogical University named after A.S. Makarenko,Ukraine
+Reporter,Tafila Technical University,Jordan
+Reporter,Takushoku University,Japan
+Reporter,Tarlac Agricultural University,Philippines
+Reporter,Tarsus University,Turkey
+Reporter,Tashkent Institute of Chemical Technology,Uzbekistan
+Reporter,Tashkent Institute of Textile and Light Industry,Uzbekistan
+Reporter,Tashkent International University of Financial Management and Technology,Uzbekistan
+Reporter,Tashkent Metropolitan University,Uzbekistan
+Reporter,Tashkent Pediatric Medical Institute,Uzbekistan
+Reporter,Tashkent Pharmaceutical Institute,Uzbekistan
+Reporter,Tashkent State Dental Institute,Uzbekistan
+Reporter,Tashkent State Pedagogical University named after Nizami,Uzbekistan
+Reporter,Tashkent State Technical University,Uzbekistan
+Reporter,Tashkent State Transport University,Uzbekistan
+Reporter,Tashkent State University of Economics,Uzbekistan
+Reporter,Tashkent State University of Law,Uzbekistan
+Reporter,Tashkent State University of Oriental Studies,Uzbekistan
+Reporter,Tata Institute of Fundamental Research,India
+Reporter,T. C. Demiroğlu Bilim University,Turkey
+Reporter,Teacher Education College of Setif,Algeria
+Reporter,Technical University of Cotopaxi,Ecuador
+Reporter,Technical University of Moldova,Moldova
+Reporter,Tecmilenio University,Mexico
+Reporter,Tecnológico de Costa Rica,Costa Rica
+Reporter,Teerthanker Mahaveer University,India
+Reporter,Termez Institute of Engineering and Technology,Uzbekistan
+Reporter,The British University in Dubai,United Arab Emirates
+Reporter,The Catholic University of Eastern Africa,Kenya
+Reporter,The Continents States University,United States
+Reporter,The Government Sadiq College Women University Bahawalpur,Pakistan
+Reporter,"The Graduate University for Advanced Studies, SOKENDAI",Japan
+Reporter,The Islamic University,Iraq
+Reporter,The LNM Institute of Information Technology,India
+Reporter,The National University of Ostroh Academy,Ukraine
+Reporter,The University of Haripur,Pakistan
+Reporter,The University of Shiga Prefecture,Japan
+Reporter,The Women University Multan,Pakistan
+Reporter,The World Islamic Sciences and Education University,Jordan
+Reporter,Thomas Adewumi University,Nigeria
+Reporter,Tijuana Institute of Technology,Mexico
+Reporter,Tishk International University,Iraq
+Reporter,Tishreen University,Syria
+Reporter,Tissemsilt University,Algeria
+Reporter,Togliatti State University,Russian Federation
+Reporter,Tohoku Gakuin University,Japan
+Reporter,Tokyo University of Foreign Studies,Japan
+Reporter,Tomsk State Pedagogical University,Russian Federation
+Reporter,Trinity Laban Conservatoire of Music and Dance,United Kingdom
+Reporter,Turan International University,Uzbekistan
+Reporter,Turkmen Agricultural Institute,Turkmenistan
+Reporter,Turkmen Agricultural University named after S.A. Niyazov,Turkmenistan
+Reporter,Turkmen State Architecture and Construction Institute,Turkmenistan
+Reporter,Turkmen State Institute of Economics and Management,Turkmenistan
+Reporter,Turkmen State Institute of Finance,Turkmenistan
+Reporter,Tver State Technical University,Russian Federation
+Reporter,Tver State University,Russian Federation
+Reporter,Ubon Ratchathani University,Thailand
+Reporter,UBT,Kosovo
+Reporter,Ulyanovsk State Technical University,Russian Federation
+Reporter,Ulyanovsk State University,Russian Federation
+Reporter,UNESC,Brazil
+Reporter,Unichristus,Brazil
+Reporter,United International University,Bangladesh
+Reporter,Universiapolis – Université Internationale d’Agadir,Morocco
+Reporter,Universidad Autónoma de Chiriquí,Panama
+Reporter,Universidad Camilo José Cela,Spain
+Reporter,Universidad Católica de Colombia,Colombia
+Reporter,Universidad Católica de Cuenca,Ecuador
+Reporter,Universidad Católica San Pablo,Peru
+Reporter,Universidad César Vallejo,Peru
+Reporter,Universidad del Magdalena,Colombia
+Reporter,Universidad del Pacífico,Peru
+Reporter,Universidad del Pacífico Ecuador,Ecuador
+Reporter,Universidad de Pamplona,Colombia
+Reporter,Universidade 11 de Novembro,Angola
+Reporter,Universidade Agostinho Neto,Angola
+Reporter,Universidade Cuíto Cuanavale,Angola
+Reporter,Universidade de Luanda,Angola
+Reporter,Universidade do Namibe,Angola
+Reporter,Universidade José Eduardo dos Santos,Angola
+Reporter,Universidade Katyavala Bwila,Angola
+Reporter,Universidade Kimpa Vita,Angola
+Reporter,Universidade Lueji A'Nkonde,Angola
+Reporter,Universidade Mandume ya Ndemufayo,Angola
+Reporter,Universidade Óscar Ribas,Angola
+Reporter,Universidade Rainha Njinga a Mbande,Angola
+Reporter,Universidad Estatal a Distancia,Costa Rica
+Reporter,Universidade Técnica de Angola,Angola
+Reporter,Universidad Internacional del Ecuador,Ecuador
+Reporter,Universidad Manuela Beltrán,Colombia
+Reporter,Universidad Mayor de San Simón,Bolivia
+Reporter,Universidad Nacional Abierta y a Distancia,Colombia
+Reporter,Universidad Nacional Arturo Jauretche,Argentina
+Reporter,Universidad Nacional de Chimborazo,Ecuador
+Reporter,Universidad Nacional de Itapúa,Paraguay
+Reporter,Universidad Nacional de Rafaela,Argentina
+Reporter,Universidad Popular Autónoma del Estado de Puebla,Mexico
+Reporter,Universidad Regional Amazónica Ikiam,Ecuador
+Reporter,Universidad Tecnológica Centroamericana,Honduras
+Reporter,Universidad Tecnológica de Bolívar,Colombia
+Reporter,Universidad UTE,Ecuador
+Reporter,Universita IULM,Italy
+Reporter,Universitas Atma Jaya Yogyakarta,Indonesia
+Reporter,Universitas Islam Sultan Agung,Indonesia
+Reporter,Universitas Mercu Buana,Indonesia
+Reporter,Universitas Pembangunan Nasional Veteran Jawa Timur,Indonesia
+Reporter,Universitas Pendidikan Ganesha,Indonesia
+Reporter,Universitas Pendidikan Nasional,Indonesia
+Reporter,Universitas Tanjungpura,Indonesia
+Reporter,Université d’Ain Témouchent,Algeria
+Reporter,Université d’Oran 2 Mohamed Ben Ahmed,Algeria
+Reporter,Université du Littoral Côte d’Opale,France
+Reporter,Université Mohamed El Bachir El Ibrahimi de Bordj Bou Arréridj,Algeria
+Reporter,University Center Morsli Abdellah of Tipaza,Algeria
+Reporter,University Center of Barika,Algeria
+Reporter,University Center of Illizi,Algeria
+Reporter,University Centre of El-Bayadh,Algeria
+Reporter,University Centre of Maghnia,Algeria
+Reporter,University Centre of Naama,Algeria
+Reporter,University College of Osteopathy,United Kingdom
+Reporter,University College TATI,Malaysia
+Reporter,University for the Creative Arts,United Kingdom
+Reporter,"University of Agricultural Sciences, Bangalore",India
+Reporter,University of Agronomic Sciences and Veterinary Medicine of Bucharest,Romania
+Reporter,Ahmed Draia University,Algeria
+Reporter,University of Al-Hamdaniya,Iraq
+Reporter,University of Alkafeel,Iraq
+Reporter,University of Al-Maarif,Iraq
+Reporter,University of Balochistan,Pakistan
+Reporter,"University of Baltistan, Skardu",Pakistan
+Reporter,University of Batna 1,Algeria
+Reporter,University of Bechar,Algeria
+Reporter,University of Benghazi,Libya
+Reporter,University of Blida 2,Algeria
+Reporter,University of Bogotá Jorge Tadeo Lozano,Colombia
+Reporter,University of Greater Manchester,United Kingdom
+Reporter,University of Buraimi,Oman
+Reporter,University of Chichester,United Kingdom
+Reporter,University of Civil Protection,Belarus
+Reporter,University of Constantine 3,Algeria
+Reporter,University of Cross River State,Nigeria
+Reporter,University of Cumbria,United Kingdom
+Reporter,University of Cyberjaya,Malaysia
+Reporter,University of Dubai,United Arab Emirates
+Reporter,University of Eastern Philippines,Philippines
+Reporter,VIZJA University,Poland
+Reporter,University of Economics and Pedagogics,Uzbekistan
+Reporter,University of Economics in Bratislava,Slovakia
+Reporter,University of Economics – Varna,Bulgaria
+Reporter,University of Educational Management,Ukraine
+Reporter,University of Eldoret,Kenya
+Reporter,University of El Oued,Algeria
+Reporter,University of Fallujah,Iraq
+Reporter,University of Franca,Brazil
+Reporter,University of Garmian,Iraq
+Reporter,University of Ghardaia,Algeria
+Reporter,University of Hafr Al Batin,Saudi Arabia
+Reporter,University of Halabja,Iraq
+Reporter,University of Health Sciences Lahore,Pakistan
+Reporter,University of Human Development,Iraq
+Reporter,University of Information Technology and Communications,Iraq
+Reporter,University of Jendouba,Tunisia
+Reporter,University of Kabianga,Kenya
+Reporter,University of Kairouan,Tunisia
+Reporter,University of Kirkuk,Iraq
+Reporter,University of Liberal Arts Bangladesh,Bangladesh
+Reporter,University of Magallanes,Chile
+Reporter,University of Maiduguri,Nigeria
+Reporter,University of Medea,Algeria
+Reporter,University of Misan,Iraq
+Reporter,University of Mohamed Lamine Debaghin Setif 2,Algeria
+Reporter,University of Monterrey,Mexico
+Reporter,University of National and World Economy,Bulgaria
+Reporter,University of North Carolina Wilmington,United States
+Reporter,University of Okara,Pakistan
+Reporter,University of Petra,Jordan
+Reporter,University of Poonch Rawalakot,Pakistan
+Reporter,"University of Professional Studies, Accra",Ghana
+Reporter,University of Puthisastra,Cambodia
+Reporter,University of Raparin,Iraq
+Reporter,University of Saint Joseph,Macao
+Reporter,University of San Martín de Porres,Peru
+Reporter,University of Santander,Colombia
+Reporter,University of Science and Technology of Southern Philippines,Philippines
+Reporter,University of Sopron,Hungary
+Reporter,University of Souk Ahras,Algeria
+Reporter,University of Suffolk,United Kingdom
+Reporter,University of Swat,Pakistan
+Reporter,University of Tamanghasset,Algeria
+Reporter,"University of Technology, Mauritius",Mauritius
+Reporter,University of Telafer,Iraq
+Reporter,University of the Arts London,United Kingdom
+Reporter,University of the Highlands and Islands,United Kingdom
+Reporter,University of the Humanities,Mongolia
+Reporter,University of the Immaculate Conception,Philippines
+Reporter,University of the Thai Chamber of Commerce,Thailand
+Reporter,University of Tripoli,Libya
+Reporter,University of Turkish Aeronautical Association,Turkey
+Reporter,University of Vale do Itajaí,Brazil
+Reporter,University of Wah,Pakistan
+Reporter,University of Wales Trinity Saint David,United Kingdom
+Reporter,University of Warith Al-Anbiyaa,Iraq
+Reporter,University of Western São Paulo,Brazil
+Reporter,University of Zakho,Iraq
+Reporter,University of Zawia,Libya
+Reporter,Ural State University of Economics,Russian Federation
+Reporter,Urgench State University,Uzbekistan
+Reporter,Uruk University,Iraq
+Reporter,Uzbekistan State University of World Languages,Uzbekistan
+Reporter,Uzbek State University of Physical Culture and Sport,Uzbekistan
+Reporter,Valahia University of Targoviste,Romania
+Reporter,Valley View University,Ghana
+Reporter,Van Lang University,Vietnam
+Reporter,Varendra University,Bangladesh
+Reporter,Varna University of Management,Bulgaria
+Reporter,"Veritas University, Abuja",Nigeria
+Reporter,"Vikrant University, Gwalior",India
+Reporter,Vila Velha University,Brazil
+Reporter,Visayas State University,Philippines
+Reporter,Vistula University,Poland
+Reporter,Vitebsk State Technological University,Belarus
+Reporter,Wachemo University,Ethiopia
+Reporter,Westcliff University,United States
+Reporter,Western Caspian University,Azerbaijan
+Reporter,West Ukrainian National University,Ukraine
+Reporter,West Virginia University,United States
+Reporter,Women University Mardan,Pakistan
+Reporter,Wrexham University,United Kingdom
+Reporter,WSB Academy,Poland
+Reporter,Yachay University for Experimental Technology and Research,Ecuador
+Reporter,Yagshigeldi Kakayev International University of Oil and Gas,Turkmenistan
+Reporter,Yanka Kupala State University of Grodno,Belarus
+Reporter,Yaroslav Mudryi National Law University,Ukraine
+Reporter,Yerevan State Medical University after Mkhitar Heratsi,Armenia
+Reporter,York St John University,United Kingdom
+Reporter,Zarqa University,Jordan
+Reporter,Zaytoonah International University,Syria
+Reporter,Zetech University,Kenya
+Reporter,Zhetysu University,Kazakhstan
+Reporter,Zhytomyr Ivan Franko State University,Ukraine
+Reporter,Zhytomyr Polytechnic State University,Ukraine
+Reporter,Ziane Achour University of Djelfa,Algeria
+Reporter,Ziauddin University,Pakistan

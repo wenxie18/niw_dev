@@ -1,0 +1,1001 @@
+rank,university_name,country
+1,Harvard University,United States
+2,Stanford University,United States
+3,Massachusetts Institute of Technology,United States
+4,University of Cambridge,United Kingdom
+5,University of California, Berkeley,United States
+6,University of Oxford,United Kingdom
+7,Princeton University,United States
+8,Columbia University,United States
+9,California Institute of Technology,United States
+10,University of Chicago,United States
+11,Yale University,United States
+12,Cornell University,United States
+13,Paris-Saclay University,France
+14,University College London,United Kingdom
+14,University of Pennsylvania,United States
+16,University of California, Los Angeles,United States
+17,University of Washington,United States
+18,Tsinghua University,China
+19,Johns Hopkins University,United States
+20,University of California, San Diego,United States
+21,University of California, San Francisco,United States
+22,ETH Zurich,Switzerland
+23,Peking University,China
+24,Zhejiang University,China
+25,University of Toronto,Canada
+26,Imperial College London,United Kingdom
+26,Washington University in St Louis,United States
+28,New York University,United States
+29,Rockefeller University,United States
+30,Shanghai Jiao Tong University,China
+31,Northwestern University,United States
+31,The University of Tokyo,Japan
+33,University of Michigan, Ann Arbor,United States
+34,PSL University,France
+35,University of Copenhagen,Country_DK
+36,University of Wisconsin, Madison,United States
+37,The University of Edinburgh,United Kingdom
+38,The University of Melbourne,Australia
+39,University of North Carolina at Chapel Hill,United States
+40,University of Science and Technology of China,China
+41,Fudan University,China
+42,University of Munich,Germany
+43,Sorbonne University,France
+44,Swiss Federal Institute of Technology Lausanne,Switzerland
+45,Technical University of Munich,Germany
+46,Duke University,United States
+46,Kyoto University,Japan
+46,The University of Manchester,United Kingdom
+49,The University of Texas at Austin,United States
+50,Karolinska Institute,Country_SE
+51,Heidelberg University,Germany
+51,University of Minnesota, Twin Cities,United States
+53,University of British Columbia,Canada
+53,University of Illinois Urbana, Champaign,United States
+55,University of Maryland, College Park,United States
+56,National University of Singapore,Country_SG
+56,Utrecht University,Netherlands
+58,University of Geneva,Switzerland
+58,University of Texas Southwestern Medical Center,United States
+60,Université Paris Cité,France
+61,King's College London,United Kingdom
+62,University of Colorado Boulder,United States
+62,Vanderbilt University,United States
+64,University of Zurich,Switzerland
+65,Sun Yat-sen University,China
+65,The University of Queensland,Australia
+67,The University of Hong Kong,Country_HK
+68,University of Bonn,Germany
+68,University of Southern California,United States
+70,University of California, Santa Barbara,United States
+71,Weizmann Institute of Science,Country_IL
+72,University of Sydney,Australia
+73,Huazhong University of Science and Technology,China
+73,University of Groningen,Netherlands
+75,Nanjing University,China
+76,KU Leuven,Country_BE
+76,McGill University,Canada
+76,Monash University,Australia
+79,University of California, Irvine,United States
+80,The University of New South Wales,Australia
+81,Seoul National University,Country_KR
+81,Wuhan University,China
+83,Ohio State University, Columbus,United States
+83,University of Oslo,Country_NO
+85,Aarhus University,Country_DK
+86,The University of Texas MD Anderson Cancer Center,United States
+87,Sichuan University,China
+88,Nanyang Technological University,Country_SG
+88,The Hebrew University of Jerusalem,Country_IL
+88,University of Pittsburgh,United States
+91,Ghent University,Country_BE
+92,Xi'an Jiaotong University,China
+93,Uppsala University,Country_SE
+94,University of Basel,Switzerland
+94,University of Helsinki,Country_FI
+96,Central South University,China
+97,Technion-Israel Institute of Technology,Country_IL
+98,University of Bristol,United Kingdom
+99,City University of Hong Kong,Country_HK
+100,Stockholm University,Country_SE
+101-753,Beihang University,China
+101-642,Beijing Institute of Technology,China
+101-589,Beijing Normal University,China
+101-452,Boston University,United States
+101-488,Brown University,United States
+101-436,Carnegie Mellon University,United States
+101-743,Emory University,United States
+101-198,Erasmus University Rotterdam,Netherlands
+101-640,Harbin Institute of Technology,China
+101-221,Icahn School of Medicine at Mount Sinai,United States
+101-010,Indiana University, Bloomington,United States
+101-832,Institute of Science Tokyo,Japan
+101-907,Jilin University,China
+101-985,King Saud University,Country_SA
+101-651,Leiden University,Netherlands
+101-002,Lund University,Country_SE
+101-459,Mayo Clinic College of Medicine and Science, Minnesota,United States
+101-260,McMaster University,Canada
+101-844,Moscow State University,Country_RU
+101-775,Nagoya University,Japan
+101-978,Northwestern Polytechnical University,China
+101-952,Pennsylvania State University, University Park,United States
+101-418,Purdue University, West Lafayette,United States
+101-000,Radboud University Nijmegen,Netherlands
+101-644,Rice University,United States
+101-120,Sapienza University of Rome,Italy
+101-749,Shandong University,China
+101-500,Soochow University (China),China
+101-291,South China University of Technology,China
+101-403,Southeast University,China
+101-516,Southern University of Science and Technology,China
+101-629,The Australian National University,Australia
+101-663,The Chinese University of Hong Kong,Country_HK
+101-696,The University of Warwick,United Kingdom
+101-096,The University of Western Australia,Australia
+101-565,Tianjin University,China
+101-508,Tongji University,China
+101-389,Université libre de Bruxelles (ULB),Country_BE
+101-146,University of Alberta,Canada
+101-650,University of Amsterdam,Netherlands
+101-461,University of California, Davis,United States
+101-846,University of Freiburg,Germany
+101-965,University of Glasgow,United Kingdom
+101-731,University of Lausanne,Switzerland
+101-928,University of Liverpool,United Kingdom
+101-286,University of Nottingham,United Kingdom
+101-609,University of Sao Paulo,Country_BR
+101-437,University of Strasbourg,France
+101-396,University of Vienna,Country_AT
+101-715,Xiamen University,China
+151-548,Aix Marseille University,France
+151-766,Arizona State University,United States
+151-978,Case Western Reserve University,United States
+151-471,China Agricultural University,China
+151-709,Chongqing University,China
+151-533,Dalian University of Technology,China
+151-827,Delft University of Technology,Netherlands
+151-963,Georgia Institute of Technology,United States
+151-245,Goethe University Frankfurt,Germany
+151-294,Hunan University,China
+151-110,Michigan State University,United States
+151-654,Nankai University,China
+151-531,NTNU - Norwegian University of Science and Technology,Country_NO
+151-568,Peking Union Medical College,China
+151-093,Rutgers, The State University of New Jersey - New Brunswick,United States
+151-261,Sungkyunkwan University,Country_KR
+151-877,Technical University of Denmark,Country_DK
+151-217,The Hong Kong Polytechnic University,Country_HK
+151-391,The London School of Economics and Political Science,United Kingdom
+151-521,The University of Adelaide,Australia
+151-873,The University of Calgary,Canada
+151-919,The University of Sheffield,United Kingdom
+151-853,Université Grenoble Alpes,France
+151-399,University of Arizona,United States
+151-678,University of Barcelona,Country_ES
+151-788,University of Bern,Switzerland
+151-162,University of Birmingham,United Kingdom
+151-461,University of California, Santa Cruz,United States
+151-105,University of Cologne,Germany
+151-276,University of Electronic Science and Technology of China,China
+151-262,University of Exeter,United Kingdom
+151-507,University of Florida,United States
+151-797,University of Goettingen,Germany
+151-289,University of Gothenburg,Country_SE
+151-100,University of Leeds,United Kingdom
+151-587,University of Mainz,Germany
+151-875,University of Massachusetts Chan Medical School,United States
+151-533,University of Milan,Italy
+151-461,University of Montpellier,France
+151-742,University of Montreal,Canada
+151-064,University of Muenster,Germany
+151-886,University of Padua,Italy
+151-958,University of Southampton,United Kingdom
+151-058,University of Tuebingen,Germany
+151-913,University of Utah,United States
+151-821,University of Waterloo,Canada
+151-025,Vrije Universiteit Amsterdam,Netherlands
+151-205,Wageningen University & Research,Netherlands
+151-317,Yonsei University,Country_KR
+151-151,Zhengzhou University,China
+201-155,Baylor College of Medicine,United States
+201-806,Beijing University of Chemical Technology,China
+201-806,Beijing University of Technology,China
+201-757,Capital Medical University,China
+201-539,Cardiff University,United Kingdom
+201-595,Catholic University of Louvain,Country_BE
+201-085,China University of Geosciences,China
+201-039,Claude Bernard University Lyon 1,France
+201-649,Curtin University,Australia
+201-465,Deakin University,Australia
+201-161,Dresden University of Technology,Germany
+201-269,Durham University,United Kingdom
+201-817,East China Normal University,China
+201-570,East China University of Science and Technology,China
+201-889,George Mason University,United States
+201-307,Hanyang University,Country_KR
+201-305,Heinrich Heine University Duesseldorf,Germany
+201-482,Hokkaido University,Japan
+201-013,Huazhong Agricultural University,China
+201-729,Institut polytechnique de Paris,France
+201-739,Keio University,Japan
+201-686,Kiel University,Germany
+201-769,King Abdullah University of Science and Technology,Country_SA
+201-759,Korea Advanced Institute of Science and Technology,Country_KR
+201-050,Korea University,Country_KR
+201-619,KTH Royal Institute of Technology,Country_SE
+201-688,Kyushu University,Japan
+201-527,Lanzhou University,China
+201-021,London School of Hygiene & Tropical Medicine,United Kingdom
+201-980,Macquarie University,Australia
+201-684,Medical University of Vienna,Country_AT
+201-457,Nanjing Agricultural University,China
+201-640,Nanjing Medical University,China
+201-756,Nanjing University of Aeronautics and Astronautics,China
+201-756,Nanjing University of Science & Technology,China
+201-650,National Autonomous University of Mexico,Country_MX
+201-542,National Taiwan University,Country_TW
+201-044,Newcastle University,United Kingdom
+201-301,North Carolina State University at Raleigh,United States
+201-596,Northeastern University (Boston),United States
+201-596,Northeastern University (Shenyang),China
+201-135,Northwest A&F University,China
+201-593,Oregon Health & Science University,United States
+201-097,Oregon State University,United States
+201-971,Osaka University,Japan
+201-666,Queen Mary University of London,United Kingdom
+201-834,Queen's University,Canada
+201-475,Ruhr University Bochum,Germany
+201-747,RWTH Aachen University,Germany
+201-195,Shanghai University,China
+201-607,Shenzhen University,China
+201-102,Southern Medical University,China
+201-350,Swinburne University of Technology,Australia
+201-877,Technical University of Berlin,Germany
+201-437,Tel Aviv University,Country_IL
+201-094,Texas A&M University,United States
+201-212,The Hong Kong University of Science and Technology,Country_HK
+201-632,The University of Auckland,Country_NZ
+201-116,The University of Tennessee, Knoxville,United States
+201-116,The University of Texas Health Science Center at Houston,United States
+201-411,Tohoku University,Japan
+201-861,Trinity College Dublin,Country_IE
+201-159,Tufts University,United States
+201-801,University of Aberdeen,United Kingdom
+201-147,University of Bergen,Country_NO
+201-619,University of Bologna,Italy
+201-495,University of Bordeaux,France
+201-345,University of Buenos Aires,Country_AR
+201-461,University of California, Riverside,United States
+201-560,University of Cape Town,Country_ZA
+201-435,University of Colorado at Denver,United States
+201-991,University of Connecticut,United States
+201-303,University of Delaware,United States
+201-109,University of Erlangen-Nuremberg,Germany
+201-761,University of Hamburg,Germany
+201-958,University of Houston,United States
+201-178,University of Innsbruck,Country_AT
+201-336,University of Leipzig,Germany
+201-365,University of Lisbon,Country_PT
+201-879,University of Lorraine,France
+201-875,University of Massachusetts, Amherst,United States
+201-824,University of Missouri, Columbia,United States
+201-760,University of Naples Federico II,Italy
+201-462,University of Ottawa,Canada
+201-282,University of Pisa,Italy
+201-219,University of Porto,Country_PT
+201-048,University of Rochester,United States
+201-450,University of Science and Technology Beijing,China
+201-374,University of Sussex,United Kingdom
+201-552,University of Technology Sydney,Australia
+201-018,University of the Witwatersrand,Country_ZA
+201-302,University of Tsukuba,Japan
+201-184,University of Turin,Italy
+201-431,University of Valencia,Country_ES
+201-445,University of Virginia,United States
+201-290,University of Wuerzburg,Germany
+201-156,University of York,United Kingdom
+201-111,Vienna University of Technology,Country_AT
+201-967,Virginia Polytechnic Institute and State University,United States
+201-068,Wuhan University of Technology,China
+301-552,Aalborg University,Country_DK
+301-380,Albert Einstein College of Medicine,United States
+301-034,Anhui University,China
+301-099,Autonomous University of Barcelona,Country_ES
+301-099,Autonomous University of Madrid,Country_ES
+301-728,Ben-Gurion University of the Negev,Country_IL
+301-989,Brandeis University,United States
+301-230,Chalmers University of Technology,Country_SE
+301-029,Charles University,Country_CZ
+301-085,China University of Petroleum (East China),China
+301-920,Colorado State University,United States
+301-914,Complutense University of Madrid,Country_ES
+301-147,Dalhousie University,Canada
+301-521,Dartmouth College,United States
+301-085,Ecole Normale Superieure - Lyon,France
+301-339,Eindhoven University of Technology,Netherlands
+301-337,Florida State University,United States
+301-705,Fujian Medical University,China
+301-494,Fuzhou University,China
+301-136,George Washington University,United States
+301-187,Griffith University,Australia
+301-979,Guangdong University of Technology,China
+301-589,Guangxi University,China
+301-666,Guangzhou Medical University,China
+301-319,Henan University,China
+301-241,Jiangnan University,China
+301-941,Jiangsu University,China
+301-382,Jinan University,China
+301-339,Karlsruhe Institute of Technology (KIT),Germany
+301-506,Kunming University of Science and Technology,China
+301-415,Kyung Hee University,Country_KR
+301-621,La Trobe University,Australia
+301-787,Lancaster University,United Kingdom
+301-605,Laval University,Canada
+301-896,Linkoping University,Country_SE
+301-182,Maastricht University,Netherlands
+301-346,Nanchang University,China
+301-751,Nanjing Tech University,China
+301-756,Nanjing University of Information Science & Technology,China
+301-756,Nanjing University of Posts and Telecommunications,China
+301-007,Ocean University of China,China
+301-861,Paul Sabatier University (Toulouse 3),France
+301-405,Pohang University of Science and Technology,Country_KR
+301-839,Polytechnic University of Milan,Italy
+301-686,Pompeu Fabra University,Country_ES
+301-186,Princess Nourah bint Abdulrahman University,Country_SA
+301-562,Qingdao University,China
+301-426,Queen's University Belfast,United Kingdom
+301-196,Queensland University of Technology,Australia
+301-475,Renmin University of China,China
+301-328,RMIT University,Australia
+301-575,ShanghaiTech University,China
+301-405,South China Agricultural University,China
+301-532,Southwest Jiaotong University,China
+301-183,Stony Brook University,United States
+301-611,The University of Georgia,United States
+301-788,Ulsan National Institute of Science and Technology,Country_KR
+301-661,University College Cork,Country_IE
+301-599,University College Dublin,Country_IE
+301-701,University of Alabama at Birmingham,United States
+301-400,University of Antwerp,Country_BE
+301-648,University of Cincinnati,United States
+301-474,University of Duisburg-Essen,Germany
+301-915,University of Dundee,United Kingdom
+301-720,University of East Anglia,United Kingdom
+301-624,University of Florence,Italy
+301-469,University of Genoa,Italy
+301-045,University of Granada,Country_ES
+301-004,University of Hawaii at Manoa,United States
+301-334,University of Iowa,United States
+301-157,University of Kansas,United States
+301-786,University of Kentucky,United States
+301-705,University of Leicester,United Kingdom
+301-711,University of Macau,Country_MO
+301-415,University of Manitoba,Canada
+301-844,University of Marburg,Germany
+301-749,University of Miami,United States
+301-699,University of Milano-Bicocca,Italy
+301-482,University of Nebraska, Lincoln,United States
+301-608,University of Notre Dame,United States
+301-869,University of Potsdam,Germany
+301-359,University of Shanghai for Science and Technology,China
+301-925,University of Southern Denmark,Country_DK
+301-933,University of St Andrews,United Kingdom
+301-967,University of Stuttgart,Germany
+301-362,University of Tasmania,Australia
+301-824,University of the Basque Country,Country_ES
+301-062,University of Trento,Italy
+301-895,University of Ulm,Germany
+301-798,University of Victoria,Canada
+301-961,University of Wollongong,Australia
+301-086,Virginia Commonwealth University,United States
+301-164,Vrije Universiteit Brussel,Country_BE
+301-056,Western Sydney University,Australia
+301-733,Western University,Canada
+301-067,Westlake University,China
+301-232,Xidian University,China
+301-602,Yangzhou University,China
+301-116,Yunnan University,China
+301-745,Zhejiang University of Technology,China
+401-797,Aalto University,Country_FI
+401-478,Anhui Medical University,China
+401-101,Cairo University,Country_EG
+401-595,Catholic University of the Sacred Heart,Italy
+401-957,China Medical University (Taichung),Country_TW
+401-085,China University of Geosciences Beijing,China
+401-085,China University of Mining and Technology,China
+401-793,CUNY Graduate School and University Center,United States
+401-459,Donghua University,China
+401-231,Flinders University,Australia
+401-096,Fujian Agriculture and Forestry University,China
+401-535,Georgetown University,United States
+401-379,Guangzhou University,China
+401-829,Guizhou University,China
+401-530,Hainan University,China
+401-873,Hannover Medical School,Germany
+401-144,Hefei University of Technology,China
+401-755,Hiroshima University,Japan
+401-100,Hohai University,China
+401-010,Indiana University, Indianapolis,United States
+401-989,Iowa State University,United States
+401-656,James Cook University,Australia
+401-785,King Khalid University,Country_SA
+401-061,Kyungpook National University,Country_KR
+401-087,Leibniz University Hannover,Germany
+401-626,Louisiana State University, Baton Rouge,United States
+401-526,Macau University of Science and Technology,Country_MO
+401-244,Masaryk University,Country_CZ
+401-684,Medical University of Graz,Country_AT
+401-684,Medical University of Innsbruck,Country_AT
+401-347,Nanjing Normal University,China
+401-756,Nanjing University of Chinese Medicine,China
+401-593,National Cheng Kung University,Country_TW
+401-015,National Tsing Hua University,Country_TW
+401-794,National University of Defense Technology,China
+401-494,National Yang Ming Chiao Tung University,Country_TW
+401-790,Ningbo University,China
+401-908,Northwest University,China
+401-591,Okinawa Institute of Science and Technology Graduate University,Japan
+401-031,Osaka Metropolitan University,Japan
+401-839,Polytechnic University of Valencia,Country_ES
+401-205,Pusan National University,Country_KR
+401-576,Saarland University,Germany
+401-106,Sao Paulo State University,Country_BR
+401-324,Sejong University,Country_KR
+401-701,Simon Fraser University,Canada
+401-829,South China Normal University,China
+401-099,Southwest University,China
+401-904,St Petersburg University,Country_RU
+401-311,Stellenbosch University,Country_ZA
+401-864,Swedish University of Agricultural Sciences,Country_SE
+401-877,Technical University Darmstadt,Germany
+401-240,Tehran University of Medical Sciences,Country_IR
+401-782,Temple University,United States
+401-663,The Chinese University of Hong Kong, Shenzhen,China
+401-084,The University of Newcastle, Australia,Australia
+401-983,The University of Reading,United Kingdom
+401-116,The University of Texas at Dallas,United States
+401-095,Toulouse Capitole University,France
+401-024,Umea University,Country_SE
+401-802,University of Aveiro,Country_PT
+401-932,University of Bari,Italy
+401-536,University of Bath,United Kingdom
+401-697,University of Bayreuth,Germany
+401-945,University of Belgrade,Country_RS
+401-039,University of Campinas,Country_BR
+401-795,University of Canterbury,Country_NZ
+401-105,University of Central Florida,United States
+401-898,University of Côte d'Azur,France
+401-146,University of Essex,United Kingdom
+401-283,University of Illinois Chicago,United States
+401-356,University of Jena,Germany
+401-257,University of Kent,United Kingdom
+401-165,University of Konstanz,Germany
+401-080,University of Liege,Country_BE
+401-606,University of Lille,France
+401-137,University of Maryland, Baltimore,United States
+401-632,University of Oklahoma, Norman,United States
+401-004,University of Otago,Country_NZ
+401-902,University of Oulu,Country_FI
+401-319,University of Pavia,Italy
+401-529,University of Regensburg,Germany
+401-531,University of Rennes,France
+401-994,University of Rome Tor Vergata,Italy
+401-641,University of Saskatchewan,Canada
+401-248,University of Seville,Country_ES
+401-574,University of South Australia,Australia
+401-574,University of South Carolina, Columbia,United States
+401-574,University of South Florida,United States
+401-502,University of Surrey,United Kingdom
+401-562,University of Szeged,Country_HU
+401-453,University of Tehran,Country_IR
+401-357,University of Turku,Country_FI
+401-962,University of Vermont,United States
+401-711,University of Verona,Italy
+401-702,University of Warsaw,Country_PL
+401-238,Victoria University of Wellington,Country_NZ
+401-096,Vita-Salute San Raffaele University,Italy
+401-114,Washington State University,United States
+401-469,Wenzhou Medical University,China
+501-207,Alexandria University,Country_EG
+501-588,Aristotle University of Thessaloniki,Country_GR
+501-810,Auburn University,United States
+501-359,Bangor University,United Kingdom
+501-595,Bar-Ilan University,Country_IL
+501-478,Beijing Jiaotong University,China
+501-956,Boston College,United States
+501-277,Carleton University,Canada
+501-033,Central China Normal University,China
+501-573,Changzhou University,China
+501-085,China University of Petroleum, Beijing,China
+501-915,Chongqing Medical University,China
+501-865,Drexel University,United States
+501-140,Eotvos Lorand University,Country_HU
+501-397,Federal University of Minas Gerais,Country_BR
+501-397,Federal University of Rio de Janeiro,Country_BR
+501-579,Fujian Normal University,China
+501-279,Hangzhou Dianzi University,China
+501-410,Hangzhou Normal University,China
+501-099,Harbin Engineering University,China
+501-538,Hebei University,China
+501-954,Hebei University of Technology,China
+501-959,Indian Institute of Science,Country_IN
+501-546,Istanbul University,Country_TR
+501-391,Jagiellonian University,Country_PL
+501-325,Jiangsu University of Science and Technology,China
+501-283,King Abdulaziz University,Country_SA
+501-483,Kobe University,Japan
+501-190,Medical College of Wisconsin,United States
+501-684,Medical University of South Carolina,United States
+501-960,Murdoch University,Australia
+501-383,Nanjing Forestry University,China
+501-967,National and Kapodistrian University of Athens,Country_GR
+501-653,National Polytechnic Institute,Country_MX
+501-035,National Sun Yat-Sen University,Country_TW
+501-489,North China Electric Power University,China
+501-775,Northeast Agricultural University,China
+501-109,Northeast Normal University,China
+501-605,Northern Arizona University,United States
+501-035,Okayama University,Japan
+501-870,Pontifical Catholic University of Chile,Country_CL
+501-684,Qatar University,Country_QA
+501-680,Saint Louis University (USA),United States
+501-848,San Diego State University,United States
+501-837,Shaanxi Normal University,China
+501-411,Shandong Agricultural University,China
+501-107,Shandong University of Science and Technology,China
+501-589,Shanxi University,China
+501-597,Tampere University,Country_FI
+501-280,Texas Tech University,United States
+501-201,The City College of New York,United States
+501-084,The University of New Mexico, Albuquerque,United States
+501-116,The University of Texas Health Science Center at San Antonio,United States
+501-116,The University of Texas Medical Branch at Galveston,United States
+501-147,Tianjin Medical University,China
+501-296,Tulane University,United States
+501-874,UiT The Arctic University of Norway,Country_NO
+501-835,University at Buffalo, the State University of New York,United States
+501-737,University of Arkansas at Fayetteville,United States
+501-891,University of Bremen,Germany
+501-461,University of California, Merced,United States
+501-291,University of Campania Luigi Vanvitelli,Italy
+501-671,University of Catania,Italy
+501-783,University of Chile,Country_CL
+501-895,University of Coimbra,Country_PT
+501-932,University of Fribourg,Switzerland
+501-308,University of Galway,Country_IE
+501-413,University of Giessen,Germany
+501-650,University of Guelph,Canada
+501-480,University of Halle-Wittenberg,Germany
+501-724,University of Johannesburg,Country_ZA
+501-947,University of Ljubljana,Country_SI
+501-584,University of Luebeck,Germany
+501-319,University of Maine,United States
+501-136,University of Minho,Country_PT
+501-254,University of Nantes,France
+501-419,University of Navarra,Country_ES
+501-499,University of Nevada, Las Vegas,United States
+501-499,University of Nevada, Reno,United States
+501-756,University of Oregon,United States
+501-434,University of Parma,Italy
+501-188,University of Perugia,Italy
+501-679,University of Pretoria,Country_ZA
+501-242,University of Rostock,Germany
+501-756,University of Salamanca,Country_ES
+501-224,University of Santiago Compostela,Country_ES
+501-934,University of Tartu,Country_EE
+501-397,University of Twente,Netherlands
+501-052,University of Ulsan,Country_KR
+501-322,University of Zaragoza,Country_ES
+501-591,Utah State University,United States
+501-014,Vellore Institute of Technology,Country_IN
+501-469,Vilnius University,Country_LT
+501-283,Wake Forest University,United States
+501-464,Wenzhou University,China
+501-861,West Virginia University,United States
+501-849,Xi'an University of Technology,China
+501-753,Yanshan University,China
+501-488,Yeungnam University,Country_KR
+501-885,Zhejiang Sci-Tech University,China
+601-470,Addis Ababa University,Country_ET
+601-680,Ain Shams University,Country_EG
+601-972,Air Force Medical University,China
+601-753,Australian Catholic University,Australia
+601-683,Baylor University,United States
+601-145,Beijing Forestry University,China
+601-554,Beijing Technology and Business University,China
+601-840,Binghamton University,United States
+601-238,Brescia University,Italy
+601-100,Brunel University London,United Kingdom
+601-885,Chang Gung University,Country_TW
+601-829,Chang'an University,China
+601-404,Chengdu University of Technology,China
+601-790,Chiba University,Japan
+601-957,China Medical University (Shenyang),China
+601-085,China University of Mining and Technology-Beijing,China
+601-769,Chonnam National University,Country_KR
+601-592,Chulalongkorn University,Country_TH
+601-514,Clemson University,United States
+601-689,Colorado School of Mines,United States
+601-124,Concordia University,Canada
+601-901,Dalian Maritime University,China
+601-460,Ewha Womans University,Country_KR
+601-397,Federal University of Rio Grande do Sul,Country_BR
+601-397,Federal University of Santa Catarina,Country_BR
+601-949,Florida International University,United States
+601-011,Georgia State University,United States
+601-395,Graz University of Technology,Country_AT
+601-959,Henan University of Science and Technology,China
+601-586,Homi Bhabha National Institute,Country_IN
+601-940,Hong Kong Baptist University,Country_HK
+601-347,Hunan Normal University,China
+601-959,Indian Institute of Technology Delhi,Country_IN
+601-959,Indian Institute of Technology Kanpur,Country_IN
+601-026,INHA University,Country_KR
+601-675,Kansas State University,United States
+601-323,Khalifa University,Country_AE
+601-746,Lanzhou University of Technology,China
+601-737,Lebanese American University,Country_LB
+601-668,Liverpool John Moores University,United Kingdom
+601-238,Mahidol University,Country_TH
+601-164,Manchester Metropolitan University,United Kingdom
+601-047,Mansoura University,Country_EG
+601-240,Marche Polytechnic University,Italy
+601-466,Mississippi State University,United States
+601-378,Moscow Institute of Physics and Technology,Country_RU
+601-492,Nantong University,China
+601-515,Naval Medical University,China
+601-154,Northeast Forestry University,China
+601-839,Polytechnic University of Madrid,Country_ES
+601-839,Polytechnic University of Turin,Italy
+601-995,Qilu University of Technology,China
+601-635,Qingdao University of Science & Technology,China
+601-610,Rensselaer Polytechnic Institute,United States
+601-469,Rush University,United States
+601-932,Saveetha Institute of Medical and Technical Sciences (Deemed to be University),Country_IN
+601-473,Semmelweis University,Country_HU
+601-295,Shandong First Medical University,China
+601-951,Shanghai Normal University,China
+601-306,Shanghai Ocean University,China
+601-632,Southwest Petroleum University,China
+601-220,Taif University,Country_SA
+601-203,Taiyuan University of Technology,China
+601-877,Technical University of Braunschweig,Germany
+601-877,Technical University of Dortmund,Germany
+601-053,Thomas Jefferson University,United States
+601-679,Università Della Svizzera Italiana,Switzerland
+601-690,University of Alicante,Country_ES
+601-697,University of Augsburg,Germany
+601-157,University of Burgundy Europe,France
+601-981,University of Delhi,Country_IN
+601-718,University of Eastern Finland,Country_FI
+601-823,University of Ferrara,Italy
+601-934,University of Graz,Country_AT
+601-118,University of Haifa,Country_IL
+601-196,University of Health Sciences Turkey,Country_TR
+601-400,University of Iceland,Country_IS
+601-296,University of KwaZulu-Natal,Country_ZA
+601-094,University of Louisville,United States
+601-694,University of Luxembourg,Country_LU
+601-717,University of Malaya,Country_MY
+601-430,University of Murcia,Country_ES
+601-426,University of Natural Resources and Life Sciences, Vienna,Country_AT
+601-185,University of New Hampshire,United States
+601-413,University of North Texas,United States
+601-594,University of Oldenburg,Germany
+601-710,University of Oviedo,Country_ES
+601-299,University of Salerno,Italy
+601-273,University of Siena,Italy
+601-925,University of Southern Queensland,Australia
+601-186,University of Toledo,United States
+601-644,University of Trieste,Italy
+601-595,University of Wyoming,United States
+601-429,University of Zagreb,Country_HR
+601-975,University Rovira i Virgili,Country_ES
+601-044,Wayne State University,United States
+601-248,Xinjiang University,China
+601-136,York University,Canada
+601-099,Zhejiang Chinese Medical University,China
+601-389,Zhejiang Normal University,China
+701-441,Al-Azhar University,Country_EG
+701-715,Anhui Agricultural University,China
+701-979,Ankara University,Country_TR
+701-030,Army Medical University,China
+701-806,Beijing University of Posts and Telecommunications,China
+701-181,Bielefeld University,Germany
+701-612,Brigham Young University,United States
+701-576,China Pharmaceutical University,China
+701-709,Chongqing University of Posts and Telecommunications,China
+701-391,Chung-Ang University,Country_KR
+701-551,Chungbuk National University,Country_KR
+701-122,Chungnam National University,Country_KR
+701-567,City St George’s, University of London,United Kingdom
+701-970,COMSATS University Islamabad,Country_PK
+701-068,Copenhagen Business School,Country_DK
+701-397,Federal University of Parana,Country_BR
+701-397,Federal University of Santa Maria,Country_BR
+701-397,Federal University of Sao Paulo,Country_BR
+701-058,Gachon University,Country_KR
+701-043,Guangxi Normal University,China
+701-259,Hacettepe University,Country_TR
+701-851,Hallym University,Country_KR
+701-623,Harbin Medical University,China
+701-008,Hebei Medical University,China
+701-380,Henan Normal University,China
+701-280,Heriot-Watt University,United Kingdom
+701-531,Hubei University,China
+701-371,Humanitas University,Italy
+701-959,Indian Institute of Technology Madras,Country_IN
+701-986,Istanbul University Cerrahpasa,Country_TR
+701-281,Jeonbuk National University,Country_KR
+701-472,Jiangxi Normal University,China
+701-862,Kangwon National University,Country_KR
+701-233,Kent State University,United States
+701-535,Kindai University,Japan
+701-265,King Fahd University of Petroleum and Minerals,Country_SA
+701-100,Kitasato University,Japan
+701-218,Koc University,Country_TR
+701-149,Lulea University of Technology,Country_SE
+701-692,Memorial University of Newfoundland,Canada
+701-542,National Taiwan University of Science and Technology,Country_TW
+701-794,National University of Malaysia,Country_MY
+701-646,Northumbria University,United Kingdom
+701-945,North-West University,Country_ZA
+701-958,Norwegian University of Life Sciences,Country_NO
+701-549,NOVA University Lisbon,Country_PT
+701-872,Oklahoma State University,United States
+701-913,Palacký University Olomouc,Country_CZ
+701-319,Paris-East Créteil University,France
+701-839,Polytechnic University of Catalonia,Country_ES
+701-627,Prince Sattam Bin Abdulaziz University,Country_SA
+701-898,Scuola Normale Superiore - Pisa,Italy
+701-166,Shantou University,China
+701-454,Shanxi Medical University,China
+701-341,Shinshu University,Japan
+701-718,Southern Methodist University,United States
+701-844,Southwestern University of Finance and Economics,China
+701-816,SRM Institute of Science & Technology,Country_IN
+701-284,Stockholm School of Economics,Country_SE
+701-106,SUNY Downstate Health Sciences University,United States
+701-402,Suzhou University of Science and Technology,China
+701-276,Swansea University,United Kingdom
+701-160,Tarbiat Modares University,Country_IR
+701-529,The University of Alabama, Tuscaloosa,United States
+701-116,The University of Texas at Arlington,United States
+701-116,The University of Texas at San Antonio,United States
+701-696,The University of Waikato,Country_NZ
+701-601,Tiangong University,China
+701-013,Tianjin University of Technology,China
+701-986,Tilburg University,Netherlands
+701-438,United Arab Emirates University,Country_AE
+701-772,University at Albany,United States
+701-878,University of Alcala,Country_ES
+701-330,University of Brasília,Country_BR
+701-163,University of Calabria,Italy
+701-976,University of Cantabria,Country_ES
+701-482,University of Clermont Auvergne,France
+701-550,University of Extremadura,Country_ES
+701-588,University of Greenwich,United Kingdom
+701-049,University of Jinan,China
+701-139,University of Jyvaskyla,Country_FI
+701-808,University of La Laguna,Country_ES
+701-248,University of Limerick,Country_IE
+701-039,University of Mannheim,Germany
+701-137,University of Maryland, Baltimore County,United States
+701-128,University of Palermo(Italy),Italy
+701-933,University of Plymouth,United Kingdom
+701-448,University of Quebec Montreal,Canada
+701-450,University of Science, Malaysia,Country_MY
+701-270,University of Sherbrooke,Canada
+701-574,University of South China,China
+701-384,University of Stirling,United Kingdom
+701-925,University of Strathclyde,United Kingdom
+701-824,University of the Balearic Islands,Country_ES
+701-894,University of the Punjab,Country_PK
+701-223,Waseda University,Japan
+701-582,Wuhan Institute of Technology,China
+701-068,Wuhan University of Science and Technology,China
+701-769,Xiangtan University,China
+701-780,Xuzhou Medical University,China
+801-212,AGH University of Krakow,Country_PL
+801-196,Anhui Normal University,China
+801-104,Augusta University,United States
+801-203,Birkbeck, University of London,United Kingdom
+801-052,Brock University,Canada
+801-789,Budapest University of Technology and Economics,Country_HU
+801-087,Capital Normal University,China
+801-481,Central University of Finance and Economics,China
+801-621,Changsha University of Science & Technology,China
+801-042,Chengdu University,China
+801-382,Chiang Mai University,Country_TH
+801-121,Cranfield University,United Kingdom
+801-802,Czech Technical University in Prague,Country_CZ
+801-727,Czech University of Life Sciences Prague,Country_CZ
+801-974,Dongguan University of Technology,China
+801-714,Edith Cowan University,Australia
+801-000,Ege University,Country_TR
+801-397,Federal University of Sao Carlos,Country_BR
+801-397,Federal University of Vicosa,Country_BR
+801-754,Guangxi Medical University,China
+801-379,Guangzhou University of Chinese Medicine,China
+801-010,Heilongjiang University,China
+801-842,HSE University,Country_RU
+801-959,Indian Institute of Technology Bombay,Country_IN
+801-959,Indian Institute of Technology Kharagpur,Country_IN
+801-959,Indian Institute of Technology Roorkee,Country_IN
+801-047,INSA Toulouse,France
+801-593,Istanbul Technical University,Country_TR
+801-477,Johannes Kepler University Linz,Country_AT
+801-520,Kanazawa University,Japan
+801-417,King Faisal University,Country_SA
+801-882,Konkuk University,Country_KR
+801-974,Loughborough University,United Kingdom
+801-232,Manipal Academy of Higher Education,Country_IN
+801-995,Massey University,Country_NZ
+801-448,Maynooth University,Country_IE
+801-242,Montana State University, Bozeman,United States
+801-137,Nagasaki University,Japan
+801-303,National Central University,Country_TW
+801-175,National Chung Hsing University,Country_TW
+801-794,National University of Colombia,Country_CO
+801-303,New Jersey Institute of Technology,United States
+801-498,New York University Abu Dhabi,Country_AE
+801-126,North China University of Water Resources and Electric Power,China
+801-377,North University of China,China
+801-145,Nottingham Trent University,United Kingdom
+801-938,Ohio University,United States
+801-529,Old Dominion University,United States
+801-467,Politecnico di Bari,Italy
+801-801,Qassim University,Country_SA
+801-327,Qingdao Agricultural University,China
+801-471,Royal Holloway, University of London,United Kingdom
+801-865,Shahid Beheshti University of Medical Sciences,Country_IR
+801-859,Shandong Normal University,China
+801-316,Shanghai University of Finance and Economics,China
+801-316,Shanghai University of Traditional Chinese Medicine,China
+801-077,Sharif University of Technology,Country_IR
+801-810,Shenyang Pharmaceutical University,China
+801-207,Sichuan Agricultural University,China
+801-604,Skolkovo Institute of Science and Technology,Country_RU
+801-230,Syracuse University,United States
+801-567,Taipei Medical University,Country_TW
+801-744,The Catholic University of Korea,Country_KR
+801-095,The Education University of Hong Kong,Country_HK
+801-192,The Graduate University for Advanced Studies, SOKENDAI,Japan
+801-321,The Royal Veterinary College,United Kingdom
+801-116,The University of Texas at El Paso,United States
+801-395,Tokyo University of Science,Japan
+801-653,Ulster University,United Kingdom
+801-713,University of Antioquia,Country_CO
+801-626,University of Cagliari,Italy
+801-076,University of Crete,Country_GR
+801-963,University of Cyprus,Country_CY
+801-059,University of Hertfordshire,United Kingdom
+801-938,University of Hull,United Kingdom
+801-744,University of Jaen,Country_ES
+801-509,University of Kassel,Germany
+801-354,University of Lleida,Country_ES
+801-181,University of Magdeburg,Germany
+801-887,University of Malaga,Country_ES
+801-221,University of Messina,Italy
+801-824,University of Missouri, Kansas City,United States
+801-569,University of Modena and Reggio Emilia,Italy
+801-482,University of Nebraska Medical Center,United States
+801-632,University of Oklahoma Health Sciences Center,United States
+801-794,University of Poitiers,France
+801-330,University of Rhode Island,United States
+801-574,University of South Africa,Country_ZA
+801-655,University of the Sunshine Coast,Australia
+801-779,University of Versailles Saint-Quentin-en-Yvelines,France
+801-183,University of Vigo,Country_ES
+801-180,University of Wisconsin, Milwaukee,United States
+801-272,University Putra Malaysia,Country_MY
+801-134,University Savoie Mont Blanc,France
+801-905,Ural Federal University,Country_RU
+801-115,Xi'an Jiaotong-Liverpool University,China
+801-849,Xi'an University of Architecture and Technology,China
+801-076,Yangtze University,China
+801-120,Yantai University,China
+801-132,Zhejiang A&F University,China
+901-090,Adam Mickiewicz University,Country_PL
+901-579,Ajou University,Country_KR
+901-601,Al-Imam Mohammad Ibn Saud Islamic University,Country_SA
+901-325,Amherst College,United States
+901-544,Anhui University of Science & Technology,China
+901-621,Ataturk University,Country_TR
+901-105,Auckland University of Technology,Country_NZ
+901-304,Banaras Hindu University,Country_IN
+901-003,Carlos III University of Madrid,Country_ES
+901-404,Chengdu University of Traditional Chinese Medicine,China
+901-990,China Jiliang University,China
+901-914,Comenius University in Bratislava,Country_SK
+901-933,Dalian Medical University,China
+901-458,Dongguk University,Country_KR
+901-397,Federal University of Bahia,Country_BR
+901-397,Federal University of Ceara,Country_BR
+901-397,Federal University of Pelotas,Country_BR
+901-397,Federal University of Pernambuco,Country_BR
+901-542,Free University of Bozen-Bolzano,Italy
+901-228,Gansu Agricultural University,China
+901-374,Gazi University,Country_TR
+901-038,Gyeongsang National University,Country_KR
+901-803,Hainan Medical University,China
+901-782,Hamburg University of Technology,Germany
+901-426,Hangzhou City University,China
+901-949,Hangzhou Medical College,China
+901-136,Hassan II University of Casablanca,Country_MA
+901-992,Hebei Normal University,China
+901-670,Henan Agricultural University,China
+901-571,Henan Polytechnic University,China
+901-271,Huaqiao University,China
+901-152,Hunan Agricultural University,China
+901-331,Iran University of Medical Sciences,Country_IR
+901-000,Jaume I University,Country_ES
+901-459,Jazan University,Country_SA
+901-745,Jilin Agricultural University,China
+901-685,Juntendo University,Japan
+901-618,Kaohsiung Medical University,Country_TW
+901-389,Kumamoto University,Japan
+901-333,Kunming Medical University,China
+901-713,Lehigh University,United States
+901-768,Liaocheng University,China
+901-893,Lingnan University,Country_HK
+901-838,Linnaeus University,Country_SE
+901-062,Loyola University Chicago,United States
+901-808,Marmara University,Country_TR
+901-898,Michigan Technological University,United States
+901-756,Nanjing University of Finance & Economics,China
+901-232,Nicolaus Copernicus University,Country_PL
+901-703,Ningxia University,China
+901-566,North Dakota State University,United States
+901-096,Novosibirsk State University,Country_RU
+901-918,Orebro University,Country_SE
+901-772,Pukyong National University,Country_KR
+901-489,RCSI University of Medicine and Health Sciences,Country_IE
+901-209,Rio de Janeiro State University,Country_BR
+901-996,Roma Tre University,Italy
+901-397,Rutgers University, Newark,United States
+901-284,Shaanxi University of Science & Technology,China
+901-107,Shandong University of Technology,China
+901-791,Shihezi University,China
+901-741,Southwest Medical University,China
+901-099,Southwest University of Science and Technology,China
+901-203,Taiyuan University of Science and Technology,China
+901-660,The Islamia University of Bahawalpur,Country_PK
+901-717,The Open University,United Kingdom
+901-220,Tokushima University,Japan
+901-395,Tokyo University of Agriculture and Technology,Japan
+901-085,Umm Al-Qura University,Country_SA
+901-631,University of Alaska Fairbanks,United States
+901-737,University of Arkansas for Medical Sciences,United States
+901-210,University of Beira Interior,Country_PT
+901-651,University of Cadiz,Country_ES
+901-776,University of Calcutta,Country_IN
+901-126,University of Castilla-La Mancha,Country_ES
+901-105,University of Central Lancashire,United Kingdom
+901-588,University of Chieti-Pescara,Italy
+901-406,University of Cordoba,Country_ES
+901-718,University of Eastern Piedmont,Italy
+901-487,University of Ghana,Country_GH
+901-961,University of Girona,Country_ES
+901-114,University of Hohenheim,Germany
+901-940,University of International Business and Economics,China
+901-008,University of Lahore,Country_PK
+901-357,University of Las Palmas de Gran Canaria,Country_ES
+901-290,University of New Brunswick,Canada
+901-736,University of Patras,Country_GR
+901-674,University of Picardie Jules Verne,France
+901-459,University of Portsmouth,United Kingdom
+901-742,University of Regina,Canada
+901-511,University of Sharjah,Country_AE
+901-392,University of Tennessee Health Science Center,United States
+901-567,University of Windsor,Canada
+901-176,University of Wuppertal,Germany
+901-780,Warsaw University of Technology,Country_PL
+901-491,Wroclaw University of Science and Technology,Country_PL
+901-849,Xi'an University of Science and Technology,China
+901-505,Yokohama City University,Japan
+901-770,Zagazig University,Country_EG
+901-093,Zhongnan University of Economics and Law,China
